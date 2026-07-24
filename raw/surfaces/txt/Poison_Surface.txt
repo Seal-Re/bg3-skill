@@ -1,0 +1,206 @@
+===== Poison_Surface.html =====
+
+
+Simple Toxin - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Simple Toxin (surface)
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+(Redirected from Poison Surface)
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+Simple Toxin is a surface that deals light poison damage.
+
+Description
+
+Applies Poisoned.
+
+Properties
+
+ Type: Surface
+ Dippable
+
+ Condition: Simple Toxin 
+
+ Simple Toxin
+ Duration: 1 turn
+
+ CON Save (DC 11)
+
+- Affected entity takes 1d4⁠⁠Poison damage at the end of its next turn.
+
+ 
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Basic Poison
+
+Spells and actions:
+
+- Chromatic Orb: Poison
+
+- Sphere of Elemental Balance: Poison
+
+- Venomous Discharge (Addled Frog)
+
+- Venomous Discharge (Phase Spider)
+
+- Venomous Discharge (Phase Spider Matriarch)
+
+Notes
+
+- Phase Spiders leave behind simple toxin surfaces when struck, instead of blood. It is also spread through their Venomous Discharge attack.
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Simple_Toxin_(surface)&oldid=371599"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

@@ -1,0 +1,1546 @@
+[
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "BattleaxeBattleaxe",
+  "link": "https://bg3.wiki/wiki/Battleaxe",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "Pactbound BattleaxePactbound Battleaxe",
+  "link": "https://bg3.wiki/wiki/Pactbound_Battleaxe",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "Battleaxe +1Battleaxe +1",
+  "link": "https://bg3.wiki/wiki/Battleaxe_%2B1",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "Ceremonial BattleaxeCeremonial Battleaxe",
+  "link": "https://bg3.wiki/wiki/Ceremonial_Battleaxe",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "WitchbreakerWitchbreaker",
+  "link": "https://bg3.wiki/wiki/Witchbreaker",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "Thermodynamo AxeThermodynamo Axe",
+  "link": "https://bg3.wiki/wiki/Thermodynamo_Axe",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Battleaxes",
+  "name": "Vicious BattleaxeVicious Battleaxe",
+  "link": "https://bg3.wiki/wiki/Vicious_Battleaxe",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Artificial LeechArtificial Leech",
+  "link": "https://bg3.wiki/wiki/Artificial_Leech",
+  "enchantment": "",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Needle of the Outlaw RogueNeedle of the Outlaw Rogue",
+  "link": "https://bg3.wiki/wiki/Needle_of_the_Outlaw_Rogue",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Polished DaggerPolished Dagger",
+  "link": "https://bg3.wiki/wiki/Polished_Dagger",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Rusted BladeRusted Blade",
+  "link": "https://bg3.wiki/wiki/Rusted_Blade",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Rusty DaggerRusty Dagger",
+  "link": "https://bg3.wiki/wiki/Rusty_Dagger",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "ScalpelScalpel",
+  "link": "https://bg3.wiki/wiki/Scalpel",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "SyringeSyringe",
+  "link": "https://bg3.wiki/wiki/Syringe",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "DaggerDagger",
+  "link": "https://bg3.wiki/wiki/Dagger",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Poo-ScraperPoo-Scraper",
+  "link": "https://bg3.wiki/wiki/Poo-Scraper",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Artificial Leech (+1)Artificial Leech (+1)",
+  "link": "https://bg3.wiki/wiki/Artificial_Leech_(%2B1)",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Assassin's TouchAssassin's Touch",
+  "link": "https://bg3.wiki/wiki/Assassin%27s_Touch",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Dagger +1Dagger +1",
+  "link": "https://bg3.wiki/wiki/Dagger_%2B1",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Hunter's DaggerHunter's Dagger",
+  "link": "https://bg3.wiki/wiki/Hunter%27s_Dagger",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Murderous CutMurderous Cut",
+  "link": "https://bg3.wiki/wiki/Murderous_Cut",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Ritual DaggerRitual Dagger",
+  "link": "https://bg3.wiki/wiki/Ritual_Dagger",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Ritual Dagger of SharRitual Dagger of Shar",
+  "link": "https://bg3.wiki/wiki/Ritual_Dagger_of_Shar",
+  "enchantment": "+1",
+  "damage": "1d4 + 11d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Syringe (+1)Syringe (+1)",
+  "link": "https://bg3.wiki/wiki/Syringe_(%2B1)",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "WorgfangWorgfang",
+  "link": "https://bg3.wiki/wiki/Worgfang",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Cold SnapCold Snap",
+  "link": "https://bg3.wiki/wiki/Cold_Snap",
+  "enchantment": "",
+  "damage": "1d41d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Dagger +2Dagger +2",
+  "link": "https://bg3.wiki/wiki/Dagger_%2B2",
+  "enchantment": "+2",
+  "damage": "1d4 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Dolor AmarusDolor Amarus",
+  "link": "https://bg3.wiki/wiki/Dolor_Amarus",
+  "enchantment": "+2",
+  "damage": "1d4 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Dread Iron DaggerDread Iron Dagger",
+  "link": "https://bg3.wiki/wiki/Dread_Iron_Dagger",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Gleamdance DaggerGleamdance Dagger",
+  "link": "https://bg3.wiki/wiki/Gleamdance_Dagger",
+  "enchantment": "+2",
+  "damage": "1d4 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "Sussur DaggerSussur Dagger",
+  "link": "https://bg3.wiki/wiki/Sussur_Dagger",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "RhapsodyRhapsody",
+  "link": "https://bg3.wiki/wiki/Rhapsody",
+  "enchantment": "+1",
+  "damage": "1d4 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "StillmakerStillmaker",
+  "link": "https://bg3.wiki/wiki/Stillmaker",
+  "enchantment": "+2",
+  "damage": "1d4 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Daggers",
+  "name": "BloodthirstBloodthirst",
+  "link": "https://bg3.wiki/wiki/Bloodthirst",
+  "enchantment": "+2",
+  "damage": "1d4 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "GlaiveGlaive",
+  "link": "https://bg3.wiki/wiki/Glaive",
+  "enchantment": "",
+  "damage": "1d10"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Pactbound GlaivePactbound Glaive",
+  "link": "https://bg3.wiki/wiki/Pactbound_Glaive",
+  "enchantment": "",
+  "damage": "1d10"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Rusty GlaiveRusty Glaive",
+  "link": "https://bg3.wiki/wiki/Rusty_Glaive",
+  "enchantment": "",
+  "damage": "1d10"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Scythe of MyrkulScythe of Myrkul",
+  "link": "https://bg3.wiki/wiki/Scythe_of_Myrkul",
+  "enchantment": "",
+  "damage": "2d12"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Glaive +1Glaive +1",
+  "link": "https://bg3.wiki/wiki/Glaive_%2B1",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Drakethroat GlaiveDrakethroat Glaive",
+  "link": "https://bg3.wiki/wiki/Drakethroat_Glaive",
+  "enchantment": "+2",
+  "damage": "1d10 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Monster Slayer GlaiveMonster Slayer Glaive",
+  "link": "https://bg3.wiki/wiki/Monster_Slayer_Glaive",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "Moonlight GlaiveMoonlight Glaive",
+  "link": "https://bg3.wiki/wiki/Moonlight_Glaive",
+  "enchantment": "+2",
+  "damage": "1d10 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "SorrowSorrow",
+  "link": "https://bg3.wiki/wiki/Sorrow",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Glaives",
+  "name": "The Dancing BreezeThe Dancing Breeze",
+  "link": "https://bg3.wiki/wiki/The_Dancing_Breeze",
+  "enchantment": "+2",
+  "damage": "1d10 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "GreatswordGreatsword",
+  "link": "https://bg3.wiki/wiki/Greatsword",
+  "enchantment": "",
+  "damage": "2d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Greatsword +1 (Common)Greatsword +1 (Common)",
+  "link": "https://bg3.wiki/wiki/Greatsword_%2B1_(Common)",
+  "enchantment": "",
+  "damage": "2d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Pactbound GreatswordPactbound Greatsword",
+  "link": "https://bg3.wiki/wiki/Pactbound_Greatsword",
+  "enchantment": "",
+  "damage": "2d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Reinforced GreatswordReinforced Greatsword",
+  "link": "https://bg3.wiki/wiki/Reinforced_Greatsword",
+  "enchantment": "",
+  "damage": "2d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Rusty GreatswordRusty Greatsword",
+  "link": "https://bg3.wiki/wiki/Rusty_Greatsword",
+  "enchantment": "",
+  "damage": "2d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Watcher GreatswordWatcher Greatsword",
+  "link": "https://bg3.wiki/wiki/Watcher_Greatsword",
+  "enchantment": "",
+  "damage": "3d12"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Everburn BladeEverburn Blade",
+  "link": "https://bg3.wiki/wiki/Everburn_Blade",
+  "enchantment": "",
+  "damage": "2d61d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Githyanki GreatswordGithyanki Greatsword",
+  "link": "https://bg3.wiki/wiki/Githyanki_Greatsword",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Githyanki Greatsword (Psionic)Githyanki Greatsword (Psionic)",
+  "link": "https://bg3.wiki/wiki/Githyanki_Greatsword_(Psionic)",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Greatsword +1Greatsword +1",
+  "link": "https://bg3.wiki/wiki/Greatsword_%2B1",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Svartlebee's WoundseekerSvartlebee's Woundseeker",
+  "link": "https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Sword of JusticeSword of Justice",
+  "link": "https://bg3.wiki/wiki/Sword_of_Justice",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Jorgoral's GreatswordJorgoral's Greatsword",
+  "link": "https://bg3.wiki/wiki/Jorgoral%27s_Greatsword",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Soulbreaker GreatswordSoulbreaker Greatsword",
+  "link": "https://bg3.wiki/wiki/Soulbreaker_Greatsword",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Sussur GreatswordSussur Greatsword",
+  "link": "https://bg3.wiki/wiki/Sussur_Greatsword",
+  "enchantment": "+1",
+  "damage": "2d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Sword of ChaosSword of Chaos",
+  "link": "https://bg3.wiki/wiki/Sword_of_Chaos",
+  "enchantment": "+2",
+  "damage": "2d6 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Balduran's GiantslayerBalduran's Giantslayer",
+  "link": "https://bg3.wiki/wiki/Balduran%27s_Giantslayer",
+  "enchantment": "+3",
+  "damage": "2d6 + 3"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Greatswords",
+  "name": "Silver Sword of the Astral PlaneSilver Sword of the Astral Plane",
+  "link": "https://bg3.wiki/wiki/Silver_Sword_of_the_Astral_Plane",
+  "enchantment": "+3",
+  "damage": "2d6 + 3"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "HalberdHalberd",
+  "link": "https://bg3.wiki/wiki/Halberd",
+  "enchantment": "",
+  "damage": "1d10"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Rusty HalberdRusty Halberd",
+  "link": "https://bg3.wiki/wiki/Rusty_Halberd",
+  "enchantment": "",
+  "damage": "1d10"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Halberd +1Halberd +1",
+  "link": "https://bg3.wiki/wiki/Halberd_%2B1",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Light of CreationLight of Creation",
+  "link": "https://bg3.wiki/wiki/Light_of_Creation",
+  "enchantment": "+1",
+  "damage": "1d10 + 11d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Merregon HalberdMerregon Halberd",
+  "link": "https://bg3.wiki/wiki/Merregon_Halberd",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "The SkinbursterThe Skinburster",
+  "link": "https://bg3.wiki/wiki/The_Skinburster",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Harmonium HalberdHarmonium Halberd",
+  "link": "https://bg3.wiki/wiki/Harmonium_Halberd",
+  "enchantment": "+1",
+  "damage": "1d10 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Hellbeard HalberdHellbeard Halberd",
+  "link": "https://bg3.wiki/wiki/Hellbeard_Halberd",
+  "enchantment": "+2",
+  "damage": "1d10 + 26"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Halberds",
+  "name": "Halberd of VigilanceHalberd of Vigilance",
+  "link": "https://bg3.wiki/wiki/Halberd_of_Vigilance",
+  "enchantment": "+2",
+  "damage": "1d10 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "LongbowLongbow",
+  "link": "https://bg3.wiki/wiki/Longbow",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "Sahuagin LongbowSahuagin Longbow",
+  "link": "https://bg3.wiki/wiki/Sahuagin_Longbow",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "Hellrider LongbowHellrider Longbow",
+  "link": "https://bg3.wiki/wiki/Hellrider_Longbow",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "Longbow +1Longbow +1",
+  "link": "https://bg3.wiki/wiki/Longbow_%2B1",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "SpellthiefSpellthief",
+  "link": "https://bg3.wiki/wiki/Spellthief",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "Longbow +2Longbow +2",
+  "link": "https://bg3.wiki/wiki/Longbow_%2B2",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "The JoltshooterThe Joltshooter",
+  "link": "https://bg3.wiki/wiki/The_Joltshooter",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "Titanstring BowTitanstring Bow",
+  "link": "https://bg3.wiki/wiki/Titanstring_Bow",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "The Dead ShotThe Dead Shot",
+  "link": "https://bg3.wiki/wiki/The_Dead_Shot",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longbows",
+  "name": "Gontr MaelGontr Mael",
+  "link": "https://bg3.wiki/wiki/Gontr_Mael",
+  "enchantment": "+3",
+  "damage": "1d8 + 3"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Battle-Worn BladeBattle-Worn Blade",
+  "link": "https://bg3.wiki/wiki/Battle-Worn_Blade",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "BonesawBonesaw",
+  "link": "https://bg3.wiki/wiki/Bonesaw",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Githyanki LongswordGithyanki Longsword",
+  "link": "https://bg3.wiki/wiki/Githyanki_Longsword",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "King's KnifeKing's Knife",
+  "link": "https://bg3.wiki/wiki/King%27s_Knife",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Rusty LongswordRusty Longsword",
+  "link": "https://bg3.wiki/wiki/Rusty_Longsword",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "LongswordLongsword",
+  "link": "https://bg3.wiki/wiki/Longsword",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Bonesaw (+1)Bonesaw (+1)",
+  "link": "https://bg3.wiki/wiki/Bonesaw_(%2B1)",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Ceremonial LongswordCeremonial Longsword",
+  "link": "https://bg3.wiki/wiki/Ceremonial_Longsword",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Githyanki Longsword (+1)Githyanki Longsword (+1)",
+  "link": "https://bg3.wiki/wiki/Githyanki_Longsword_(%2B1)",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "KatanaKatana",
+  "link": "https://bg3.wiki/wiki/Katana",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Longsword +1Longsword +1",
+  "link": "https://bg3.wiki/wiki/Longsword_%2B1",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Adamantine LongswordAdamantine Longsword",
+  "link": "https://bg3.wiki/wiki/Adamantine_Longsword",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Blackguard's SwordBlackguard's Sword",
+  "link": "https://bg3.wiki/wiki/Blackguard%27s_Sword",
+  "enchantment": "+2",
+  "damage": "1d8 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Blade of Oppressed SoulsBlade of Oppressed Souls",
+  "link": "https://bg3.wiki/wiki/Blade_of_Oppressed_Souls",
+  "enchantment": "+1",
+  "damage": "1d8 + 11d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Cruel StingCruel Sting",
+  "link": "https://bg3.wiki/wiki/Cruel_Sting",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Duke Ravengard's LongswordDuke Ravengard's Longsword",
+  "link": "https://bg3.wiki/wiki/Duke_Ravengard%27s_Longsword",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Larethian's WrathLarethian's Wrath",
+  "link": "https://bg3.wiki/wiki/Larethian%27s_Wrath",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Longsword +2Longsword +2",
+  "link": "https://bg3.wiki/wiki/Longsword_%2B2",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Phalar AluvePhalar Aluve",
+  "link": "https://bg3.wiki/wiki/Phalar_Aluve",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Sword of the EmperorSword of the Emperor",
+  "link": "https://bg3.wiki/wiki/Sword_of_the_Emperor",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Longswords",
+  "name": "Voss' Silver SwordVoss' Silver Sword",
+  "link": "https://bg3.wiki/wiki/Voss%27_Silver_Sword",
+  "enchantment": "+2",
+  "damage": "1d8 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Crude MaceCrude Mace",
+  "link": "https://bg3.wiki/wiki/Crude_Mace",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "MaceMace",
+  "link": "https://bg3.wiki/wiki/Mace",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Rusty MaceRusty Mace",
+  "link": "https://bg3.wiki/wiki/Rusty_Mace",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Ceremonial MaceCeremonial Mace",
+  "link": "https://bg3.wiki/wiki/Ceremonial_Mace",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Infernal Mace (Uncommon)Infernal Mace (Uncommon)",
+  "link": "https://bg3.wiki/wiki/Infernal_Mace_(Uncommon)",
+  "enchantment": "+1",
+  "damage": "1d6 + 13"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Loviatar's ScourgeLoviatar's Scourge",
+  "link": "https://bg3.wiki/wiki/Loviatar%27s_Scourge",
+  "enchantment": "",
+  "damage": "1d61d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Mace +1Mace +1",
+  "link": "https://bg3.wiki/wiki/Mace_%2B1",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "XyanydeXyanyde",
+  "link": "https://bg3.wiki/wiki/Xyanyde",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Adamantine MaceAdamantine Mace",
+  "link": "https://bg3.wiki/wiki/Adamantine_Mace",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Infernal MaceInfernal Mace",
+  "link": "https://bg3.wiki/wiki/Infernal_Mace",
+  "enchantment": "+2",
+  "damage": "1d6 + 23"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Mace +2Mace +2",
+  "link": "https://bg3.wiki/wiki/Mace_%2B2",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Shattered FlailShattered Flail",
+  "link": "https://bg3.wiki/wiki/Shattered_Flail",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Handmaiden's MaceHandmaiden's Mace",
+  "link": "https://bg3.wiki/wiki/Handmaiden%27s_Mace",
+  "enchantment": "+2",
+  "damage": "1d6 + 21d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "Devotee's MaceDevotee's Mace",
+  "link": "https://bg3.wiki/wiki/Devotee%27s_Mace",
+  "enchantment": "+3",
+  "damage": "1d6 + 31d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Maces",
+  "name": "The Blood of LathanderThe Blood of Lathander",
+  "link": "https://bg3.wiki/wiki/The_Blood_of_Lathander",
+  "enchantment": "+3",
+  "damage": "1d6 + 3"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Pactbound RapierPactbound Rapier",
+  "link": "https://bg3.wiki/wiki/Pactbound_Rapier",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "RapierRapier",
+  "link": "https://bg3.wiki/wiki/Rapier",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Rapier +1Rapier +1",
+  "link": "https://bg3.wiki/wiki/Rapier_%2B1",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Rupturing BladeRupturing Blade",
+  "link": "https://bg3.wiki/wiki/Rupturing_Blade",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Sword of ScreamsSword of Screams",
+  "link": "https://bg3.wiki/wiki/Sword_of_Screams",
+  "enchantment": "",
+  "damage": "1d81d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Harmonic DuellerHarmonic Dueller",
+  "link": "https://bg3.wiki/wiki/Harmonic_Dueller",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Rapier +2Rapier +2",
+  "link": "https://bg3.wiki/wiki/Rapier_%2B2",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Infernal RapierInfernal Rapier",
+  "link": "https://bg3.wiki/wiki/Infernal_Rapier",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Pelorsun BladePelorsun Blade",
+  "link": "https://bg3.wiki/wiki/Pelorsun_Blade",
+  "enchantment": "+1",
+  "damage": "1d8 + 11d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Rapiers",
+  "name": "Duellist's PrerogativeDuellist's Prerogative",
+  "link": "https://bg3.wiki/wiki/Duellist%27s_Prerogative",
+  "enchantment": "+3",
+  "damage": "1d8 + 31d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Flame Blade (weapon)Flame Blade (weapon)",
+  "link": "https://bg3.wiki/wiki/Flame_Blade_(weapon)",
+  "enchantment": "",
+  "damage": "3d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Goblin ScimitarGoblin Scimitar",
+  "link": "https://bg3.wiki/wiki/Goblin_Scimitar",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Rusty ScimitarRusty Scimitar",
+  "link": "https://bg3.wiki/wiki/Rusty_Scimitar",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Scimitar (Sharran)Scimitar (Sharran)",
+  "link": "https://bg3.wiki/wiki/Scimitar_(Sharran)",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Scimitar (Akabi)Scimitar (Akabi)",
+  "link": "https://bg3.wiki/wiki/Scimitar_(Akabi)",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "ScimitarScimitar",
+  "link": "https://bg3.wiki/wiki/Scimitar",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Kurwin's CauteriserKurwin's Cauteriser",
+  "link": "https://bg3.wiki/wiki/Kurwin%27s_Cauteriser",
+  "enchantment": "+1",
+  "damage": "1d6 + 11d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Scimitar +1Scimitar +1",
+  "link": "https://bg3.wiki/wiki/Scimitar_%2B1",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Speedy ReplySpeedy Reply",
+  "link": "https://bg3.wiki/wiki/Speedy_Reply",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Sylvan ScimitarSylvan Scimitar",
+  "link": "https://bg3.wiki/wiki/Sylvan_Scimitar",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Adamantine ScimitarAdamantine Scimitar",
+  "link": "https://bg3.wiki/wiki/Adamantine_Scimitar",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Salty Scimitar(rrr)Salty Scimitar(rrr)",
+  "link": "https://bg3.wiki/wiki/Salty_Scimitar(rrr)",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Scimitar +2Scimitar +2",
+  "link": "https://bg3.wiki/wiki/Scimitar_%2B2",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Thorn BladeThorn Blade",
+  "link": "https://bg3.wiki/wiki/Thorn_Blade",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "BelmBelm",
+  "link": "https://bg3.wiki/wiki/Belm",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Scimitars",
+  "name": "Justiciar's ScimitarJusticiar's Scimitar",
+  "link": "https://bg3.wiki/wiki/Justiciar%27s_Scimitar",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Goblin BowGoblin Bow",
+  "link": "https://bg3.wiki/wiki/Goblin_Bow",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Makeshift BowMakeshift Bow",
+  "link": "https://bg3.wiki/wiki/Makeshift_Bow",
+  "enchantment": "",
+  "damage": "1d61d10"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "ShortbowShortbow",
+  "link": "https://bg3.wiki/wiki/Shortbow",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Bow of AwarenessBow of Awareness",
+  "link": "https://bg3.wiki/wiki/Bow_of_Awareness",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Hunting ShortbowHunting Shortbow",
+  "link": "https://bg3.wiki/wiki/Hunting_Shortbow",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Shortbow +1Shortbow +1",
+  "link": "https://bg3.wiki/wiki/Shortbow_%2B1",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Bow of the BansheeBow of the Banshee",
+  "link": "https://bg3.wiki/wiki/Bow_of_the_Banshee",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Darkfire ShortbowDarkfire Shortbow",
+  "link": "https://bg3.wiki/wiki/Darkfire_Shortbow",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Least ExpectedLeast Expected",
+  "link": "https://bg3.wiki/wiki/Least_Expected",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "Vicious ShortbowVicious Shortbow",
+  "link": "https://bg3.wiki/wiki/Vicious_Shortbow",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortbows",
+  "name": "BlightbringerBlightbringer",
+  "link": "https://bg3.wiki/wiki/Blightbringer",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Githyanki ShortswordGithyanki Shortsword",
+  "link": "https://bg3.wiki/wiki/Githyanki_Shortsword",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Practice SwordPractice Sword",
+  "link": "https://bg3.wiki/wiki/Practice_Sword",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Rusty ShortswordRusty Shortsword",
+  "link": "https://bg3.wiki/wiki/Rusty_Shortsword",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "ShortswordShortsword",
+  "link": "https://bg3.wiki/wiki/Shortsword",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "TrepanTrepan",
+  "link": "https://bg3.wiki/wiki/Trepan",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Chessa's Practice SwordChessa's Practice Sword",
+  "link": "https://bg3.wiki/wiki/Chessa%27s_Practice_Sword",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Harper BladeHarper Blade",
+  "link": "https://bg3.wiki/wiki/Harper_Blade",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Kass' Practice SwordKass' Practice Sword",
+  "link": "https://bg3.wiki/wiki/Kass%27_Practice_Sword",
+  "enchantment": "",
+  "damage": "1d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Shortsword (Yurgir)Shortsword (Yurgir)",
+  "link": "https://bg3.wiki/wiki/Shortsword_(Yurgir)",
+  "enchantment": "",
+  "damage": "2d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Assassin's ShortswordAssassin's Shortsword",
+  "link": "https://bg3.wiki/wiki/Assassin%27s_Shortsword",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Githyanki Shortsword (+1)Githyanki Shortsword (+1)",
+  "link": "https://bg3.wiki/wiki/Githyanki_Shortsword_(%2B1)",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Render of Mind and BodyRender of Mind and Body",
+  "link": "https://bg3.wiki/wiki/Render_of_Mind_and_Body",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Shadow Blade (weapon)Shadow Blade (weapon)",
+  "link": "https://bg3.wiki/wiki/Shadow_Blade_(weapon)",
+  "enchantment": "",
+  "damage": "2d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Shortsword +1Shortsword +1",
+  "link": "https://bg3.wiki/wiki/Shortsword_%2B1",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Shortsword of First BloodShortsword of First Blood",
+  "link": "https://bg3.wiki/wiki/Shortsword_of_First_Blood",
+  "enchantment": "",
+  "damage": "1d6"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Steelforged SwordSteelforged Sword",
+  "link": "https://bg3.wiki/wiki/Steelforged_Sword",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Trepan (+1)Trepan (+1)",
+  "link": "https://bg3.wiki/wiki/Trepan_(%2B1)",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "AmbusherAmbusher",
+  "link": "https://bg3.wiki/wiki/Ambusher",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "FleshrenderFleshrender",
+  "link": "https://bg3.wiki/wiki/Fleshrender",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Shortsword +2Shortsword +2",
+  "link": "https://bg3.wiki/wiki/Shortsword_%2B2",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Slicing ShortswordSlicing Shortsword",
+  "link": "https://bg3.wiki/wiki/Slicing_Shortsword",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Sword of Clutching UmbraSword of Clutching Umbra",
+  "link": "https://bg3.wiki/wiki/Sword_of_Clutching_Umbra",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "The BanefulThe Baneful",
+  "link": "https://bg3.wiki/wiki/The_Baneful",
+  "enchantment": "+1",
+  "damage": "1d6 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Knife of the Undermountain KingKnife of the Undermountain King",
+  "link": "https://bg3.wiki/wiki/Knife_of_the_Undermountain_King",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Sword of Life StealingSword of Life Stealing",
+  "link": "https://bg3.wiki/wiki/Sword_of_Life_Stealing",
+  "enchantment": "+2",
+  "damage": "1d6 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Shortswords",
+  "name": "Crimson MischiefCrimson Mischief",
+  "link": "https://bg3.wiki/wiki/Crimson_Mischief",
+  "enchantment": "+2",
+  "damage": "1d6 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Pactbound WarhammerPactbound Warhammer",
+  "link": "https://bg3.wiki/wiki/Pactbound_Warhammer",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "WarhammerWarhammer",
+  "link": "https://bg3.wiki/wiki/Warhammer",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Ceremonial WarhammerCeremonial Warhammer",
+  "link": "https://bg3.wiki/wiki/Ceremonial_Warhammer",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "FaithbreakerFaithbreaker",
+  "link": "https://bg3.wiki/wiki/Faithbreaker",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Intransigent WarhammerIntransigent Warhammer",
+  "link": "https://bg3.wiki/wiki/Intransigent_Warhammer",
+  "enchantment": "",
+  "damage": "1d8"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Warhammer +1Warhammer +1",
+  "link": "https://bg3.wiki/wiki/Warhammer_%2B1",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Charge-Bound WarhammerCharge-Bound Warhammer",
+  "link": "https://bg3.wiki/wiki/Charge-Bound_Warhammer",
+  "enchantment": "+1",
+  "damage": "1d8 + 1"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Clown HammerClown Hammer",
+  "link": "https://bg3.wiki/wiki/Clown_Hammer",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Hammer of the JustHammer of the Just",
+  "link": "https://bg3.wiki/wiki/Hammer_of_the_Just",
+  "enchantment": "+2",
+  "damage": "1d8 + 21d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Ketheric's WarhammerKetheric's Warhammer",
+  "link": "https://bg3.wiki/wiki/Ketheric%27s_Warhammer",
+  "enchantment": "+1",
+  "damage": "1d8 + 11d4"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Warhammer +2Warhammer +2",
+  "link": "https://bg3.wiki/wiki/Warhammer_%2B2",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Dwarven ThrowerDwarven Thrower",
+  "link": "https://bg3.wiki/wiki/Dwarven_Thrower",
+  "enchantment": "+2",
+  "damage": "1d8 + 2"
+ },
+ {
+  "category": "Weapon",
+  "subtype": "Warhammers",
+  "name": "Orphic HammerOrphic Hammer",
+  "link": "https://bg3.wiki/wiki/Orphic_Hammer",
+  "enchantment": "+3",
+  "damage": "1d8 + 3"
+ }
+]

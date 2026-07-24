@@ -1,0 +1,207 @@
+[
+ {
+  "name": "Ability Improvement",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Increase one ability score by 2, or two ability scores by 1, up to a maximum of 20."
+ },
+ {
+  "name": "Actor",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Actor"
+ },
+ {
+  "name": "Alert",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Alert"
+ },
+ {
+  "name": "Athlete",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Athlete: Standing Up"
+ },
+ {
+  "name": "Charger",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Charger: Weapon Attack"
+ },
+ {
+  "name": "Crossbow Expert",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Crossbow Expert: Point-Blank"
+ },
+ {
+  "name": "Defensive Duellist",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Defensive Duellist"
+ },
+ {
+  "name": "Dual Wielder",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Dual Wielder"
+ },
+ {
+  "name": "Dungeon Delver",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Dungeon Delver: Perception"
+ },
+ {
+  "name": "Durable",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Durable"
+ },
+ {
+  "name": "Elemental Adept",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Your spells and attacks ignore resistance to a damage type of your choice. In addition, when you deal that type of damage with a spell, you cannot roll a 1. Damage resistance options are one of the following: Elemental Adept: Acid Elemental Adept: Cold Elemental Adept: Lightning Elemental Adept: Fire Elemental Adept: Thunder"
+ },
+ {
+  "name": "Great Weapon Master",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Great Weapon Master: Bonus Attack"
+ },
+ {
+  "name": "Heavily Armoured",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Heavily Armoured"
+ },
+ {
+  "name": "Heavy Armour Master",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Heavy Armour Master"
+ },
+ {
+  "name": "Lightly Armoured",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Lightly Armoured"
+ },
+ {
+  "name": "Lucky",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Lucky"
+ },
+ {
+  "name": "Mage Slayer",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Mage Slayer: Saving Throw Advantage"
+ },
+ {
+  "name": "Magic Initiate: Bard",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Magic Initiate: Bard"
+ },
+ {
+  "name": "Magic Initiate: Cleric",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Magic Initiate: Cleric"
+ },
+ {
+  "name": "Magic Initiate: Druid",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Magic Initiate: Druid"
+ },
+ {
+  "name": "Magic Initiate: Sorcerer",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Magic Initiate: Sorcerer"
+ },
+ {
+  "name": "Magic Initiate: Warlock",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Magic Initiate: Warlock"
+ },
+ {
+  "name": "Magic Initiate: Wizard",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Magic Initiate: Wizard"
+ },
+ {
+  "name": "Martial Adept",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Martial Adept"
+ },
+ {
+  "name": "Medium Armour Master",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Medium Armour Master"
+ },
+ {
+  "name": "Mobile",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Mobile"
+ },
+ {
+  "name": "Moderately Armoured",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Moderately Armoured"
+ },
+ {
+  "name": "Performer",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Performer"
+ },
+ {
+  "name": "Polearm Master",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Polearm Master: Bonus Attack"
+ },
+ {
+  "name": "Resilient",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "You increase an Ability by 1, to a maximum of 20. Gain Proficiency in that ability's Saving Throws. The available passive features are: Resilient: Strength Resilient: Dexterity Resilient: Constitution Resilient: Intelligence Resilient: Wisdom Resilient: Charisma"
+ },
+ {
+  "name": "Ritual Caster",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Ritual Caster: Free Spells"
+ },
+ {
+  "name": "Savage Attacker",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Savage Attacker"
+ },
+ {
+  "name": "Sentinel",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Sentinel: Vengeance"
+ },
+ {
+  "name": "Sharpshooter",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Sharpshooter: Low Ground"
+ },
+ {
+  "name": "Shield Master",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Shield Master"
+ },
+ {
+  "name": "Skilled",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Skilled"
+ },
+ {
+  "name": "Spell Sniper",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Spell Sniper"
+ },
+ {
+  "name": "Tavern Brawler",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Tavern Brawler"
+ },
+ {
+  "name": "Tough",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Tough"
+ },
+ {
+  "name": "War Caster",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "War Caster: Concentration"
+ },
+ {
+  "name": "Weapon Master",
+  "source": "https://bg3.wiki/wiki/Feats",
+  "description": "Weapon Master"
+ }
+]

@@ -1,0 +1,518 @@
+{
+ "Armour of the Sporekeeper": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 1,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Dark Justiciar Mail": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "The Oak Father's Embrace": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d6",
+    "flat": 0,
+    "type": "Radiant"
+   },
+   "confidence": "medium"
+  },
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d6",
+    "flat": 0,
+    "type": "Radiant"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Dark Justiciar Half-Plate (Very Rare)": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Flawed Helldusk Armour": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Fire"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "The Real Sparky Sparkswall": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 3,
+    "type": "Lightning"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Viconia's Walking Fortress": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "2d4",
+    "flat": 0,
+    "type": "Force"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Strange Conduit Ring": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Psychic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Fleshmelter Cloak": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Acid"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Circlet of Psionic Revenge": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Psychic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Bonespike Helmet": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "2d4",
+    "flat": 0,
+    "type": "Psychic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Horns of the Berserker": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 2,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  },
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Holy Lance Helm": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Radiant"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Dark Justiciar Gauntlets (Uncommon)": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Craterflesh Gloves": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d6",
+    "flat": 0,
+    "type": "Force"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Dark Justiciar Gauntlets (Rare)": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "2d8",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  },
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Flawed Helldusk Gloves": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Fire"
+   },
+   "confidence": "medium"
+  },
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Gloves of Cinder and Sizzle": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Fire"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Gloves of Crushing": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 2,
+    "type": "Bludgeoning"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Martial Exertion Gloves": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "6d6",
+    "flat": 0,
+    "type": "Piercing"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Seraphic Pugilist Gloves": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Radiant"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Servitor of the Black Hand Gloves": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Force"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Snow-Dusted Monastery Gloves": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Cold"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Stalker Gloves": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Force"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "The Sparkle Hands": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 2,
+    "type": "Lightning"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Thunderpalm Strikers": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Thunder"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Gauntlet of the Tyrant": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Force"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Helldusk Gloves": [
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d6",
+    "flat": 0,
+    "type": "Fire"
+   },
+   "confidence": "medium"
+  },
+  {
+   "trigger": "unarmed_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d6",
+    "flat": 0,
+    "type": "Necrotic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Slinging Shoes": [
+  {
+   "trigger": "thrown_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "2d4",
+    "flat": 0,
+    "type": "Psychic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "The Watersparkers": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 3,
+    "type": "Lightning"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Helldusk Boots": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "2d8",
+    "flat": 0,
+    "type": "Fire"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "The Speedy Lightfeet": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat": 3,
+    "type": "Lightning"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Boots of Psionic Movement": [
+  {
+   "trigger": "melee_weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Psychic"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Balduran's Giantslayer": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DRS",
+   "damage": {
+    "dice": "2d6",
+    "flat": 0,
+    "type": "Slashing"
+   },
+   "confidence": "high"
+  }
+ ],
+ "Crimson Mischief": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DRS",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Piercing"
+   },
+   "confidence": "high"
+  },
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DRS",
+   "damage": {
+    "dice": null,
+    "flat": 7,
+    "type": "Piercing"
+   },
+   "confidence": "high"
+  }
+ ],
+ "Gontr Mael": [
+  {
+   "trigger": "ranged_weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d4",
+    "flat": 0,
+    "type": "Radiant"
+   },
+   "confidence": "medium"
+  }
+ ],
+ "Nyrulna": [
+  {
+   "trigger": "thrown_attack_hit",
+   "kind": "DRS",
+   "damage": {
+    "dice": "3d4",
+    "flat": 0,
+    "type": "Thunder"
+   },
+   "confidence": "high"
+  }
+ ],
+ "Silver Sword of the Astral Plane": [
+  {
+   "trigger": "weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": "1d6",
+    "flat": 0,
+    "type": "Psychic"
+   },
+   "confidence": "medium"
+  }
+ ]
+}

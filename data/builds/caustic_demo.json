@@ -1,0 +1,18 @@
+{
+  "name": "Caustic Band demo (longsword + Caustic Band, AC15)",
+  "_note": "Fighter 20 STR (+5), prof 3, plain longsword (1d8 slashing). Caustic Band: +2 acid per weapon attack (DR). vs AC15. attack_bonus=8. Base DS=1d8+5 slashing; +2 acid DR. EV = p_normal*(9.5+2) + p_crit*(14+2). p_normal=0.65 p_crit=0.05. = 0.65*11.5 + 0.05*16 = 7.475+0.8 = 8.275",
+  "classes": [{"cls": "Fighter", "level": 5}],
+  "abilities": {"STR": 20, "DEX": 12, "CON": 14, "INT": 8, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 3,
+  "attack_ability": "STR",
+  "feats": [],
+  "equipped": {"main_hand": "Longsword", "ring1": "Caustic Band"},
+  "active_buffs": [],
+  "target": {
+    "ac": 15, "save_bonus": {}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": []
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1}
+  ]
+}

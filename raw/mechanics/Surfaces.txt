@@ -1,0 +1,525 @@
+
+
+Surfaces - bg3.wiki
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+Ad placeholder
+
+## Surfaces
+
+From bg3.wiki
+
+Jump to navigation
+Jump to search
+
+A Fire surface. 
+
+Surfaces are a type of area. 
+
+## Contents
+
+* 1 Overview
+
+* 2 Types of surfaces
+
+* 3 Bugs
+
+* 4 See Also
+
+## Overview[edit section | visual editor]
+
+A surface is a flat layer of some type of substance that covers the ground, and has a unique effect when a creature steps on it. Many abilities and magical effects can create a surface, and they can sometimes be removed or converted into different surfaces with other elements or substances. The effects of surfaces can be avoided with abilities such as Fly.
+
+The party can Dip their weapons into Fire and Hellfire surfaces to receive 
+ Dipped in Fire, and Simple Toxin surfaces to receive 
+ Dipped in Poison.
+
+Ice, Lava and Web surfaces also impose 
+ Difficult Terrain, which doubles the cost of moving while on the surface.
+
+## Types of surfaces[edit section | visual editor]
+
+Surface 
+Effects
+
+ Acid 
+
+* 
+ Acid - 
+ Armour Class reduced by 2
+
+ Alcohol 
+
+* Turns into a Fire surface if exposed to Fire damage, or Ice surface if exposed to Cold
+
+ Ash 
+
+ Blood 
+
+* Turns into Ice surface if exposed to Cold damage
+
+ Black Tentacles 
+
+* 
+ Black Tentacles - Take 3d6⁠
+⁠Bludgeoning damage per turn.
+
+* 
+ Difficult Terrain
+
+ Caustic Brine 
+
+* 
+ Caustic Brine - Take 1d4⁠
+⁠Acid damage per turn.
+
+ Deep Water 
+
+* 
+ Wet
+
+* 
+ Difficult Terrain: Deep Water
+
+ Electrified Water 
+
+* 
+ Electrocuted - Take 1d4⁠
+⁠Lightning damage per turn.
+
+ Fire 
+
+* 
+ Burning - Take 1d4⁠
+⁠Fire damage per turn.
+
+* 
+ Dippable: 1d4 Fire
+
+ Grease 
+
+* 
+ Prone
+
+* 
+ Difficult Terrain
+
+ Hellfire 
+
+* 
+ Roiling Hellfire - Take 6d6⁠
+⁠Fire damage per turn.
+
+* 
+ Dippable: 1d4 Fire
+
+ Holy Fire 
+
+* 
+ Holy Fire - Take 1d4⁠
+⁠Radiant damage per turn.
+
+ Ice 
+
+* Turns into Water surface if exposed to Fire damage
+
+* 
+ Prone
+
+* 
+ Difficult Terrain
+
+ Lava 
+
+* 
+ Melting - Take 10d6⁠
+⁠Fire damage per turn.
+
+* 
+ Difficult Terrain
+
+ Mind Flayer Blood 
+
+* Turns into Ice surface if exposed to Cold damage
+
+ Mud 
+
+* 
+ Difficult Terrain
+
+ Mysterious Liquid 
+
+* Explodes when lit by Fire damage, creating a Fire surface
+
+ Oil 
+
+* Explodes when lit by Fire damage, creating a Fire surface
+
+ Plant Growth 
+
+* 
+ Plant Growth - Quarters movement speed.
+
+ Purple Worm Poison 
+
+* 
+ Purple Worm Toxin - Take 1d10⁠
+⁠Poison damage per turn.
+
+ Serpent Venom 
+
+* 
+ Serpent Fang Toxin - Take 1d6⁠
+⁠Poison damage per turn.
+
+ Sewage 
+
+* 
+ Prone
+
+* 
+ Difficult Terrain
+
+ Shadow-Cursed Vines 
+
+* 
+ Shadow-Cursed Vines - Can't move and takes 1d4⁠
+⁠Necrotic per turn.
+
+* 
+ Difficult Terrain: Vines
+
+ Simple Toxin 
+
+* Deals 1d4⁠
+⁠Poison damage each round.
+
+* 
+ Dippable: 1d4 Poison
+
+ Smokepowder 
+
+* Explodes when lit by Fire damage, creating a Fire surface and dealing 2d6⁠
+⁠Fire + 2d6⁠
+⁠Force damage
+
+ Spikes 
+
+* Takes 2d4⁠
+⁠Piercing for every 1.5 m (5 ft) travelled.
+
+* 
+ Difficult Terrain
+
+ Twisting Vines 
+
+* 
+ Entangled
+
+* 
+ Difficult Terrain
+
+ Unstable Blood 
+
+* Explodes when lit by Fire damage, creating a Fire surface
+
+ Water 
+
+* Turns into Electrified water surface if exposed to Lightning damage
+
+* Turns into Ice surface if exposed to Cold damage
+
+* Turns into Steam Cloud if exposed to Fire damage
+
+* 
+ Dippable: Removes dipped fire or poison damage from other surfaces
+
+ Web 
+
+* 
+ Enwebbed
+
+* 
+ Difficult Terrain
+
+ Wyvern Poison 
+
+* 
+ Wyvern Toxin - Take 1d8⁠
+⁠Poison per turn.
+
+## Bugs[edit section | visual editor]
+
+* If a creature is already on the surface, creating a new surface does not affect the creature. For example, if throwing water on a creature and casting 
+ Evard's Black Tentacles, the creature is not affected by the tentacles, unless it moves around on its turn. This includes blood, which means if using an 
+ Arrow of Acid on creature, this creature does not have the 
+ Acid condition, because the weapon damage made it spill blood first and then the Acid surface is created.[verify]
+
+## See Also[edit section | visual editor]
+
+* Clouds
+
+* 
+
+* v
+* t
+* e
+Gameplay mechanics 
+
+Turn-based 
+
+* 
+ Actions
+
+* 
+ Initiative
+
+* 
+ Movement speed
+
+* 
+ Resources
+
+Dice rolls 
+
+* 
+ Abilities
+
+* 
+ Advantage
+
+* 
+ Attacks
+
+* 
+ Concentration
+
+* 
+ Damage
+
+* Critical Hit
+
+* Mechanics
+
+* 
+ Healing
+
+* 
+ Inspiration
+
+* 
+ Saving throw
+
+Downtime 
+
+* 
+ Alchemy
+
+* 
+ Approval
+
+* 
+ Barter
+
+* 
+ Traders • Trading and item pricing
+
+* 
+ Attitude
+
+* 
+ Resting
+
+Environment 
+
+* 
+ Clouds
+
+* 
+ Difficult Terrain
+
+* 
+ Obscurity
+
+* 
+ Sight
+
+* 
+ Surfaces
+
+Items 
+
+Equipment 
+
+* 
+ Amulets
+
+* 
+ Armour
+
+* 
+ Cloaks
+
+* 
+ Clothing
+
+* 
+ Footwear
+
+* 
+ Handwear
+
+* 
+ Headwear
+
+* 
+ Light Sources
+
+* 
+ Musical Instruments
+
+* 
+ Rings
+
+* 
+ Shields
+
+* 
+ Weapons
+
+Other 
+
+* 
+ Consumables
+
+* Arrows
+
+* Coatings
+
+* Dyes
+
+* Elixirs
+
+* Grenades
+
+* Potions
+
+* Scrolls
+
+* 
+ Containers
+
+* 
+ Miscellaneous
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Surfaces&oldid=379700"
+
+Category: 
+* Surfaces
+Hidden category: 
+* Articles needing verification
+
+## Navigation menu
+
+## 
+Personal tools
+
+* Not logged in
+* Talk
+* Contributions
+* Create account
+* Log in
+
+## 
+Namespaces
+
+* Page
+* Discussion
+
+English
+
+## 
+Views
+
+* Read
+* Edit page
+* Visual editor
+* View history
+
+More
+
+## Search
+
+## 
+Navigation
+
+* Main page
+* Help index
+* Learn to edit
+* Guides
+* Modding
+* Upload file
+* Discord
+* Backups
+* Payment
+
+## 
+Special
+
+* Recent changes
+* Newly added files
+* Special pages
+* Random page
+* Maintenance
+* Version
+
+## 
+Tools
+
+* What links here
+* Related changes
+* Special pages
+* Printable version
+* Permanent link
+* Page information
+* Cargo data
+
+## 
+Advertisement
+
+* About ads on bg3.wiki
+* Please report bad ads
+
+Ad placeholder
+
+* This page was last edited on 3 March 2026, at 20:28.
+
+* Content is available under CC BY-NC-SA 4.0 or CC BY-SA 4.0; please see the linked page for details.
+
+* Privacy policy
+
+* About bg3.wiki
+
+* Copyrights
+
+* Mobile view
+
+* 
+

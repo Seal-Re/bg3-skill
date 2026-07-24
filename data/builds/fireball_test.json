@@ -1,0 +1,23 @@
+{
+  "name": "Fireball test (DC 15, DEX save +2, expect ~22.4)",
+  "_note": "Sorcerer casting Fireball (8d6 fire, DEX save half). DC=8+3(prof)+4(CHA)=15. Target DEX +2. p_fail=(15-2-1)/20=0.60. EV=0.60*28 + 0.40*14 = 22.4.",
+  "classes": [{"cls": "Sorcerer", "level": 8}],
+  "abilities": {"STR": 8, "DEX": 14, "CON": 14, "INT": 8, "WIS": 10, "CHA": 18},
+  "proficiency_bonus": 3,
+  "attack_ability": "CHA",
+  "feats": [],
+  "equipped": {},
+  "active_buffs": [],
+  "target": {
+    "ac": 15,
+    "save_bonus": {"DEX": 2},
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "conditions": [],
+    "flags": []
+  },
+  "round_actions": [
+    {"type": "spell", "ref": "Fireball", "upcast_level": 3, "n_targets": 1}
+  ]
+}

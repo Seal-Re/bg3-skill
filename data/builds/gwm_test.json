@@ -1,0 +1,18 @@
+{
+  "name": "GWM test (greatsword + GWM active, AC15)",
+  "_note": "Fighter 20 STR, prof 3, greatsword 2d6 slashing, GWM active (-5 atk, +10 dmg). attack_bonus = 3+5-5 = 3. vs AC15: need 12 -> 9/20 hit. Base DS = 2d6(7)+5 str +10 GWM = 22. EV = p_normal*22 + p_crit*(2d6 doubled=14 +5+10=29). p_normal=0.40 p_crit=0.05. = 0.40*22 + 0.05*29 = 8.8+1.45 = 10.25",
+  "classes": [{"cls": "Fighter", "level": 5}],
+  "abilities": {"STR": 20, "DEX": 12, "CON": 14, "INT": 8, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 3,
+  "attack_ability": "STR",
+  "feats": ["Great Weapon Master"],
+  "equipped": {"main_hand": "Greatsword"},
+  "active_buffs": [],
+  "target": {
+    "ac": 15, "save_bonus": {}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": []
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1, "gwm_active": true}
+  ]
+}

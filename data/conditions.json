@@ -1,0 +1,398 @@
+{
+ "_meta": "Hand-curated damage-relevant conditions. Auto-parsed raw conditions are noisy (engine tags), so the high-value damage conditions are curated here. Each maps to resistance/vulnerability/bonuses the engine consumes.",
+ "Wet": {
+  "description": "Creature is wet. Resistant to Fire, Vulnerable to Cold and Lightning.",
+  "resistances": [
+   "Fire"
+  ],
+  "vulnerabilities": [
+   "Cold",
+   "Lightning"
+  ],
+  "source": "https://bg3.wiki/wiki/Wet_(Condition)"
+ },
+ "Burning": {
+  "description": "On fire. Takes 1d4 Fire damage per turn (start of turn). Shares Stack ID BURNING with Melting/Holy Fire/Roiling Hellfire/Scorching Aura/Burning Fiercely, so only one applies at a time. Removed by Help action, Healing Potion, or gaining Wet. Immune while Wet. Note: BURNING stack-id does NOT stack with itself in the dice-multiplying sense — reapplication refreshes/extends duration rather than adding a second 1d4 instance (engine simplification: treat as single 1d4 Fire per turn).",
+  "damage_per_turn": {
+   "dice": "1d4",
+   "type": "Fire",
+   "stacks": false,
+   "note": "single-instance, duration-refresh only; stack-id mutual exclusion with Melting etc."
+  },
+  "stack_id": "BURNING",
+  "exclusive_with_stack_id": [
+   "Melting",
+   "Holy Fire",
+   "Roiling Hellfire",
+   "Scorching Aura",
+   "Burning Fiercely"
+  ],
+  "removed_by": [
+   "Help action",
+   "Healing Potion",
+   "Wet"
+  ],
+  "immune_while": [
+   "Wet"
+  ],
+  "notes": [
+   "Burning creatures take DOUBLE damage from Fire Elemental's Multiattack (special interaction, not a general vulnerability).",
+   "Burning creatures take +1d4 Weapon damage from Dragon's Grasp / Firestoker.",
+   "Mutual exclusion with Melting lets a Burning creature walk in lava taking only 1d4 Fire/turn instead of 10d6 Fire/turn."
+  ],
+  "variants": {
+   "Burning Fiercely": {
+    "dice": "1d10",
+    "type": "Fire"
+   },
+   "Holy Fire": {
+    "dice": "1d4",
+    "type": "Radiant",
+    "note": "wiki says '1~4'"
+   },
+   "Melting": {
+    "dice": "10d6",
+    "type": "Fire"
+   },
+   "Roiling Hellfire": {
+    "dice": "6d6",
+    "type": "Fire"
+   },
+   "Scorching Aura": {
+    "dice": "1d6",
+    "type": "Fire",
+    "note": "bonus on attacks by the aura's source, not per-turn"
+   }
+  },
+  "source": "https://bg3.wiki/wiki/Burning_(Condition)"
+ },
+ "Blessed": {
+  "description": "Adds 1d4 to attack rolls and saving throws.",
+  "attack_roll_bonus_dice": "1d4",
+  "save_bonus_dice": "1d4",
+  "source": "https://bg3.wiki/wiki/Blessed_(Condition)"
+ },
+ "Bane": {
+  "description": "Subtracts 1d4 from attack rolls and saving throws.",
+  "attack_roll_bonus_dice": "-1d4",
+  "save_bonus_dice": "-1d4",
+  "source": "https://bg3.wiki/wiki/Bane_(Condition)"
+ },
+ "Rage (Barbarian)": {
+  "description": "Resistance to bludgeoning/piercing/slashing. Advantage on STR checks/saves. +rage damage on melee STR attacks.",
+  "resistances": [
+   "Bludgeoning",
+   "Piercing",
+   "Slashing"
+  ],
+  "rider_ref": "Rage (Barbarian)",
+  "source": "https://bg3.wiki/wiki/Rage"
+ },
+ "Reverberation": {
+  "description": "Each remaining turn of Reverberation applies -1 penalty to STR/DEX/CON saving throws. At 5+ turns: target takes 1d4 Thunder DRS damage and must make a DC 10 CON save or fall Prone (2 turns); condition is then removed. Note: the -1 CON penalty applies to the Prone save itself, so effective DC is ~15. Thunder-immune creatures are NOT actually prevented from receiving Reverberation (bug: description claims immunity but no such mechanic exists).",
+  "save_penalty_per_stack": 1,
+  "save_penalty_abilities": [
+   "STR",
+   "DEX",
+   "CON"
+  ],
+  "stack_threshold": 5,
+  "on_threshold": {
+   "damage": {
+    "dice": "1d4",
+    "type": "Thunder",
+    "as": "DRS"
+   },
+   "save": {
+    "ability": "CON",
+    "dc": 10,
+    "effective_dc_note": "~15 due to self-imposed CON penalty"
+   },
+   "on_fail": {
+    "condition": "Prone",
+    "duration_turns": 2
+   },
+   "then": "remove all Reverberation stacks"
+  },
+  "bugs": [
+   "Description says Thunder-immune creatures can't receive Reverberation, but no such mechanic exists.",
+   "In real-time (non-combat) mode, the 5-stack effects do not trigger, though duration is still capped at 5."
+  ],
+  "source": "https://bg3.wiki/wiki/Reverberation_(Condition)"
+ },
+ "Guiding Bolt (Condition)": {
+  "description": "Next attack roll against this creature has Advantage.",
+  "next_attack_advantage": true,
+  "source": "https://bg3.wiki/wiki/Guiding_Bolt"
+ },
+ "Hex": {
+  "description": "Marked target takes +1d6 necrotic from the caster's weapon attacks. Concentration.",
+  "rider_ref": "Hex",
+  "source": "https://bg3.wiki/wiki/Hex"
+ },
+ "Hunter's Mark Quarry": {
+  "description": "Marked target takes +1d6 piercing from weapon attacks. Concentration.",
+  "rider_ref": "Hunter's Mark",
+  "source": "https://bg3.wiki/wiki/Hunter%27s_Mark"
+ },
+ "Lightning Charges": {
+  "description": "On weapon attack hit, +1d8 lightning as a new damage source (DRS). Stacks consumed on hit.",
+  "rider_ref": "Lightning Charges",
+  "source": "https://bg3.wiki/wiki/Lightning_Charges_(Condition)"
+ },
+ "Radiating Orb": {
+  "description": "Target has Disadvantage on attack rolls. Stacks.",
+  "target_attack_disadvantage": true,
+  "source": "https://bg3.wiki/wiki/Radiating_Orb_(Condition)"
+ },
+ "Vulnerable": {
+  "description": "Target takes double damage of the vulnerable type. Applied per-type via target.vulnerabilities.",
+  "source": "https://bg3.wiki/wiki/Vulnerable"
+ },
+ "Blinded": {
+  "description": "Can't see. Attacks against the creature have Advantage; the creature's attacks have Disadvantage.",
+  "advantage_vs": true,
+  "disadvantage_self": true,
+  "source": "https://bg3.wiki/wiki/Blinded_(Condition)"
+ },
+ "Poisoned": {
+  "description": "Disadvantage on attack rolls and ability checks.",
+  "disadvantage_self": true,
+  "source": "https://bg3.wiki/wiki/Poisoned_(Condition)"
+ },
+ "Frightened": {
+  "description": "Disadvantage on attack rolls and ability checks while the source of fear is in sight.",
+  "disadvantage_self": true,
+  "source": "https://bg3.wiki/wiki/Frightened_(Condition)"
+ },
+ "Restrained": {
+  "description": "Attacks against it have Advantage; its attacks have Disadvantage; Disadvantage on DEX saves.",
+  "advantage_vs": true,
+  "disadvantage_self": true,
+  "save_disadvantage": [
+   "DEX"
+  ],
+  "source": "https://bg3.wiki/wiki/Restrained_(Condition)"
+ },
+ "Prone": {
+  "description": "Cannot move or take Actions/Bonus Actions/Reactions. Disadvantage on STR and DEX saving throws. Attacks against a Prone creature have Advantage if made within 3 m (10 ft) (melee); ranged attacks against it have Disadvantage. A Prone creature must spend half its Movement Speed to stand up. Falling Prone immediately ends Concentration. If a creature falls Prone on its own turn, the turn immediately ends. Sources: Reverberation (5 stacks, DC 10/eff ~15 CON save, 2-turn Prone), Ice surface (separate 2-turn Prone), Encrusted with Frost (does NOT cause Prone — it causes Frozen). NOTE: Prone itself deals no damage and grants no damage modifier; its damage relevance is via Advantage on melee attacks and via enabling shatter of a Frozen target (but shatter is a Frozen mechanic, not a Prone mechanic).",
+  "advantage_vs_melee": true,
+  "advantage_vs_melee_range_m": 3,
+  "disadvantage_vs_ranged": true,
+  "disadvantage_self": true,
+  "save_disadvantage": [
+   "STR",
+   "DEX"
+  ],
+  "ends_concentration": true,
+  "stand_up_cost": "half Movement Speed",
+  "duration_typical_turns": 2,
+  "duration_note": "2-turn Prone is effectively 1 round (ticks down at start of affected creature's turn). Some sources (Brutal Leap, Primal Stampede, Reverberation, Throw, Ice) cannot have their Prone extended to 2 turns before it ends.",
+  "athlete_feat_stand_up_cost": "1.5 m (5 ft) instead of half movement",
+  "interaction_with_frozen": "Prone and Frozen are separate conditions; knocking a Frozen target Prone does not shatter it. Shatter is triggered only by dealing Bludgeoning/Thunder/Force damage to a Frozen target.",
+  "help_action": "Another creature can use the Help action to remove Prone, 'un-skipping' the prone creature's turn (Concentration is still broken).",
+  "source": "https://bg3.wiki/wiki/Prone_(Condition)"
+ },
+ "Stunned": {
+  "description": "Attacks against it have Advantage; automatically fails STR and DEX saving throws.",
+  "advantage_vs": true,
+  "auto_fail_saves": [
+   "STR",
+   "DEX"
+  ],
+  "source": "https://bg3.wiki/wiki/Stunned_(Condition)"
+ },
+ "Paralysed": {
+  "description": "Attacks against it have Advantage; auto-fails STR/DEX saves; melee attacks against it are critical hits.",
+  "advantage_vs": true,
+  "auto_fail_saves": [
+   "STR",
+   "DEX"
+  ],
+  "auto_crit_vs_melee": true,
+  "source": "https://bg3.wiki/wiki/Paralysed_(Condition)"
+ },
+ "Sleeping": {
+  "description": "Attacks against it have Advantage; melee attacks are critical hits; auto-fails STR/DEX saves. Wakes on damage.",
+  "advantage_vs": true,
+  "auto_fail_saves": [
+   "STR",
+   "DEX"
+  ],
+  "auto_crit_vs_melee": true,
+  "source": "https://bg3.wiki/wiki/Sleeping_(Condition)"
+ },
+ "Unconscious": {
+  "description": "Attacks against it have Advantage; melee attacks are critical hits; auto-fails STR/DEX saves.",
+  "advantage_vs": true,
+  "auto_fail_saves": [
+   "STR",
+   "DEX"
+  ],
+  "auto_crit_vs_melee": true,
+  "source": "https://bg3.wiki/wiki/Unconscious_(Condition)"
+ },
+ "Petrified": {
+  "description": "Transformed to stone. Resistant to all damage; auto-fails STR/DEX saves.",
+  "resistances": [
+   "Bludgeoning",
+   "Piercing",
+   "Slashing",
+   "Acid",
+   "Cold",
+   "Fire",
+   "Force",
+   "Lightning",
+   "Necrotic",
+   "Poison",
+   "Psychic",
+   "Radiant",
+   "Thunder"
+  ],
+  "auto_fail_saves": [
+   "STR",
+   "DEX"
+  ],
+  "source": "https://bg3.wiki/wiki/Petrified_(Condition)"
+ },
+ "Blade Ward": {
+  "description": "Resistant to bludgeoning, piercing, and slashing damage.",
+  "resistances": [
+   "Bludgeoning",
+   "Piercing",
+   "Slashing"
+  ],
+  "source": "https://bg3.wiki/wiki/Blade_Ward"
+ },
+ "Frozen": {
+  "description": "Incapacitated (cannot move/act). Grants VULNERABILITY to Bludgeoning, Thunder, and Force damage (doubles that damage — NOT an auto-crit). If dealt any Bludgeoning, Thunder, or Force damage, the ice shatters and the condition ends. Resistant to Fire. Immune to Burning and Encrusted with Frost while frozen. IMPORTANT: in-game tooltip omits the vulnerabilities; this is a known wiki-documented mechanic. NOTE: this is Vulnerability (2x damage), distinct from auto-crit (which Paralysed/Sleeping/Unconscious grant for melee).",
+  "incapacitated": true,
+  "vulnerabilities": [
+   "Bludgeoning",
+   "Thunder",
+   "Force"
+  ],
+  "resistances": [
+   "Fire"
+  ],
+  "immune_to": [
+   "Burning",
+   "Encrusted with Frost"
+  ],
+  "shatter_on_damage_types": [
+   "Bludgeoning",
+   "Thunder",
+   "Force"
+  ],
+  "shatter_effect": "ends Frozen condition (no separate shatter damage instance; the triggering hit just benefits from Vulnerability)",
+  "auto_crit_vs_melee": false,
+  "inflicted_by": [
+   {
+    "sequence": "Chilled then Wet",
+    "note": "order matters: Chilled first, then Wet. Wet-then-Chilled does NOT freeze. Re-applying Wet to an already Wet+Chilled target DOES freeze."
+   },
+   {
+    "source": "Encrusted with Frost at 7+ stacks",
+    "frozen_duration_turns": 2,
+    "save": {
+     "ability": "CON",
+     "dc": 12
+    }
+   }
+  ],
+  "duration_note": "From Chilled+Wet: 1 turn (ticks down at start of frozen creature's turn, so may not disable for a full round). From Encrusted with Frost: 2 turns (effectively 1 full round).",
+  "source": "https://bg3.wiki/wiki/Frozen_(Condition)"
+ },
+ "Chilled": {
+  "description": "Vulnerable to Cold damage; Resistant to Fire damage. If Wet is applied to a Chilled entity, it becomes Frozen (1 turn). Order matters: Chilled-then-Wet freezes; Wet-then-Chilled does NOT freeze. Re-applying Wet to an already Wet+Chilled target DOES freeze.",
+  "vulnerabilities": [
+   "Cold"
+  ],
+  "resistances": [
+   "Fire"
+  ],
+  "freeze_rule": {
+   "trigger": "apply Wet to a Chilled target",
+   "result": "Frozen (1 turn), replacing both Chilled and Wet",
+   "order_matters": true,
+   "chilled_then_wet": "freezes",
+   "wet_then_chilled": "does NOT freeze",
+   "rewet_chilled_and_wet": "freezes"
+  },
+  "duration_note": "Frozen from Chilled+Wet lasts 1 turn, ticking down at start of the frozen creature's turn — so it may end without disabling the creature for a full round. Use Encrusted with Frost (2-turn Frozen) to avoid this.",
+  "sources": [
+   "Chilling Counter",
+   "Elements of an Epoch",
+   "Insidious Cold",
+   "Cold Embrace",
+   "Icy Regurgitation",
+   "Slam (Water Elemental)",
+   "Hiemal Strike"
+  ],
+  "source": "https://bg3.wiki/wiki/Chilled_(Condition)"
+ },
+ "Encrusted with Frost": {
+  "description": "Disadvantage on DEX saving throws. At 7+ remaining turns: target must make a DC 12 CON save. On FAIL: becomes Frozen (2 turns). On SUCCESS: takes 1d4 Cold DRS damage (description claims half damage on success, but per wiki Bug: the 1d4 Cold is NOT halved). Afterward the frost is removed. Removed by Burning.",
+  "save_disadvantage": [
+   "DEX"
+  ],
+  "stack_threshold": 7,
+  "on_threshold": {
+   "save": {
+    "ability": "CON",
+    "dc": 12,
+    "fixed_dc_note": "Patch 7 testing: fixed DC 12 despite combat log showing variable DC (prof + spellcasting mod)"
+   },
+   "on_fail": {
+    "condition": "Frozen",
+    "duration_turns": 2
+   },
+   "on_success": {
+    "damage": {
+     "dice": "1d4",
+     "type": "Cold",
+     "as": "DRS"
+    },
+    "note_bug": "damage is NOT halved despite description"
+   }
+  },
+  "removed_by": [
+   "Burning"
+  ],
+  "bugs": [
+   "Description claims success halves the 1d4 Cold damage; testing shows it does NOT.",
+   "Description claims success causes damage and failure causes Frozen — actually failure => Frozen, success => 1d4 Cold (unhalved)."
+  ],
+  "sources": [
+   "Coated in Oil of Freezing",
+   "Conduit of Kereska's Ice",
+   "Oil of Freezing",
+   "Coldbrim Chill",
+   "Winter's Clutches",
+   "Markoheshkir (Frost of Dark Winter variant of Kereska's Favour)"
+  ],
+  "source": "https://bg3.wiki/wiki/Encrusted_with_Frost_(Condition)"
+ },
+ "Brittle": {
+  "description": "Vulnerable to Thunder and Bludgeoning damage. Takes 2d6 Cold damage at the start of each turn. Inflicted by Water Elemental Winter's Breath on a Burning target. (bg3.wiki raw_conditions/Brittle: description lists Thunder+Bludgeoning vulnerability; 2d6 Cold/turn.)",
+  "vulnerabilities": [
+   "Thunder",
+   "Bludgeoning"
+  ],
+  "damage_per_turn": {
+   "dice": "2d6",
+   "type": "Cold",
+   "stacks": false
+  },
+  "source": "https://bg3.wiki/wiki/Brittle_(Condition)"
+ },
+ "Electrocuted": {
+  "description": "Takes 1d4 Lightning damage at the start of each turn. From Electrified Water / Electrified Steam. Shares SHOCKED stack-id with Shocked. (bg3.wiki raw_conditions/Electrocuted.)",
+  "damage_per_turn": {
+   "dice": "1d4",
+   "type": "Lightning",
+   "stacks": false
+  },
+  "source": "https://bg3.wiki/wiki/Electrocuted_(Condition)"
+ }
+}

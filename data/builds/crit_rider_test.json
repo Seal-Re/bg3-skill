@@ -1,0 +1,15 @@
+{
+  "name": "Crit-rider test (Craterflesh +1d6 Force on crit, doubled; Life Stealing +10 Necrotic flat on crit)",
+  "_note": "Longsword 1d8+5 str, AC15 (atk+6, p_hit 0.6 p_crit 0.05). On crit: weapon 2d8(9)+5=14, Craterflesh 2d6(7) Force (doubled by crit), Life Stealing +10 Necrotic (flat, not doubled). Non-crit per hit: 4.5+5=9.5. Crit per hit: 14+7+10=31. EV=0.55*9.5+0.05*31=5.225+1.55=6.775.",
+  "classes": [{"cls": "Fighter", "level": 4}],
+  "abilities": {"STR": 20, "DEX": 14, "CON": 14, "INT": 8, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 2,
+  "attack_ability": "STR",
+  "feats": [],
+  "equipped": {"main_hand": "Sword of Life Stealing", "gloves": "Craterflesh Gloves"},
+  "active_buffs": [],
+  "target": {"ac": 15, "save_bonus": {}, "resistances": [], "immunities": [], "vulnerabilities": [], "conditions": [], "flags": []},
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1}
+  ]
+}

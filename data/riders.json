@@ -1,0 +1,816 @@
+{
+ "Caustic Band": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat": 2,
+   "type": "Acid"
+  },
+  "source": "https://bg3.wiki/wiki/Caustic_Band",
+  "notes": "+2 acid per weapon attack. Works on unarmed in practice (engine treats unarmed_attack_hit separately; this rider uses weapon_attack_hit so it does NOT fire on unarmed — see Unarmed Caustic override note)."
+ },
+ "Broodmother's Revenge": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "Poison"
+  },
+  "condition": "self_healed_recently",
+  "source": "https://bg3.wiki/wiki/Broodmother%27s_Revenge",
+  "notes": "Amulet: when healed, weapon coated, +1d6 poison. Self_healed_recently flag set by build."
+ },
+ "Callous Glow Ring": {
+  "trigger": "weapon_attack_hit|spell_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat": 2,
+   "type": "Radiant"
+  },
+  "condition": "target_illuminated",
+  "source": "https://bg3.wiki/wiki/Callous_Glow_Ring"
+ },
+ "Hex": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "Necrotic"
+  },
+  "condition": "target_has:Hex",
+  "source": "https://bg3.wiki/wiki/Hex",
+  "notes": "Concentration spell; +1d6 necrotic per attack vs hexed target."
+ },
+ "Hunter's Mark": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit|thrown_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "Piercing"
+  },
+  "condition": "target_has:Hunter's Mark Quarry",
+  "source": "https://bg3.wiki/wiki/Hunter%27s_Mark",
+  "notes": "Does NOT trigger on unarmed attacks (bg3.wiki exception). Uses weapon triggers only."
+ },
+ "Lightning Charges": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat": 1,
+   "type": "Lightning"
+  },
+  "consume": "lightning_charges",
+  "source": "https://bg3.wiki/wiki/Lightning_Charges_(Condition)",
+  "notes": "+1 Lightning per damage source (flat DR). bg3.wiki Damage_mechanics worked example uses this exact +1 flat value. Patch 3 downgraded Lightning Charges from DRS to DR (it is now a plain Damage Rider, NOT a damage source)."
+ },
+ "Ring of Flinging": {
+  "trigger": "thrown_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d4",
+   "flat": 0,
+   "type": "Piercing"
+  },
+  "source": "https://bg3.wiki/wiki/Ring_of_Flinging"
+ },
+ "Lightning Jabber": {
+  "trigger": "thrown_attack_hit",
+  "kind": "DRS",
+  "damage": {
+   "dice": "1d4",
+   "flat": 0,
+   "type": "Lightning"
+  },
+  "source": "https://bg3.wiki/wiki/Lightning_Jabber",
+  "notes": "Throwing: Lightning Damage passive — +1d4 Lightning as a NEW damage source (re-triggers all DRs). Thrown-only. This is the DRS in the bg3.wiki Damage_mechanics worked example."
+ },
+ "Nyrulna": {
+  "trigger": "thrown_attack_hit",
+  "kind": "DRS",
+  "damage": {
+   "dice": "3d4",
+   "flat": 0,
+   "type": "Thunder"
+  },
+  "exclude_from_most_riders": true,
+  "source": "https://bg3.wiki/wiki/Nyrulna",
+  "notes": "Zephyr Connection: thrown-only 3d4 Thunder explosion as a new damage source. Wiki: this damage does NOT benefit from many riders that apply to the base weapon attack (engine flag exclude_from_most_riders — v1 approximation: still re-triggers DRs; honour_mode downgrades to DR)."
+ },
+ "Tavern Brawler (unarmed)": {
+  "trigger": "unarmed_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "str_mod",
+   "type": "Bludgeoning"
+  },
+  "source": "https://bg3.wiki/wiki/Tavern_Brawler",
+  "notes": "Adds Str mod to unarmed damage a second time. Granted by the Tavern Brawler feat."
+ },
+ "Tavern Brawler (thrown)": {
+  "trigger": "thrown_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "str_mod",
+   "type": "Piercing"
+  },
+  "source": "https://bg3.wiki/wiki/Tavern_Brawler",
+  "notes": "Adds Str mod to thrown weapon damage again, and grants proficiency."
+ },
+ "Bloodthirst": [
+  {
+   "trigger": "passive",
+   "kind": "crit_threshold",
+   "value": -1,
+   "source": "https://bg3.wiki/wiki/Bloodthirst",
+   "notes": "Improved Critical: reduces crit threshold by 1 (crit on 19-20)."
+  },
+  {
+   "trigger": "passive",
+   "kind": "target_vulnerability",
+   "vulnerability": "Piercing",
+   "main_hand_only": true,
+   "source": "https://bg3.wiki/wiki/Bloodthirst",
+   "notes": "Exploit Weakness (main hand only): creatures hit with this weapon receive Vulnerability to Piercing damage. Applied to target at build setup (same mechanism as Bhaalist Armour)."
+  }
+ ],
+ "Gloves of Soul Catching": {
+  "trigger": "unarmed_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d10",
+   "flat": 0,
+   "type": "Force"
+  },
+  "source": "https://bg3.wiki/wiki/Gloves_of_Soul_Catching",
+  "notes": "Unarmed attacks deal +1d10 force."
+ },
+ "Boots of Uninhibited Kushigo": {
+  "trigger": "unarmed_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "wis_mod",
+   "type": "Bludgeoning"
+  },
+  "source": "https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo",
+  "notes": "Unarmed strikes deal +Wisdom modifier damage."
+ },
+ "Rage (Barbarian)": {
+  "trigger": "melee_weapon_attack_hit|unarmed_attack_hit|thrown_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "rage_damage",
+   "type": "SameAsWeapon"
+  },
+  "source": "https://bg3.wiki/wiki/Rage",
+  "notes": "flat_sym rage_damage scales with barbarian level (2/3/4/5...). Type inherits weapon type. Self also grants resistance to bludgeoning/piercing/slashing (modeled in conditions)."
+ },
+ "Sneak Attack": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "condition": "sneak_attack_eligible",
+  "once_per_turn": true,
+  "source": "https://bg3.wiki/wiki/Sneak_Attack",
+  "notes": "Scales 1d6 per 2 rogue levels (1d6@1,2d6@3,...). once_per_turn: round orchestrator routes to first eligible attack. Dice count overridden by rogue level at character layer."
+ },
+ "Divine Smite": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "DRS",
+  "damage": {
+   "dice": "2d8",
+   "flat": 0,
+   "type": "Radiant"
+  },
+  "source": "https://bg3.wiki/wiki/Divine_Smite",
+  "notes": "An added damage SOURCE (DRS) declared per-attack via the build's smite action. +1d8 vs fiend/undead. Slot level scales dice (2d8@slot1, +1d8/slot, cap 5d8). round._build_smite_drs reads this entry and overrides the dice count by slot level. (Legacy kind 'DS_added' is treated as DRS by the engine.)"
+ },
+ "Great Weapon Master (active)": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": -5,
+  "damage_bonus": 10,
+  "source": "https://bg3.wiki/wiki/Great_Weapon_Master",
+  "notes": "Toggleable: -5 attack roll, +10 damage on melee weapon attacks with heavy weapons."
+ },
+ "Sharpshooter (active)": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": -5,
+  "damage_bonus": 10,
+  "source": "https://bg3.wiki/wiki/Sharpshooter",
+  "notes": "Toggleable: -5 attack, +10 damage on ranged weapon attacks."
+ },
+ "Bhaalist Armour (Aura of Murder)": {
+  "trigger": "passive",
+  "kind": "target_vulnerability",
+  "vulnerability": "Piercing",
+  "source": "https://bg3.wiki/wiki/Bhaalist_Armour",
+  "notes": "Enemies within 3m become Vulnerable to Piercing. Applied to target at build setup."
+ },
+ "Savage Attacker": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "special_savage",
+  "source": "https://bg3.wiki/wiki/Savage_Attacker",
+  "notes": "SPECIAL PATH — NOT consumed as a normal rider. Detected by Character.has_savage_attacker() (feat name match) and applied in build_base_ds(savage=True), which adds the reroll-keep-higher EV to the weapon dice via dice.upgrade_savage(). Kept here only as a documented data pointer; do not add damage fields. Crit-doubling of the savage bonus is approximated away in v1 (non-crit majority is exact)."
+ },
+ "Symbiotic Entity": {
+  "trigger": "melee_weapon_attack_hit|unarmed_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "Necrotic"
+  },
+  "source": "https://bg3.wiki/wiki/Circle_of_Spores",
+  "notes": "Spore Druid Symbiotic Entity: +1d6 necrotic per weapon/unarmed attack while active. Granted by Symbiotic Entity action."
+ },
+ "Craterflesh Gloves": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit|thrown_attack_hit|unarmed_attack_hit",
+  "kind": "DR",
+  "condition": "on_crit",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "Force"
+  },
+  "source": "https://bg3.wiki/wiki/Craterflesh_Gloves",
+  "notes": "On critical hit, +1d6 Force. bg3.wiki Critical_hit: this added damage die is itself doubled by the crit (so crit adds 2d6 Force). Engine applies it only on the crit branch and doubles its dice."
+ },
+ "Sword of Life Stealing": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "DR",
+  "condition": "on_crit",
+  "damage": {
+   "dice": null,
+   "flat": 10,
+   "type": "Necrotic"
+  },
+  "source": "https://bg3.wiki/wiki/Sword_of_Life_Stealing",
+  "notes": "On crit (this weapon only — wiki bug note: passive fires only on this sword's crits despite wording), +10 Necrotic (flat, NOT doubled by crit) and 10 temp HP. Engine: flat on_crit rider, no dice doubling. Excludes constructs/undead."
+ },
+ "Hellfire Greataxe": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "DRS",
+  "damage": {
+   "dice": "2d6",
+   "flat": 0,
+   "type": "Fire",
+   "bypass_resistance": true
+  },
+  "source": "https://bg3.wiki/wiki/Hellfire_Greataxe",
+  "notes": "Hellflame Cleave weapon action: deals Hellfire Fire damage that IGNORES Fire resistance and immunity (bg3.wiki). Engine: DRS with bypass_resistance=true -> skips res/imm, vulnerability still applies. Wiki: this weapon action counts as a spell (benefits from spell-bonus effects); v1 models it as a melee DRS."
+ },
+ "Colossus Slayer": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit|thrown_attack_hit",
+  "kind": "DRS",
+  "condition": "target_le_full_hp",
+  "damage": {
+   "dice": "1d8",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "once_per_turn": true,
+  "source": "https://bg3.wiki/wiki/Hunter",
+  "notes": "Hunter (Lv3) Colossus Slayer: once per turn, if target below max HP, weapon attack +1d8 Physical (wiki: Physical type, type-inherits via SameAsWeapon here). Wiki: it is a DRS (new damage source) and can apply to each damage source of the triggering attack. Engine: DRS, once_per_turn, condition target_le_full_hp (build sets the flag)."
+ },
+ "Lifedrinker": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "cha_mod",
+   "type": "Necrotic"
+  },
+  "source": "https://bg3.wiki/wiki/Warlock",
+  "notes": "Warlock (Lv12) Lifedrinker: melee attacks deal +Charisma modifier Necrotic. flat_sym cha_mod resolved from the build's CHA. DR (fires once per damage source)."
+ },
+ "Crimson Mischief": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "DRS",
+  "condition": "attacker_has_advantage",
+  "main_hand_only": true,
+  "damage": {
+   "dice": null,
+   "flat": 7,
+   "type": "Piercing"
+  },
+  "source": "https://bg3.wiki/wiki/Crimson_Mischief",
+  "notes": "Redvein Savagery (main hand only): when attacking with Advantage, target takes +7 Piercing (flat). Wiki: 'Damage rider as source damage' -> DRS, but applies to most damage sources of the base attack, NOT to some DRS (e.g. Colossus Slayer). Engine v1: DRS, condition attacker_has_advantage (build sets flag when advantage active). Also has Prey Upon the Weak (+1d4 Piercing vs <=50% HP, off-hand) — separate rider not modelled here."
+ },
+ "Balduran's Giantslayer": [
+  {
+   "trigger": "melee_weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat_sym": "prof",
+    "type": "Slashing"
+   },
+   "source": "https://bg3.wiki/wiki/Balduran%27s_Giantslayer",
+   "notes": "Topple the Big Folk weapon action: +proficiency bonus damage."
+  },
+  {
+   "trigger": "melee_weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat_sym": "str_mod",
+    "type": "Slashing"
+   },
+   "source": "https://bg3.wiki/wiki/Balduran%27s_Giantslayer",
+   "notes": "Giantslayer passive: on hit, double the damage from Strength. +str_mod Slashing (base DS already has str_mod once; this adds it again). Wiki also: vs Large+ +2d6 Slashing (in riders.auto.json) + Advantage."
+  }
+ ],
+ "Duellist's Prerogative": [
+  {
+   "trigger": "passive",
+   "kind": "crit_threshold",
+   "value": -1,
+   "condition": "off_hand_empty",
+   "source": "https://bg3.wiki/wiki/Duellist%27s_Prerogative",
+   "notes": "Elegant Duellist: while off-hand empty, score a crit on 19. Build sets off_hand_empty flag."
+  },
+  {
+   "trigger": "melee_weapon_attack_hit",
+   "kind": "DR",
+   "damage": {
+    "dice": null,
+    "flat_sym": "prof",
+    "type": "Necrotic"
+   },
+   "main_hand_only": true,
+   "source": "https://bg3.wiki/wiki/Duellist%27s_Prerogative",
+   "notes": "Withering Cut (main hand only, bonus action): on melee hit, +proficiency bonus Necrotic."
+  }
+ ],
+ "The Clover": [
+  {
+   "trigger": "passive",
+   "kind": "crit_threshold",
+   "value": -1,
+   "source": "https://bg3.wiki/wiki/Knife_of_the_Undermountain_King",
+   "notes": "Organ Rearranger: crit threshold reduced by 1 (crit on 19)."
+  },
+  {
+   "trigger": "passive",
+   "kind": "target_vulnerability",
+   "vulnerability": "Piercing",
+   "main_hand_only": true,
+   "source": "https://bg3.wiki/wiki/Knife_of_the_Undermountain_King",
+   "notes": "Exploit Weakness (main hand): creatures hit receive Vulnerability to Piercing."
+  }
+ ],
+ "Shar's Spear of Evening": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit|thrown_attack_hit",
+  "kind": "DR",
+  "condition": "target_obscured",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "source": "https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening",
+  "notes": "Shar's Blessing: +1d6 damage to Lightly/Heavily Obscured creatures. Build sets target_obscured flag."
+ },
+ "Enlarge (Duergar)": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit|thrown_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d4",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "source": "https://bg3.wiki/wiki/Enlarge",
+  "notes": "Duergar racial Enlarge: weapons deal +1d4 damage (type follows weapon) for 10 turns. Racial version: once per Long Rest, NO concentration (Patch 3). Granted by Duergar Magic at level 3. Declare as active_buff in the build while enlarged."
+ },
+ "Searing Smite (Zariel)": {
+  "trigger": "melee_weapon_attack_hit",
+  "kind": "DRS",
+  "damage": {
+   "dice": "1d6",
+   "flat": 0,
+   "type": "Fire"
+  },
+  "source": "https://bg3.wiki/wiki/Searing_Smite",
+  "notes": "Zariel Tiefling racial Searing Smite (cast as 2nd-level slot at char level 3). On melee weapon hit: +1d6 Fire as a NEW damage source (DRS — bg3.wiki Damage_mechanics: weapon damage and extra fire are separate sources, spell-bonus rides weapon riders). Plus ongoing 1d6 Fire/turn until CON save (not modelled as per-turn here). Declare as active_buff. Upcast +1d6/level."
+ },
+ "Agonizing Blast": {
+  "trigger": "spell_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "cha_mod",
+   "type": "Force"
+  },
+  "source": "https://bg3.wiki/wiki/Agonizing_Blast",
+  "notes": "Warlock Eldritch Invocation: Eldritch Blast beams deal +Charisma modifier Force. Declare as active_buff (Warlock 2+). Trigger spell_attack_hit so it applies to each EB beam (each beam is a separate source)."
+ },
+ "Draconic Bloodline": {
+  "trigger": "spell_damage_dealt",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "cha_mod",
+   "type": "SameAsSpell"
+  },
+  "condition": "draconic_affinity_type",
+  "source": "https://bg3.wiki/wiki/Draconic_Bloodline",
+  "notes": "Sorcerer Draconic Bloodline (L1/L6) Elemental Affinity: when a spell deals damage of the ancestry element, +Charisma modifier. Build sets draconic_affinity_type flag (e.g. draconic_affinity_type:Fire) AND the spell's source type must match — engine simplification: applies to all spell damage while flag set; declare ancestry via active_buff 'Draconic Bloodline (Fire)' and set target flag matching the spell's type."
+ },
+ "Empowered Evocation": {
+  "trigger": "spell_damage_dealt",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "int_mod",
+   "type": "SameAsSpell"
+  },
+  "source": "https://bg3.wiki/wiki/Wizard",
+  "notes": "Wizard Evocation subclass L10: add Intelligence modifier to damage of Evocation spells. Auto-injected when subclass:Evocation and Wizard>=10. Engine simplification: applies to all spell damage (not just Evocation school)."
+ },
+ "Charger (charge)": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 0,
+  "damage_bonus": 5,
+  "source": "https://bg3.wiki/wiki/Charger",
+  "notes": "Charger feat: a Charge weapon attack (Action+Bonus Action, move up to 9m) deals +5 damage. Declare as active_buff on the round the character charges; applies +5 flat to that melee attack's DS."
+ },
+ "Martial Adept (superiority die)": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d8",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "source": "https://bg3.wiki/wiki/Martial_Adept",
+  "notes": "Martial Adept feat: 1 Superiority Die (d8) per short rest, spent on a Battle Master manoeuvre (e.g. Menacing/Trip/Disarming) that adds +1d8 to a weapon attack's damage. Declare as active_buff when the die is spent. Type inherits weapon type (manoeuvre bonus is physical)."
+ },
+ "Gloves of Archery": {
+  "trigger": "ranged_weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat": 2,
+   "type": "Piercing"
+  },
+  "source": "https://bg3.wiki/wiki/Gloves_of_Archery",
+  "notes": "+2 damage on ranged weapon attacks."
+ },
+ "Gloves of the Balanced Hands": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "condition": "off_hand_attack",
+  "damage": {
+   "dice": null,
+   "flat_sym": "ability_mod",
+   "type": "SameAsWeapon"
+  },
+  "source": "https://bg3.wiki/wiki/Gloves_of_the_Balanced_Hands",
+  "notes": "Off-hand attack: add Ability Score Modifier to damage (Two-Weapon Fighting style). Build sets off_hand_attack flag on the off-hand attack action."
+ },
+ "Shadow-Cloaked Ring": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d4",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "condition": "target_obscured",
+  "source": "https://bg3.wiki/wiki/Shadow-Cloaked_Ring",
+  "notes": "+1d4 weapon/unarmed damage vs Lightly or Heavily Obscured targets. condition target_obscured (build flag)."
+ },
+ "Legacy of the Masters": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 2,
+  "damage_bonus": 2,
+  "source": "https://bg3.wiki/wiki/Legacy_of_the_Masters",
+  "notes": "Arming Enhancement: +2 to attack AND damage rolls with weapons. (active when equipped.)"
+ },
+ "Circlet of Hunting": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus_dice": "1d4",
+  "condition": "target_marked",
+  "source": "https://bg3.wiki/wiki/Circlet_of_Hunting",
+  "notes": "+1d4 to Attack Rolls vs creatures marked by Hunter's Mark/True Strike/Faerie Fire/Guiding Bolt. Build sets target_marked flag. Engine: attack_bonus_dice adds a d4 to the attack roll (see character.attack_bonus)."
+ },
+ "Sarevok's Horned Helmet": {
+  "trigger": "passive",
+  "kind": "crit_threshold",
+  "value": -1,
+  "source": "https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet",
+  "notes": "Deathbringer's Sight: crit threshold reduced by 1 (unconditional, stacks)."
+ },
+ "Bonespike Gloves": {
+  "trigger": "melee_weapon_attack_hit|ranged_weapon_attack_hit|thrown_attack_hit|unarmed_attack_hit",
+  "kind": "dr_bypass",
+  "bypass_types": [
+   "Slashing",
+   "Piercing",
+   "Bludgeoning"
+  ],
+  "source": "https://bg3.wiki/wiki/Bonespike_Gloves",
+  "notes": "Exoskeletal Reinforcement: your attacks ignore Resistance to Slashing/Piercing/Bludgeoning. Engine: marks physical damage as bypass_resistance."
+ },
+ "Poisoner's Ring": {
+  "trigger": "passive",
+  "kind": "target_vulnerability",
+  "vulnerability": "Poison",
+  "source": "https://bg3.wiki/wiki/Poisoner%27s_Ring",
+  "notes": "Virulent Venom: action to make a target Vulnerable to Poison (save negates). Modelled as target_vulnerability when build declares the ring used."
+ },
+ "Necklace of Elemental Augmentation": {
+  "trigger": "spell_damage_dealt",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "spell_mod",
+   "type": "SameAsSpell"
+  },
+  "source": "https://bg3.wiki/wiki/Necklace_of_Elemental_Augmentation",
+  "notes": "When a cantrip deals Acid/Cold/Fire/Lightning/Thunder damage, add spellcasting modifier to that damage. flat_sym spellcasting_mod; condition cantrip (build flag). _rider_type SameAsSpell resolves to the spell damage type. (wiki: cantrips only; engine applies to all spells as a simplification since spell-level tagging is not modelled.)"
+ },
+ "Hat of the Sharp Caster": {
+  "trigger": "spell_attack_hit",
+  "kind": "special_reroll_low",
+  "source": "https://bg3.wiki/wiki/Hat_of_the_Sharp_Caster",
+  "notes": "SPECIAL PATH (not consumed as normal rider). When a spell attack damage die rolls 1 or 2, reroll once keep higher. Approximated by adding upgrade_savage-style EV to spell-attack dice. v1: documented but not auto-applied (declare via active_buff if needed)."
+ },
+ "Psychic Spark": {
+  "trigger": "passive",
+  "kind": "extra_projectile",
+  "spell": "Magic Missile",
+  "extra_projectiles": 1,
+  "source": "https://bg3.wiki/wiki/Psychic_Spark",
+  "notes": "Psychic Missiles: shoot an additional dart when casting Magic Missile (+1 projectile). Engine: catalog.MULTISOURCE_SPELL_PATCHES['Magic Missile'].projectiles_at_base could be bumped, but this is item-conditional; declare by setting action count=4 when Psychic Spark equipped."
+ },
+ "Spellmight Gloves": {
+  "trigger": "spell_attack_hit",
+  "kind": "attack_modifier",
+  "attack_bonus": -5,
+  "damage_bonus_dice": "1d8",
+  "source": "https://bg3.wiki/wiki/Spellmight_Gloves",
+  "notes": "Spellmight: spell attack roll -5, +1d8 damage (spell-side GWM). Engine: attack_modifier on spell attacks; damage_bonus_dice models the die."
+ },
+ "Daredevil Gloves": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "attack_kind": "spell",
+  "source": "https://bg3.wiki/wiki/Daredevil_Gloves",
+  "notes": "+1 Spell Attack rolls."
+ },
+ "Gloves of The Duellist": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 2,
+  "condition": "main_hand_only_no_offhand",
+  "source": "https://bg3.wiki/wiki/Gloves_of_The_Duellist",
+  "notes": "+2 melee weapon Attack rolls when only main hand held, off hand empty."
+ },
+ "Marksmanship Hat": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "attack_kind": "ranged,thrown",
+  "source": "https://bg3.wiki/wiki/Marksmanship_Hat",
+  "notes": "+1 Ranged and Thrown Attack rolls."
+ },
+ "Swordmaster Gloves": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "attack_kind": "melee",
+  "source": "https://bg3.wiki/wiki/Swordmaster_Gloves",
+  "notes": "+1 melee Attack rolls (sword proficiency too)."
+ },
+ "Winkling Gloves": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "source": "https://bg3.wiki/wiki/Winkling_Gloves",
+  "notes": "Attack rolls +1."
+ },
+ "Blackguard's Gauntlets": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "source": "https://bg3.wiki/wiki/Blackguard%27s_Gauntlets",
+  "notes": "Attack rolls +1."
+ },
+ "Gauntlets of the Warmaster": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "source": "https://bg3.wiki/wiki/Gauntlets_of_the_Warmaster",
+  "notes": "Attack rolls +1; manoeuvre save disadvantage not modelled."
+ },
+ "Unwanted Masterwork Gauntlets": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "source": "https://bg3.wiki/wiki/Unwanted_Masterwork_Gauntlets",
+  "notes": "Attack rolls +1."
+ },
+ "Bhaalist Gloves": {
+  "trigger": "passive",
+  "kind": "attack_modifier",
+  "attack_bonus": 1,
+  "source": "https://bg3.wiki/wiki/Bhaalist_Gloves",
+  "notes": "Attack rolls +1."
+ },
+ "Dark Justiciar Gauntlets": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d4",
+   "flat": 0,
+   "type": "Necrotic"
+  },
+  "source": "https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets",
+  "notes": "Umbral Attack: weapon attacks deal +1d4 Necrotic. (Uncommon variant.)"
+ },
+ "Gloves of Uninhibited Kushigo": {
+  "trigger": "thrown_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": "1d4",
+   "flat": 0,
+   "type": "SameAsWeapon"
+  },
+  "source": "https://bg3.wiki/wiki/Gloves_of_Uninhibited_Kushigo",
+  "notes": "+1d4 damage with Throw Attacks and Improvised Weapons. Type inherits weapon."
+ },
+ "Scabby Pugilist Circlet": {
+  "trigger": "weapon_attack_hit|unarmed_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat": 2,
+   "type": "SameAsWeapon"
+  },
+  "condition": "surrounded",
+  "source": "https://bg3.wiki/wiki/Scabby_Pugilist_Circlet",
+  "notes": "+2 weapon/unarmed damage while surrounded by 2+ foes. condition surrounded (build flag)."
+ },
+ "Ring of Arcane Synergy": {
+  "trigger": "weapon_attack_hit",
+  "kind": "DR",
+  "damage": {
+   "dice": null,
+   "flat_sym": "spell_mod",
+   "type": "SameAsWeapon"
+  },
+  "condition": "arcane_synergy_active",
+  "source": "https://bg3.wiki/wiki/Ring_of_Arcane_Synergy",
+  "notes": "Arcane Synergy (after dealing cantrip damage): weapon attacks add spellcasting modifier. condition arcane_synergy_active (build flag)."
+ },
+ "Risky Ring": {
+  "trigger": "passive",
+  "kind": "force_advantage",
+  "source": "https://bg3.wiki/wiki/Risky_Ring",
+  "notes": "Risky Attack: Advantage on Attack Rolls, Disadvantage on Saving Throws. Engine: force_advantage flag -> attack advantage (save disadvantage not modelled)."
+ },
+ "Shade-Slayer Cloak": {
+  "trigger": "passive",
+  "kind": "crit_threshold",
+  "value": -1,
+  "condition": "attacker_hiding",
+  "source": "https://bg3.wiki/wiki/Shade-Slayer_Cloak",
+  "notes": "Stealthy Critical: while Hiding, crit threshold -1. condition attacker_hiding (build flag)."
+ },
+ "Covert Cowl": {
+  "trigger": "passive",
+  "kind": "crit_threshold",
+  "value": -1,
+  "condition": "attacker_obscured",
+  "source": "https://bg3.wiki/wiki/Covert_Cowl",
+  "notes": "Covert Critical: while obscured, crit threshold -1. condition attacker_obscured (build flag)."
+ },
+ "Spineshudder Amulet": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Reverberation",
+  "stacks": 2,
+  "source": "https://bg3.wiki/wiki/Spineshudder_Amulet",
+  "notes": "Crackling Resonance: ranged spell attack inflicts 2 turns Reverberation. Engine: on hit, add Reverberation to target; end_of_turn settles 5-stack 1d4 Thunder DRS."
+ },
+ "Gloves of Belligerent Skies": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Reverberation",
+  "stacks": 2,
+  "source": "https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies",
+  "notes": "Thunderous Conversion: Thunder/Lightning/Radiant damage inflicts 2 Reverberation. Engine: on spell hit, stack Reverberation."
+ },
+ "Thunderskin Cloak": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Reverberation",
+  "stacks": 1,
+  "source": "https://bg3.wiki/wiki/Thunderskin_Cloak",
+  "notes": "Dazing Echo: a Reverberation creature dealing damage inflicts more Reverberation. Simplified: +1 stack on spell hit."
+ },
+ "Winter's Clutches": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Encrusted with Frost",
+  "stacks": 2,
+  "source": "https://bg3.wiki/wiki/Winter%27s_Clutches",
+  "notes": "Cold damage inflicts 2 Encrusted with Frost. Engine: on cold spell hit, stack Encrusted; 7-stack triggers Frozen+1d4 Cold DRS at end_of_turn."
+ },
+ "Ichorous Gloves": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Noxious Fumes",
+  "stacks": 1,
+  "source": "https://bg3.wiki/wiki/Ichorous_Gloves",
+  "notes": "Acid damage inflicts Noxious Fumes (poison cloud condition). Simplified: not a damage-relevant condition for end_of_turn; flagged for completeness."
+ },
+ "Braindrain Gloves": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Mental Fatigue",
+  "stacks": 1,
+  "source": "https://bg3.wiki/wiki/Braindrain_Gloves",
+  "notes": "Psychic damage inflicts Mental Fatigue (save penalty). Not damage-relevant directly; flagged."
+ },
+ "Luminous Gloves": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Radiating Orb",
+  "stacks": 2,
+  "source": "https://bg3.wiki/wiki/Luminous_Gloves",
+  "notes": "Radiant damage inflicts 2 Radiating Orb (target attack disadvantage). Defensive debuff; flagged."
+ },
+ "Coruscation Ring": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Radiating Orb",
+  "stacks": 1,
+  "source": "https://bg3.wiki/wiki/Coruscation_Ring",
+  "notes": "Spell damage while illuminated inflicts Radiating Orb. Flagged."
+ },
+ "Snowburst Ring": {
+  "trigger": "spell_attack_hit",
+  "kind": "inflicts_condition",
+  "condition_inflicted": "Prone",
+  "stacks": 1,
+  "save": {
+   "ability": "DEX",
+   "dc": "spell_save_dc"
+  },
+  "source": "https://bg3.wiki/wiki/Snowburst_Ring",
+  "notes": "Cold damage creates ice surface; DEX save vs spell DC or Prone. Engine: on cold spell hit, inflict Prone (build settles advantage_vs_melee). Simplified: no save, flag inflict."
+ },
+ "Hat of Fire Acuity": {
+  "trigger": "passive",
+  "kind": "grants_condition",
+  "condition_granted": "Arcane Acuity",
+  "on": "fire_damage_dealt",
+  "source": "https://bg3.wiki/wiki/Hat_of_Fire_Acuity",
+  "notes": "Fire Acuity: dealing Fire damage grants Arcane Acuity (+1 spell attack & spell save DC per turn). Engine: modelled via active_buff Arcane Acuity when build declares it active."
+ },
+ "Hat of Storm Scion's Power": {
+  "trigger": "passive",
+  "kind": "grants_condition",
+  "condition_granted": "Arcane Acuity",
+  "on": "thunder_damage_dealt",
+  "source": "https://bg3.wiki/wiki/Hat_of_Storm_Scion%27s_Power",
+  "notes": "Thunderous Acuity: Thunder damage grants Arcane Acuity."
+ },
+ "Helmet of Arcane Acuity": {
+  "trigger": "passive",
+  "kind": "grants_condition",
+  "condition_granted": "Arcane Acuity",
+  "on": "weapon_damage_dealt",
+  "source": "https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity",
+  "notes": "Battle Acuity: weapon attack damage grants Arcane Acuity."
+ },
+ "Arcane Acuity": {
+  "trigger": "passive",
+  "kind": "spell_attack_modifier",
+  "attack_bonus": 1,
+  "spell_save_dc_bonus": 1,
+  "source": "https://bg3.wiki/wiki/Arcane_Acuity_(Condition)",
+  "notes": "Arcane Acuity condition: +1 spell Attack Rolls and +1 spell save DC per remaining turn. Declare as active_buff when active. Reduces by 2 when taking damage (not modelled)."
+ }
+}

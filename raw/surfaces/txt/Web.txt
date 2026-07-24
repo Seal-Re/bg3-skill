@@ -1,0 +1,269 @@
+===== Web.html =====
+
+
+Web - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Web
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+This article is about the spell. For other uses, see Web (disambiguation). 
+
+Web is a level 2 conjuration spell. It allows spellcasters to conjure a mass of sticky and flammable web at an area within range. Creatures moving or entering this area have their speed halved and can become caught in the web.
+
+ Description 
+
+Cover an area in thick, flammable webbing that can  Enweb creatures within.
+
+An ally can use its  Help action to try and tear away the webs.
+ Properties 
+
+Cost
+ Action +  Level 2 Spell Slot
+Details
+ DEX Save
+ Range: 18 m (60 ft)
+ AoE: 4 m (13 ft) Radius
+ Creates Area: Web
+ Concentration
+
+ At higher levels 
+
+Casting this spell at a higher level grants no additional benefit. 
+
+Technical details 
+
+ 
+ UID
+
+ 
+ 
+ Target_Web
+
+ 
+
+ 
+ Spell flags
+
+ 
+HasHighGroundRangeExtension, HasSomaticComponent, HasVerbalComponent, IsConcentration, IsSpell, RangeIgnoreVerticalThreshold
+
+ Area: Web 
+
+ Web
+ Duration: 10 turns
+
+ AoE: 4 m (13 ft) Radius
+
+Difficult terrain - Movement Speed is halved. Can Enweb creatures. Prevents Falling damage. Flammable.
+
+ Type: Surface
+
+ Condition: Enwebbed 
+
+ Enwebbed
+ Duration: 1 turn
+
+ DEX Save (Spell save DC)
+
+- Cannot move.
+
+-  Attack Rolls against the creature have  Advantage, while the creature's Attack Rolls and Dexterity  Saving Throws are rolled with  Disadvantage.
+
+ 
+
+ Condition: Difficult Terrain: Web 
+
+ Difficult Terrain: Web
+ Duration: Whilst on surface
+
+- Movement speed halved.
+
+ 
+
+ How to learn 
+
+Classes: 
+- Class level 3: Sorcerer, Wizard, and Circle of the Land (Underdark)
+- Class level 5: Swarmkeeper
+- Class level 6: College of Lore (via Magical Secrets)
+- Class level 8: Arcane Trickster and Eldritch Knight
+- Class level 10: Bard (via Magical Secrets)
+
+Other ways to learn:
+
+- Wizards with  Level 2 Spell Slots can transcribe a  Scroll of Web to their spellbooks.
+
+ Notes 
+
+- A similar ability is also accessible to Beast Master Rangers through  Wolf Spider Companion, and all Druids through  Wild Shape: Spider.
+
+- Jumping into a web negates a portion of any falling damage and, possibly, the  Prone effect from falling from a height of 8 m (27 ft) or higher.
+
+- The incantation for Web is Voco Araniae, Latin for "I call/summon cobwebs".
+
+ 
+ Visuals 
+
+Play Video
+
+Local File
+
+https://bg3.wiki/wiki/File:Web_Visuals.mp4
+ 
+
+External links[edit section | visual editor]
+
+-  Web on the Forgotten Realms Wiki
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Web&oldid=350586"
+
+ 
+
+Categories: 
+- Spells
+- Level 2 Spells
+- Conjuration spells
+- Spells that can be transcribed
+- Dexterity saving throws
+- Actions
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

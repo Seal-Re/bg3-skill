@@ -1,0 +1,18 @@
+{
+  "name": "Savage Attacker test (greatsword 2d6, AC15)",
+  "_note": "Fighter 20 STR, prof 3, greatsword 2d6 slashing, Savage Attacker. Savage extra = 2*(4.472-3.5)=1.944 slashing. AC15 atk+8 p_normal=0.65 p_crit=0.05. Base 2d6+5=12, +savage 1.944 = 13.944 normal; crit 4d6+5=19 (savage crit-doubling approximated away). EV = 0.65*13.944 + 0.05*19 = 9.064+0.95 = 10.014",
+  "classes": [{"cls": "Fighter", "level": 5}],
+  "abilities": {"STR": 20, "DEX": 12, "CON": 14, "INT": 8, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 3,
+  "attack_ability": "STR",
+  "feats": ["Savage Attacker"],
+  "equipped": {"main_hand": "Greatsword"},
+  "active_buffs": [],
+  "target": {
+    "ac": 15, "save_bonus": {}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": []
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1}
+  ]
+}

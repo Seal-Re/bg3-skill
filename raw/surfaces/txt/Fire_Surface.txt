@@ -1,0 +1,252 @@
+===== Fire_Surface.html =====
+
+
+Fire - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Fire (surface)
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+(Redirected from Fire Surface)
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+Fire is a type of surface. When stepped on, characters catch on fire and take Fire damage every round. Dipping weapons into this surface makes them deal an additional 1d4 Fire damage.
+
+Description
+
+Deals 1d4⁠⁠Fire damage per turn.
+
+Properties
+
+ Type: Surface
+ Dippable
+
+ Condition: Burning 
+
+ Burning
+ Duration: 1 turn
+
+- Takes 1d4⁠⁠Fire damage per turn.
+
+- Can be removed with the  Help action, using a Healing Potion or gaining Wet.
+
+- Immune from if Wet.
+
+-  Dip action can be used on Burning characters or objects.
+
+ 
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Alchemist's Fire
+
+- Arrow of Fire
+
+- Concussion Grenade
+
+- Flammable Slime Bomb
+
+- Runepowder Vial
+
+- Runepowder Barrel
+
+Spells and actions:
+
+- Chromatic Orb: Fire
+
+- Death Burst (Fire)
+
+- Erupting Cinder
+
+- Fiery Regurgitation
+
+- Firewine Explosion
+
+- Incinerate
+
+- Self Immolation
+
+- Smouldering Touch
+
+- Sphere of Elemental Balance: Fire
+
+Interactions
+
+ Dippable
+
+A Fire surface can also be created by:
+
+- Exploding a Oil, Smokepowder and/or Firewine Barrel.
+
+- Igniting an Oil, Smokepowder, Grease, Unstable Blood, and/or Alcohol.
+
+When the fire burns out, it leaves behind an  Ash surface.
+
+- Turns into a  Steam Cloud for Duration: 10 turns after being exposed to water surface.
+
+Gallery[edit section | visual editor]
+
+ 
+- 
+ 
+
+ 
+Tav standing beside a fire surface.
+
+ 
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Fire_(surface)&oldid=371587"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+Hidden category: 
+- Pages with unknown conditions
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

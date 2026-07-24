@@ -1,0 +1,19 @@
+{
+  "name": "Bhaalist Armour test (shortsword piercing, Piercing vulnerability)",
+  "_note": "Rogue with shortsword (1d6 piercing, +5 DEX, prof 3). Bhaalist Armour gives target Piercing vulnerability. AC15. atk+8. p_normal=0.65 p_crit=0.05. Base DS 1d6+5=8.5 piercing, doubled to 2x vs vulnerability. EV = (0.65*8.5 + 0.05*12) * 2 = (5.525+0.6)*2 = 12.25",
+  "classes": [{"cls": "Rogue", "level": 5}],
+  "abilities": {"STR": 8, "DEX": 20, "CON": 14, "INT": 8, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 3,
+  "attack_ability": "DEX",
+  "feats": [],
+  "equipped": {"main_hand": "Shortsword", "armor": "Bhaalist Armour"},
+  "active_buffs": [],
+  "target": {
+    "ac": 15, "save_bonus": {}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": [],
+    "creature_type": "humanoid"
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1}
+  ]
+}

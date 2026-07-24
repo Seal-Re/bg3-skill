@@ -1,0 +1,30 @@
+{
+  "name": "Lightning Thrower (wiki Damage_mechanics worked example)",
+  "_note": "Reproduces bg3.wiki Damage_mechanics Example Calculation. Expected ~36 avg damage on a hit (ignoring resistances, pre hit-probability). Setup: 20 Str, Tavern Brawler, Lightning Charges (+1 lightning DR), Ring of Flinging (+1d4 piercing DR), Hex (+1d6 necrotic DR), Lightning Jabber thrown weapon (1d6+1+5 piercing DS, +1d4 lightning DRS from weapon passive).",
+
+  "classes": [{"cls": "Barbarian", "level": 5}, {"cls": "Rogue", "level": 4}],
+  "abilities": {"STR": 20, "DEX": 14, "CON": 14, "INT": 8, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 3,
+  "attack_ability": "STR",
+  "feats": ["Tavern Brawler"],
+  "equipped": {
+    "main_hand": "Lightning Jabber",
+    "ring1": "Ring of Flinging"
+  },
+  "active_buffs": [
+    {"ref": "Hex"},
+    {"ref": "Lightning Charges (wiki)"}
+  ],
+  "target": {
+    "ac": 15,
+    "save_bonus": {},
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "conditions": ["Hex"],
+    "flags": []
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "thrown", "count": 1}
+  ]
+}

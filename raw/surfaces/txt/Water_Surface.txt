@@ -1,0 +1,221 @@
+===== Water_Surface.html =====
+
+
+Water - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Water (surface)
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+(Redirected from Water Surface)
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+See also: Water 
+
+Water is a type of surface that can be created by numerous ways and manipulated by other elements.
+
+Description
+
+Douses unprotected flames. Can be electrified or frozen.
+
+Properties
+
+ Type: Surface
+ Dippable
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Bubbling Cauldron
+
+- Carafe of Water
+
+- Decanter of Nearly Endless Water
+
+- Holy Water
+
+- Jug of Water
+
+- Trident of the Waves
+
+- Water
+
+- Water Barrel
+
+Spells and actions:
+
+- Create Water
+
+- Slam (Water Elemental)
+
+- Minor Conjuration: Create Water
+
+Interactions
+
+- Turns into  Electrified Water for Duration: 2 turns after being exposed to lightning damage. Reverts back to water afterwards.
+
+- Turns into  Ice for Duration: 2 turns after being exposed to ice damage. Reverts back to water afterwards.
+
+- Turns into a  Steam Cloud for Duration: 2 turns after being exposed to a fire surface.
+
+Notes
+
+- As of Patch #6, can be created by interacting with a water pump.
+
+- Dipping a weapon into this surface removes  Dipped in Fire,  Dipped in Poison, and  Burning on the weapon, if applicable.
+
+- Standing on a Water Surface cleans off dirt and blood, as does using these items: Soap Bar, Sponge, Sponge Tray, and Mattis's Holy Hand Soap
+
+- Water of sufficient depth (i.e. Deep Water) is considered Difficult Terrain in game.
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Water_(surface)&oldid=265376"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

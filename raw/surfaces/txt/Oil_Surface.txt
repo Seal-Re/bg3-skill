@@ -1,0 +1,197 @@
+===== Oil_Surface.html =====
+
+
+Oil - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Oil
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+(Redirected from Oil Surface)
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+This article is about the slick surface that can be ignited. For other uses, see Oil (disambiguation). 
+
+Oil is a type of surface. Oil surfaces have no effects while stepping on them, however will ignite and turn into a Fire surface when in contact with flame, such as from a Fireball spell or a lit Candle.
+
+Description
+
+Flammable.
+
+Properties
+
+ Type: Surface
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Oil Barrel
+
+- Oil Flask
+
+Interactions
+
+- Turns into a  Fire surface when hit with Fire damage.
+
+Gallery[edit section | visual editor]
+
+ 
+- 
+ 
+
+ 
+Oil barrels and Oil Surfaces.
+
+ 
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Oil&oldid=240406"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

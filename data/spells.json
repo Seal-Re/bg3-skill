@@ -1,0 +1,5231 @@
+[
+ {
+  "name": "Acid Splash",
+  "source": "https://bg3.wiki/wiki/Acid_Splash",
+  "level": 0,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Acid",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "1d6 Acid",
+  "is_buff": false
+ },
+ {
+  "name": "Aid",
+  "source": "https://bg3.wiki/wiki/Aid",
+  "level": 2,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Animal Friendship",
+  "source": "https://bg3.wiki/wiki/Animal_Friendship",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Animate Dead",
+  "source": "https://bg3.wiki/wiki/Animate_Dead",
+  "level": 3,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 3,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Arcane Gate",
+  "source": "https://bg3.wiki/wiki/Arcane_Gate",
+  "level": 6,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Arcane Lock",
+  "source": "https://bg3.wiki/wiki/Arcane_Lock",
+  "level": 2,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Armour of Agathys",
+  "source": "https://bg3.wiki/wiki/Armour_of_Agathys",
+  "level": 1,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Arms of Hadar",
+  "source": "https://bg3.wiki/wiki/Arms_of_Hadar",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "reaction",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "2d6 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Bane (spell)",
+  "source": "https://bg3.wiki/wiki/Bane_(spell)",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CHA",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Banishing Smite",
+  "source": "https://bg3.wiki/wiki/Banishing_Smite",
+  "level": 5,
+  "school": "Abjuration",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "5d10",
+    "type": "Force",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "5d10 Force",
+  "is_buff": false
+ },
+ {
+  "name": "Banishment",
+  "source": "https://bg3.wiki/wiki/Banishment",
+  "level": 4,
+  "school": "Abjuration",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CHA",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Barkskin",
+  "source": "https://bg3.wiki/wiki/Barkskin",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Beacon of Hope",
+  "source": "https://bg3.wiki/wiki/Beacon_of_Hope",
+  "level": 3,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Bestow Curse",
+  "source": "https://bg3.wiki/wiki/Bestow_Curse",
+  "level": 3,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Bhaal's Power Word Kill Ritual",
+  "source": "https://bg3.wiki/wiki/Bhaal's_Power_Word_Kill_Ritual",
+  "level": null,
+  "school": null,
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": null,
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Blade Barrier",
+  "source": "https://bg3.wiki/wiki/Blade_Barrier",
+  "level": 6,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 36,
+  "aoe_shape": "line",
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "6d10",
+    "type": "Slashing",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "6d10 Slashing",
+  "is_buff": false
+ },
+ {
+  "name": "Blade Ward",
+  "source": "https://bg3.wiki/wiki/Blade_Ward",
+  "level": 0,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Bless",
+  "source": "https://bg3.wiki/wiki/Bless",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Blight",
+  "source": "https://bg3.wiki/wiki/Blight",
+  "level": 4,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "8d8",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "8d8 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Blinding Smite",
+  "source": "https://bg3.wiki/wiki/Blinding_Smite",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d8",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "3d8 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Blindness",
+  "source": "https://bg3.wiki/wiki/Blindness",
+  "level": 2,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Blink",
+  "source": "https://bg3.wiki/wiki/Blink",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Blur",
+  "source": "https://bg3.wiki/wiki/Blur",
+  "level": 2,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Bone Chill",
+  "source": "https://bg3.wiki/wiki/Bone_Chill",
+  "level": 0,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d8 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Booming Blade",
+  "source": "https://bg3.wiki/wiki/Booming_Blade",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Thunder",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d8 Thunder",
+  "is_buff": false
+ },
+ {
+  "name": "Branding Smite",
+  "source": "https://bg3.wiki/wiki/Branding_Smite",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 1,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "2d6 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Burning Hands",
+  "source": "https://bg3.wiki/wiki/Burning_Hands",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 5,
+  "aoe_shape": "cone",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 1,
+  "damage": [
+   {
+    "dice": "3d6",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "3d6 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Bursting Sinew",
+  "source": "https://bg3.wiki/wiki/Bursting_Sinew",
+  "level": 0,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d10",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "1d10 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Call Lightning",
+  "source": "https://bg3.wiki/wiki/Call_Lightning",
+  "level": 3,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d10",
+    "type": "Lightning",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "3d10 Lightning",
+  "is_buff": false
+ },
+ {
+  "name": "Calm Emotions",
+  "source": "https://bg3.wiki/wiki/Calm_Emotions",
+  "level": 2,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Chain Lightning",
+  "source": "https://bg3.wiki/wiki/Chain_Lightning",
+  "level": 6,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "10d8",
+    "type": "Lightning",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "10d8 Lightning",
+  "is_buff": false
+ },
+ {
+  "name": "Charm Person",
+  "source": "https://bg3.wiki/wiki/Charm_Person",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Chromatic Orb",
+  "source": "https://bg3.wiki/wiki/Chromatic_Orb",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d8",
+    "type": "Thunder",
+    "modifier": 0
+   },
+   {
+    "dice": "2d8",
+    "type": "Acid",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "3d8 Thunder 2d8 Acid",
+  "is_buff": false
+ },
+ {
+  "name": "Circle of Death",
+  "source": "https://bg3.wiki/wiki/Circle_of_Death",
+  "level": 6,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "8d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "8d6 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Cloud of Daggers",
+  "source": "https://bg3.wiki/wiki/Cloud_of_Daggers",
+  "level": 2,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d4",
+    "type": "Slashing",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "4d4 Slashing",
+  "is_buff": false
+ },
+ {
+  "name": "Cloudkill",
+  "source": "https://bg3.wiki/wiki/Cloudkill",
+  "level": 5,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "5d8",
+    "type": "Poison",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "5d8 Poison",
+  "is_buff": false
+ },
+ {
+  "name": "Colour Spray",
+  "source": "https://bg3.wiki/wiki/Colour_Spray",
+  "level": 1,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 5,
+  "aoe_shape": "cone",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Command",
+  "source": "https://bg3.wiki/wiki/Command",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Compelled Duel",
+  "source": "https://bg3.wiki/wiki/Compelled_Duel",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Cone of Cold",
+  "source": "https://bg3.wiki/wiki/Cone_of_Cold",
+  "level": 5,
+  "school": "Evocation",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "cone",
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "8d8",
+    "type": "Cold",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "8d8 Cold",
+  "is_buff": false
+ },
+ {
+  "name": "Confusion",
+  "source": "https://bg3.wiki/wiki/Confusion",
+  "level": 4,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Conjure Barrage",
+  "source": "https://bg3.wiki/wiki/Conjure_Barrage",
+  "level": 3,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "cone",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Conjure Elemental",
+  "source": "https://bg3.wiki/wiki/Conjure_Elemental",
+  "level": 5,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Conjure Minor Elemental",
+  "source": "https://bg3.wiki/wiki/Conjure_Minor_Elemental",
+  "level": 4,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Conjure Woodland Being",
+  "source": "https://bg3.wiki/wiki/Conjure_Woodland_Being",
+  "level": 4,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d8",
+    "type": "Bludgeoning",
+    "modifier": 0
+   },
+   {
+    "dice": "2d4",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "4d8 Bludgeoning 2d4 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Contagion",
+  "source": "https://bg3.wiki/wiki/Contagion",
+  "level": 5,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Counterspell",
+  "source": "https://bg3.wiki/wiki/Counterspell",
+  "level": 3,
+  "school": "Abjuration",
+  "casting_time": "reaction",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Create Undead",
+  "source": "https://bg3.wiki/wiki/Create_Undead",
+  "level": 6,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 3,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Bludgeoning",
+    "modifier": 0
+   },
+   {
+    "dice": "3d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "2d6 Bludgeoning 3d6 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Create or Destroy Water",
+  "source": "https://bg3.wiki/wiki/Create_or_Destroy_Water",
+  "level": 1,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": 4,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Crown of Madness",
+  "source": "https://bg3.wiki/wiki/Crown_of_Madness",
+  "level": 2,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Crusader's Mantle",
+  "source": "https://bg3.wiki/wiki/Crusader's_Mantle",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d4",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "1d4 Radiant",
+  "is_buff": true
+ },
+ {
+  "name": "Cure Wounds",
+  "source": "https://bg3.wiki/wiki/Cure_Wounds",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Dancing Lights",
+  "source": "https://bg3.wiki/wiki/Dancing_Lights",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Darkness",
+  "source": "https://bg3.wiki/wiki/Darkness",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 5,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Darkvision (spell)",
+  "source": "https://bg3.wiki/wiki/Darkvision_(spell)",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Daylight",
+  "source": "https://bg3.wiki/wiki/Daylight",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Death Ward",
+  "source": "https://bg3.wiki/wiki/Death_Ward",
+  "level": 4,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Destructive Wave",
+  "source": "https://bg3.wiki/wiki/Destructive_Wave",
+  "level": 5,
+  "school": "Evocation",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "5d6",
+    "type": "Thunder",
+    "modifier": 0
+   },
+   {
+    "dice": "5d6",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "5d6 Thunder 5d6 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Detect Thoughts",
+  "source": "https://bg3.wiki/wiki/Detect_Thoughts",
+  "level": 2,
+  "school": "Divination",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Dethrone",
+  "source": "https://bg3.wiki/wiki/Dethrone",
+  "level": 5,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 30,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "10d6+20",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "10d6+20 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Dimension Door",
+  "source": "https://bg3.wiki/wiki/Dimension_Door",
+  "level": 4,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 50,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Disguise Self",
+  "source": "https://bg3.wiki/wiki/Disguise_Self",
+  "level": 1,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Disintegrate",
+  "source": "https://bg3.wiki/wiki/Disintegrate",
+  "level": 6,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "10d6+40",
+    "type": "Force",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "no_damage_on_save"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "10d6+40 Force",
+  "is_buff": false
+ },
+ {
+  "name": "Dispel Evil And Good",
+  "source": "https://bg3.wiki/wiki/Dispel_Evil_And_Good",
+  "level": 5,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Dissonant Whispers",
+  "source": "https://bg3.wiki/wiki/Dissonant_Whispers",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d6",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "3d6 Psychic",
+  "is_buff": false
+ },
+ {
+  "name": "Divine Favour",
+  "source": "https://bg3.wiki/wiki/Divine_Favour",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d4",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "1d4 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Divine Revelry",
+  "source": "https://bg3.wiki/wiki/Divine_Revelry",
+  "level": 9,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 12,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_9",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Dominate Beast",
+  "source": "https://bg3.wiki/wiki/Dominate_Beast",
+  "level": 4,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Dominate Person",
+  "source": "https://bg3.wiki/wiki/Dominate_Person",
+  "level": 5,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Eldritch Blast",
+  "source": "https://bg3.wiki/wiki/Eldritch_Blast",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d10",
+    "type": "Force",
+    "modifier": 0
+   },
+   {
+    "dice": "1d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d10 Force 1d6 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Elemental Weapon",
+  "source": "https://bg3.wiki/wiki/Elemental_Weapon",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Enhance Ability",
+  "source": "https://bg3.wiki/wiki/Enhance_Ability",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Enhance Leap",
+  "source": "https://bg3.wiki/wiki/Enhance_Leap",
+  "level": 1,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Enlarge/Reduce",
+  "source": "https://bg3.wiki/wiki/Enlarge/Reduce",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Ensnaring Strike",
+  "source": "https://bg3.wiki/wiki/Ensnaring_Strike",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d6 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Entangle",
+  "source": "https://bg3.wiki/wiki/Entangle",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Enthrall",
+  "source": "https://bg3.wiki/wiki/Enthrall",
+  "level": 2,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 6,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Evard's Black Tentacles",
+  "source": "https://bg3.wiki/wiki/Evard's_Black_Tentacles",
+  "level": 4,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d6",
+    "type": "Bludgeoning",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "3d6 Bludgeoning",
+  "is_buff": false
+ },
+ {
+  "name": "Expeditious Retreat",
+  "source": "https://bg3.wiki/wiki/Expeditious_Retreat",
+  "level": 1,
+  "school": "Transmutation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Eyebite",
+  "source": "https://bg3.wiki/wiki/Eyebite",
+  "level": 6,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Faerie Fire",
+  "source": "https://bg3.wiki/wiki/Faerie_Fire",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "no_damage"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe",
+   "debuff"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false,
+  "_note": "Deals NO damage. DEX save avoids the debuff (attackers gain Advantage), not damage halving. is_buff=true semantically but kept as debuff spell."
+ },
+ {
+  "name": "False Life",
+  "source": "https://bg3.wiki/wiki/False_Life",
+  "level": 1,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Fear",
+  "source": "https://bg3.wiki/wiki/Fear",
+  "level": 3,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "cone",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Feather Fall",
+  "source": "https://bg3.wiki/wiki/Feather_Fall",
+  "level": 1,
+  "school": "Transmutation",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Feign Death",
+  "source": "https://bg3.wiki/wiki/Feign_Death",
+  "level": 3,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Find Familiar",
+  "source": "https://bg3.wiki/wiki/Find_Familiar",
+  "level": 0,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Fire Bolt",
+  "source": "https://bg3.wiki/wiki/Fire_Bolt",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d10",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d10 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Fire Shield",
+  "source": "https://bg3.wiki/wiki/Fire_Shield",
+  "level": 4,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Fireball",
+  "source": "https://bg3.wiki/wiki/Fireball",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 4,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "8d6",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "8d6 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Flame Blade",
+  "source": "https://bg3.wiki/wiki/Flame_Blade",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d6",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "3d6 Fire",
+  "is_buff": false,
+  "_upcast_note": "every 2 levels +1d6 Fire (per-level=0; engine upcast model is per-level, so 0 here; special-case if needed)"
+ },
+ {
+  "name": "Flame Strike",
+  "source": "https://bg3.wiki/wiki/Flame_Strike",
+  "level": 5,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "5d6",
+    "type": "Fire",
+    "modifier": 0
+   },
+   {
+    "dice": "5d6",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "5d6 Fire 5d6 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Flaming Sphere",
+  "source": "https://bg3.wiki/wiki/Flaming_Sphere",
+  "level": 2,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "2d6 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Flesh to Stone",
+  "source": "https://bg3.wiki/wiki/Flesh_to_Stone",
+  "level": 6,
+  "school": "Transmutation",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Fog Cloud",
+  "source": "https://bg3.wiki/wiki/Fog_Cloud",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 5,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Freedom of Movement",
+  "source": "https://bg3.wiki/wiki/Freedom_of_Movement",
+  "level": 4,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Friends",
+  "source": "https://bg3.wiki/wiki/Friends",
+  "level": 0,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Gaseous Form",
+  "source": "https://bg3.wiki/wiki/Gaseous_Form",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Globe of Invulnerability",
+  "source": "https://bg3.wiki/wiki/Globe_of_Invulnerability",
+  "level": 6,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 3,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Glyph of Warding",
+  "source": "https://bg3.wiki/wiki/Glyph_of_Warding",
+  "level": 3,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": 4,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Goodberry",
+  "source": "https://bg3.wiki/wiki/Goodberry",
+  "level": 1,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Grant Flight",
+  "source": "https://bg3.wiki/wiki/Grant_Flight",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Grasping Vine",
+  "source": "https://bg3.wiki/wiki/Grasping_Vine",
+  "level": 4,
+  "school": "Conjuration",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Grease",
+  "source": "https://bg3.wiki/wiki/Grease",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 4,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Greater Invisibility",
+  "source": "https://bg3.wiki/wiki/Greater_Invisibility",
+  "level": 4,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Greater Restoration",
+  "source": "https://bg3.wiki/wiki/Greater_Restoration",
+  "level": 5,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Guardian of Faith",
+  "source": "https://bg3.wiki/wiki/Guardian_of_Faith",
+  "level": 4,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Guidance",
+  "source": "https://bg3.wiki/wiki/Guidance",
+  "level": 0,
+  "school": "Divination",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Guiding Bolt",
+  "source": "https://bg3.wiki/wiki/Guiding_Bolt",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d6",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "4d6 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Gust of Wind",
+  "source": "https://bg3.wiki/wiki/Gust_of_Wind",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 12,
+  "aoe_shape": "line",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Hail of Thorns",
+  "source": "https://bg3.wiki/wiki/Hail_of_Thorns",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d10",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "1d10 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Harm",
+  "source": "https://bg3.wiki/wiki/Harm",
+  "level": 6,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "14d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "14d6 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Haste",
+  "source": "https://bg3.wiki/wiki/Haste",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Heal",
+  "source": "https://bg3.wiki/wiki/Heal",
+  "level": 6,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Healing Word",
+  "source": "https://bg3.wiki/wiki/Healing_Word",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Heat Metal",
+  "source": "https://bg3.wiki/wiki/Heat_Metal",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d8",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "2d8 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Hellish Rebuke",
+  "source": "https://bg3.wiki/wiki/Hellish_Rebuke",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "reaction",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 1,
+  "damage": [
+   {
+    "dice": "2d10",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "reaction"
+  ],
+  "raw_damage_text": "2d10 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Heroes' Feast",
+  "source": "https://bg3.wiki/wiki/Heroes'_Feast",
+  "level": 6,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 18,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Heroism",
+  "source": "https://bg3.wiki/wiki/Heroism",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Hex",
+  "source": "https://bg3.wiki/wiki/Hex",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "1d6 Necrotic",
+  "is_buff": true
+ },
+ {
+  "name": "Hold Monster",
+  "source": "https://bg3.wiki/wiki/Hold_Monster",
+  "level": 5,
+  "school": "Enchantment",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Hold Person",
+  "source": "https://bg3.wiki/wiki/Hold_Person",
+  "level": 2,
+  "school": "Enchantment",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Hunger of Hadar",
+  "source": "https://bg3.wiki/wiki/Hunger_of_Hadar",
+  "level": 3,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Cold",
+    "modifier": 0
+   },
+   {
+    "dice": "2d6",
+    "type": "Acid",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "2d6 Cold 2d6 Acid",
+  "is_buff": false
+ },
+ {
+  "name": "Hunter's Mark",
+  "source": "https://bg3.wiki/wiki/Hunter's_Mark",
+  "level": 1,
+  "school": "Divination",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": true
+ },
+ {
+  "name": "Hypnotic Pattern",
+  "source": "https://bg3.wiki/wiki/Hypnotic_Pattern",
+  "level": 3,
+  "school": "Illusion",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Ice Knife",
+  "source": "https://bg3.wiki/wiki/Ice_Knife",
+  "level": 1,
+  "school": "Conjuration",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d10",
+    "type": "Piercing",
+    "modifier": 0
+   },
+   {
+    "dice": "2d6",
+    "type": "Cold",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "1d10 Piercing 2d6 Cold",
+  "is_buff": false
+ },
+ {
+  "name": "Ice Storm",
+  "source": "https://bg3.wiki/wiki/Ice_Storm",
+  "level": 4,
+  "school": "Evocation",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d8",
+    "type": "Bludgeoning",
+    "modifier": 0
+   },
+   {
+    "dice": "4d6",
+    "type": "Cold",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "2d8 Bludgeoning 4d6 Cold",
+  "is_buff": false
+ },
+ {
+  "name": "Inflict Wounds",
+  "source": "https://bg3.wiki/wiki/Inflict_Wounds",
+  "level": 1,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d10",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "3d10 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Insect Plague",
+  "source": "https://bg3.wiki/wiki/Insect_Plague",
+  "level": 5,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d10",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "4d10 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Invisibility (spell)",
+  "source": "https://bg3.wiki/wiki/Invisibility_(spell)",
+  "level": 2,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Karsus' Compulsion",
+  "source": "https://bg3.wiki/wiki/Karsus'_Compulsion",
+  "level": 9,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 6,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_9",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Knock",
+  "source": "https://bg3.wiki/wiki/Knock",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Lesser Restoration",
+  "source": "https://bg3.wiki/wiki/Lesser_Restoration",
+  "level": 2,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Light",
+  "source": "https://bg3.wiki/wiki/Light",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Lightning Arrow",
+  "source": "https://bg3.wiki/wiki/Lightning_Arrow",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d8",
+    "type": "Lightning",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "4d8 Lightning",
+  "is_buff": false
+ },
+ {
+  "name": "Lightning Bolt",
+  "source": "https://bg3.wiki/wiki/Lightning_Bolt",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 30,
+  "aoe_shape": "line",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "8d6",
+    "type": "Lightning",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "8d6 Lightning",
+  "is_buff": false
+ },
+ {
+  "name": "Longstrider",
+  "source": "https://bg3.wiki/wiki/Longstrider",
+  "level": 1,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Mage Armour",
+  "source": "https://bg3.wiki/wiki/Mage_Armour",
+  "level": 1,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Mage Hand",
+  "source": "https://bg3.wiki/wiki/Mage_Hand",
+  "level": 0,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Magic Missile",
+  "source": "https://bg3.wiki/wiki/Magic_Missile",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d4+1",
+    "type": "Force",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "auto",
+  "tags": [
+   "auto"
+  ],
+  "raw_damage_text": "1d4+1 Force",
+  "is_buff": false
+ },
+ {
+  "name": "Magic Weapon",
+  "source": "https://bg3.wiki/wiki/Magic_Weapon",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Mass Cure Wounds",
+  "source": "https://bg3.wiki/wiki/Mass_Cure_Wounds",
+  "level": 5,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Mass Healing Word",
+  "source": "https://bg3.wiki/wiki/Mass_Healing_Word",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 18,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Melf's Acid Arrow",
+  "source": "https://bg3.wiki/wiki/Melf's_Acid_Arrow",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 2,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d4",
+    "type": "Acid",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack",
+   "aoe"
+  ],
+  "raw_damage_text": "4d4 Acid",
+  "is_buff": false
+ },
+ {
+  "name": "Minor Illusion",
+  "source": "https://bg3.wiki/wiki/Minor_Illusion",
+  "level": 0,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Mirror Image",
+  "source": "https://bg3.wiki/wiki/Mirror_Image",
+  "level": 2,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Misty Step",
+  "source": "https://bg3.wiki/wiki/Misty_Step",
+  "level": 2,
+  "school": "Conjuration",
+  "casting_time": "bonus_action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Moonbeam",
+  "source": "https://bg3.wiki/wiki/Moonbeam",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 1,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d10",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "2d10 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Non-player characters",
+  "source": "https://bg3.wiki/wiki/Non-player_characters",
+  "level": null,
+  "school": null,
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": null,
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Otiluke's Freezing Sphere",
+  "source": "https://bg3.wiki/wiki/Otiluke's_Freezing_Sphere",
+  "level": 6,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "10d6",
+    "type": "Cold",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "10d6 Cold",
+  "is_buff": false
+ },
+ {
+  "name": "Otiluke's Resilient Sphere",
+  "source": "https://bg3.wiki/wiki/Otiluke's_Resilient_Sphere",
+  "level": 4,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Otto's Irresistible Dance",
+  "source": "https://bg3.wiki/wiki/Otto's_Irresistible_Dance",
+  "level": 6,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Pass Without Trace",
+  "source": "https://bg3.wiki/wiki/Pass_Without_Trace",
+  "level": 2,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Phantasmal Force",
+  "source": "https://bg3.wiki/wiki/Phantasmal_Force",
+  "level": 2,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "INT",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d6 Psychic",
+  "is_buff": false
+ },
+ {
+  "name": "Phantasmal Killer",
+  "source": "https://bg3.wiki/wiki/Phantasmal_Killer",
+  "level": 4,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d10",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "4d10 Psychic",
+  "is_buff": false
+ },
+ {
+  "name": "Planar Ally",
+  "source": "https://bg3.wiki/wiki/Planar_Ally",
+  "level": 6,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Planar Binding",
+  "source": "https://bg3.wiki/wiki/Planar_Binding",
+  "level": 5,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Plant Growth",
+  "source": "https://bg3.wiki/wiki/Plant_Growth",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Poison Spray",
+  "source": "https://bg3.wiki/wiki/Poison_Spray",
+  "level": 0,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 3,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d12",
+    "type": "Poison",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "no_damage_on_save"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d12 Poison",
+  "is_buff": false
+ },
+ {
+  "name": "Polymorph",
+  "source": "https://bg3.wiki/wiki/Polymorph",
+  "level": 4,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Power Word Kill",
+  "source": "https://bg3.wiki/wiki/Power_Word_Kill",
+  "level": 9,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_9",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Prayer of Healing",
+  "source": "https://bg3.wiki/wiki/Prayer_of_Healing",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Produce Flame",
+  "source": "https://bg3.wiki/wiki/Produce_Flame",
+  "level": 0,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "1d8 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Protection from Energy",
+  "source": "https://bg3.wiki/wiki/Protection_from_Energy",
+  "level": 3,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Protection from Evil and Good",
+  "source": "https://bg3.wiki/wiki/Protection_from_Evil_and_Good",
+  "level": 1,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Protection from Poison",
+  "source": "https://bg3.wiki/wiki/Protection_from_Poison",
+  "level": 2,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Ray of Enfeeblement",
+  "source": "https://bg3.wiki/wiki/Ray_of_Enfeeblement",
+  "level": 2,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Ray of Frost",
+  "source": "https://bg3.wiki/wiki/Ray_of_Frost",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Cold",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d8 Cold",
+  "is_buff": false
+ },
+ {
+  "name": "Ray of Sickness",
+  "source": "https://bg3.wiki/wiki/Ray_of_Sickness",
+  "level": 1,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d8",
+    "type": "Poison",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "2d8 Poison",
+  "is_buff": false
+ },
+ {
+  "name": "Remove Curse",
+  "source": "https://bg3.wiki/wiki/Remove_Curse",
+  "level": 3,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Resistance (Cantrip)",
+  "source": "https://bg3.wiki/wiki/Resistance_(Cantrip)",
+  "level": 0,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Revivify",
+  "source": "https://bg3.wiki/wiki/Revivify",
+  "level": 3,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Spells",
+  "source": "https://bg3.wiki/wiki/Spells",
+  "level": null,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": null,
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Sacred Flame",
+  "source": "https://bg3.wiki/wiki/Sacred_Flame",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "no_damage_on_save"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d8 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Sanctuary",
+  "source": "https://bg3.wiki/wiki/Sanctuary",
+  "level": 1,
+  "school": "Abjuration",
+  "casting_time": "reaction",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Scorching Ray",
+  "source": "https://bg3.wiki/wiki/Scorching_Ray",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "2d6 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Searing Smite",
+  "source": "https://bg3.wiki/wiki/Searing_Smite",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 1,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "no_damage_on_save"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d6 Fire",
+  "is_buff": false,
+  "_save_note": "initial 1d6 Fire on hit (no save); CON save ends the ongoing 1d6/turn, not half the initial. save_effect=no_damage_on_save models that the save negates ongoing, not the initial hit."
+ },
+ {
+  "name": "See Invisibility (spell)",
+  "source": "https://bg3.wiki/wiki/See_Invisibility_(spell)",
+  "level": 2,
+  "school": "Divination",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": 9,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Seeming",
+  "source": "https://bg3.wiki/wiki/Seeming",
+  "level": 5,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Shadow Blade",
+  "source": "https://bg3.wiki/wiki/Shadow_Blade",
+  "level": 2,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d8",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "2d8 Psychic",
+  "is_buff": false
+ },
+ {
+  "name": "Shatter",
+  "source": "https://bg3.wiki/wiki/Shatter",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d8",
+    "type": "Thunder",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "3d8 Thunder",
+  "is_buff": false
+ },
+ {
+  "name": "Shield (spell)",
+  "source": "https://bg3.wiki/wiki/Shield_(spell)",
+  "level": 1,
+  "school": "Abjuration",
+  "casting_time": "reaction",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Shield of Faith",
+  "source": "https://bg3.wiki/wiki/Shield_of_Faith",
+  "level": 1,
+  "school": "Abjuration",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Shillelagh",
+  "source": "https://bg3.wiki/wiki/Shillelagh",
+  "level": 0,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Bludgeoning",
+    "modifier": 0
+   },
+   {
+    "dice": "1d4",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d8 Bludgeoning 1d4 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Shocking Grasp",
+  "source": "https://bg3.wiki/wiki/Shocking_Grasp",
+  "level": 0,
+  "school": "Evocation",
+  "casting_time": "reaction",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Lightning",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d8 Lightning",
+  "is_buff": false
+ },
+ {
+  "name": "Silence",
+  "source": "https://bg3.wiki/wiki/Silence",
+  "level": 2,
+  "school": "Illusion",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Sleep",
+  "source": "https://bg3.wiki/wiki/Sleep",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Sleet Storm",
+  "source": "https://bg3.wiki/wiki/Sleet_Storm",
+  "level": 3,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Slow",
+  "source": "https://bg3.wiki/wiki/Slow",
+  "level": 3,
+  "school": "Transmutation",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Speak with Animals",
+  "source": "https://bg3.wiki/wiki/Speak_with_Animals",
+  "level": 1,
+  "school": "Divination",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Speak with Dead",
+  "source": "https://bg3.wiki/wiki/Speak_with_Dead",
+  "level": 3,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Spike Growth",
+  "source": "https://bg3.wiki/wiki/Spike_Growth",
+  "level": 2,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d4",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": null,
+  "tags": [
+   "aoe"
+  ],
+  "raw_damage_text": "2d4 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Spirit Guardians",
+  "source": "https://bg3.wiki/wiki/Spirit_Guardians",
+  "level": 3,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 3,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d8",
+    "type": "Radiant",
+    "modifier": 0
+   },
+   {
+    "dice": "3d8",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "3d8 Radiant 3d8 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Spiritual Weapon",
+  "source": "https://bg3.wiki/wiki/Spiritual_Weapon",
+  "level": 2,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Force",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d8 Force",
+  "is_buff": false
+ },
+ {
+  "name": "Staggering Smite",
+  "source": "https://bg3.wiki/wiki/Staggering_Smite",
+  "level": 4,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "4d6",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "4d6 Psychic",
+  "is_buff": false
+ },
+ {
+  "name": "Stinking Cloud",
+  "source": "https://bg3.wiki/wiki/Stinking_Cloud",
+  "level": 3,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 6,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Stoneskin",
+  "source": "https://bg3.wiki/wiki/Stoneskin",
+  "level": 4,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Sunbeam",
+  "source": "https://bg3.wiki/wiki/Sunbeam",
+  "level": 6,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": 18,
+  "aoe_shape": "line",
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "6d8",
+    "type": "Radiant",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "6d8 Radiant",
+  "is_buff": false
+ },
+ {
+  "name": "Tasha's Hideous Laughter",
+  "source": "https://bg3.wiki/wiki/Tasha's_Hideous_Laughter",
+  "level": 1,
+  "school": "Enchantment",
+  "casting_time": "reaction",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Telekinesis",
+  "source": "https://bg3.wiki/wiki/Telekinesis",
+  "level": 5,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Thaumaturgy",
+  "source": "https://bg3.wiki/wiki/Thaumaturgy",
+  "level": 0,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Thorn Whip",
+  "source": "https://bg3.wiki/wiki/Thorn_Whip",
+  "level": 0,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d6 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Thunderous Smite",
+  "source": "https://bg3.wiki/wiki/Thunderous_Smite",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d6",
+    "type": "Thunder",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "STR",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "2d6 Thunder",
+  "is_buff": false
+ },
+ {
+  "name": "Thunderwave",
+  "source": "https://bg3.wiki/wiki/Thunderwave",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "2d8",
+    "type": "Thunder",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "CON",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "2d8 Thunder",
+  "is_buff": false
+ },
+ {
+  "name": "Toll the Dead",
+  "source": "https://bg3.wiki/wiki/Toll_the_Dead",
+  "level": 0,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d8",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "no_damage_on_save"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d8 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "True Strike",
+  "source": "https://bg3.wiki/wiki/True_Strike",
+  "level": 0,
+  "school": "Divination",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Vampiric Touch",
+  "source": "https://bg3.wiki/wiki/Vampiric_Touch",
+  "level": 3,
+  "school": "Necromancy",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "3d6",
+    "type": "Necrotic",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "3d6 Necrotic",
+  "is_buff": false
+ },
+ {
+  "name": "Vicious Mockery",
+  "source": "https://bg3.wiki/wiki/Vicious_Mockery",
+  "level": 0,
+  "school": "Enchantment",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "cantrip",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d4",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d4 Psychic",
+  "is_buff": false
+ },
+ {
+  "name": "Wall of Fire",
+  "source": "https://bg3.wiki/wiki/Wall_of_Fire",
+  "level": 4,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 36,
+  "aoe_shape": "line",
+  "action_cost": "spell_slot_4",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "5d8",
+    "type": "Fire",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "5d8 Fire",
+  "is_buff": false
+ },
+ {
+  "name": "Wall of Ice",
+  "source": "https://bg3.wiki/wiki/Wall_of_Ice",
+  "level": 6,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "10d6",
+    "type": "Cold",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "10d6 Cold",
+  "is_buff": false
+ },
+ {
+  "name": "Wall of Stone",
+  "source": "https://bg3.wiki/wiki/Wall_of_Stone",
+  "level": 5,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_5",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Wall of Thorns",
+  "source": "https://bg3.wiki/wiki/Wall_of_Thorns",
+  "level": 6,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "7d8",
+    "type": "Piercing",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "7d8 Piercing",
+  "is_buff": false
+ },
+ {
+  "name": "Warden of Vitality",
+  "source": "https://bg3.wiki/wiki/Warden_of_Vitality",
+  "level": 3,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_3",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Warding Bond",
+  "source": "https://bg3.wiki/wiki/Warding_Bond",
+  "level": 2,
+  "school": "Abjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Web",
+  "source": "https://bg3.wiki/wiki/Web",
+  "level": 2,
+  "school": "Conjuration",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": 4,
+  "aoe_shape": "radius",
+  "action_cost": "spell_slot_2",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": {
+   "ability": "DEX",
+   "save_effect": "no_damage_on_save"
+  },
+  "attack_type": null,
+  "tags": [
+   "save",
+   "aoe"
+  ],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Wind Walk",
+  "source": "https://bg3.wiki/wiki/Wind_Walk",
+  "level": 6,
+  "school": "Transmutation",
+  "casting_time": "action",
+  "concentration": false,
+  "range_m": 9,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_6",
+  "upcast_per_level": 0,
+  "damage": [],
+  "save": null,
+  "attack_type": null,
+  "tags": [],
+  "raw_damage_text": "",
+  "is_buff": false
+ },
+ {
+  "name": "Witch Bolt",
+  "source": "https://bg3.wiki/wiki/Witch_Bolt",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "action",
+  "concentration": true,
+  "range_m": 18,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d12",
+    "type": "Lightning",
+    "modifier": 0
+   }
+  ],
+  "save": null,
+  "attack_type": "spell_attack",
+  "tags": [
+   "attack"
+  ],
+  "raw_damage_text": "1d12 Lightning",
+  "is_buff": false
+ },
+ {
+  "name": "Wrathful Smite",
+  "source": "https://bg3.wiki/wiki/Wrathful_Smite",
+  "level": 1,
+  "school": "Evocation",
+  "casting_time": "bonus_action",
+  "concentration": true,
+  "range_m": null,
+  "aoe_m": null,
+  "aoe_shape": null,
+  "action_cost": "spell_slot_1",
+  "upcast_per_level": 0,
+  "damage": [
+   {
+    "dice": "1d6",
+    "type": "Psychic",
+    "modifier": 0
+   }
+  ],
+  "save": {
+   "ability": "WIS",
+   "save_effect": "half"
+  },
+  "attack_type": null,
+  "tags": [
+   "save"
+  ],
+  "raw_damage_text": "1d6 Psychic",
+  "is_buff": false
+ }
+]

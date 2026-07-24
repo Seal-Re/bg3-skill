@@ -1,0 +1,14 @@
+{
+  "name": "Scorching Ray multi-source (3 rays x 2d6, +2 radiant/ray via Callous Glow)",
+  "_note": "Each ray independent source. Per ray: 2d6=7 Fire + 2 Radiant. 3 rays. Attack roll vs AC15, INT+4 prof+2 = +6 atk, crit 20.",
+  "classes": [{"cls": "Wizard", "level": 6}],
+  "abilities": {"STR": 8, "DEX": 14, "CON": 14, "INT": 18, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 3,
+  "feats": [],
+  "equipped": {"ring1": "Callous Glow Ring"},
+  "active_buffs": [],
+  "target": {"ac": 15, "save_bonus": {}, "resistances": [], "immunities": [], "vulnerabilities": [], "conditions": [], "flags": ["target_illuminated"]},
+  "round_actions": [
+    {"type": "spell", "ref": "Scorching Ray", "upcast_level": 2, "n_targets": 1}
+  ]
+}

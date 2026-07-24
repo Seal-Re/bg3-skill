@@ -1,0 +1,5955 @@
+{
+  "Acid Splash": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Aid": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 5
+    }
+  ],
+  "Animal Friendship": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    }
+  ],
+  "Animate Dead": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5,
+      "via": "Pact of the Tome"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Necromancer",
+      "core_class": "Wizard",
+      "level": 6,
+      "subclass": "Necromancer",
+      "via": "Necromancy School"
+    },
+    {
+      "class": "Oathbreaker",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oathbreaker",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Arcane Gate": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Arcane Lock": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 7,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Armour of Agathys": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Arms of Hadar": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    }
+  ],
+  "Bane": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Oath of Vengeance",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of Vengeance",
+      "via": "Oath Spell"
+    }
+  ],
+  "Banishing Smite": [
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Banishment": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Barkskin": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    }
+  ],
+  "Beacon of Hope": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Oath of Devotion",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of Devotion",
+      "via": "Oath Spell"
+    }
+  ],
+  "Bestow Curse": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Oathbreaker",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oathbreaker",
+      "via": "Oath Spell"
+    }
+  ],
+  "Blade Barrier": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 11
+    }
+  ],
+  "Blade Ward": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Bless": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Blight": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Blinding Smite": [
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    }
+  ],
+  "Blindness": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Blink": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Hexblade"
+    }
+  ],
+  "Blur": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Bone Chill": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 2,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Booming Blade": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Branding Smite": [
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 5
+    }
+  ],
+  "Burning Hands": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Bursting Sinew": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Call Lightning": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Tempest Domain"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5,
+      "via": "Pact of the Tome"
+    },
+    {
+      "class": "Storm Sorcery",
+      "core_class": "Sorcerer",
+      "level": 6,
+      "subclass": "Storm Sorcery"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Calm Emotions": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Archfey"
+    }
+  ],
+  "Chain Lightning": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Charm Person": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Chromatic Orb": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Circle of Death": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Cloud of Daggers": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Cloudkill": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Colour Spray": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Command": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Knowledge Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    },
+    {
+      "class": "Oath of the Crown",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of the Crown",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Compelled Duel": [
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    },
+    {
+      "class": "Oath of the Crown",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of the Crown",
+      "via": "Oath Spell"
+    }
+  ],
+  "Cone of Cold": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Confusion": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 7
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Knowledge Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Conjure Barrage": [
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 9
+    }
+  ],
+  "Conjure Elemental": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Conjure Minor Elemental": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Conjure Woodland Being": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    }
+  ],
+  "Contagion": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Counterspell": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Create Undead": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 11
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Create or Destroy Water": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Conjuration School",
+      "core_class": "Wizard",
+      "level": 2,
+      "subclass": "Conjuration School"
+    },
+    {
+      "class": "Storm Sorcery",
+      "core_class": "Sorcerer",
+      "level": 6,
+      "subclass": "Storm Sorcery"
+    }
+  ],
+  "Crown of Madness": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Oathbreaker",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oathbreaker",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Crusader's Mantle": [
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    },
+    {
+      "class": "Oath of the Crown",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of the Crown",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Cure Wounds": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    }
+  ],
+  "Dancing Lights": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    }
+  ],
+  "Darkness": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Shadow Magic",
+      "core_class": "Sorcerer",
+      "level": 3,
+      "subclass": "Shadow Magic"
+    },
+    {
+      "class": "Oathbreaker",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oathbreaker",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 7,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Darkvision": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Daylight": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 9
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Death Ward": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 7
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Destructive Wave": [
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Detect Thoughts": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Dimension Door": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Disguise Self": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Gloom Stalker",
+      "core_class": "Ranger",
+      "level": 3,
+      "subclass": "Gloom Stalker"
+    }
+  ],
+  "Disintegrate": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Dispel Evil And Good": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    }
+  ],
+  "Dissonant Whispers": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Great Old One"
+    }
+  ],
+  "Divine Favour": [
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    }
+  ],
+  "Dominate Beast": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Dominate Person": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 9
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Knowledge Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Eldritch Blast": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Elemental Weapon": [
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    }
+  ],
+  "Enhance Ability": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    }
+  ],
+  "Enhance Leap": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Enlarge/Reduce": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Ensnaring Strike": [
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    },
+    {
+      "class": "Oath of the Ancients",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of the Ancients",
+      "via": "Oath Spell"
+    }
+  ],
+  "Entangle": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Enthrall": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    }
+  ],
+  "Evard's Black Tentacles": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Great Old One"
+    }
+  ],
+  "Expeditious Retreat": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Eyebite": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 11
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Faerie Fire": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "Swarmkeeper",
+      "core_class": "Ranger",
+      "level": 3,
+      "subclass": "Swarmkeeper"
+    }
+  ],
+  "False Life": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Fear": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Gloom Stalker",
+      "core_class": "Ranger",
+      "level": 9,
+      "subclass": "Gloom Stalker"
+    }
+  ],
+  "Feather Fall": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Feign Death": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    }
+  ],
+  "Find Familiar": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    }
+  ],
+  "Fire Bolt": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Fire Shield": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Fireball": [
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Flame Blade": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    }
+  ],
+  "Flame Strike": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Flaming Sphere": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Flesh to Stone": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 11
+    }
+  ],
+  "Fog Cloud": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Freedom of Movement": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 7
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 7
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Friends": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Gaseous Form": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Spores",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Spores",
+      "via": "Circle Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Swarmkeeper",
+      "core_class": "Ranger",
+      "level": 9,
+      "subclass": "Swarmkeeper"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Globe of Invulnerability": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Glyph of Warding": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    }
+  ],
+  "Goodberry": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    }
+  ],
+  "Grant Flight": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Grasping Vine": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Grease": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Greater Invisibility": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Hexblade"
+    }
+  ],
+  "Greater Restoration": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 9
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Guardian of Faith": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 7
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Guidance": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Circle of the Stars",
+      "core_class": "Druid",
+      "level": 2,
+      "subclass": "Circle of the Stars"
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3,
+      "via": "Pact of the Tome"
+    },
+    {
+      "class": "Arcane Archer",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Arcane Archer"
+    }
+  ],
+  "Guiding Bolt": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Circle of the Stars",
+      "core_class": "Druid",
+      "level": 2,
+      "subclass": "Circle of the Stars"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Gust of Wind": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Storm Sorcery",
+      "core_class": "Sorcerer",
+      "level": 6,
+      "subclass": "Storm Sorcery"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 7,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Hail of Thorns": [
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    }
+  ],
+  "Harm": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 11
+    }
+  ],
+  "Haste": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5,
+      "via": "Pact of the Tome"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Oath of Vengeance",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of Vengeance"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Heal": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 11
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 11
+    }
+  ],
+  "Healing Word": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    }
+  ],
+  "Heat Metal": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    }
+  ],
+  "Hellish Rebuke": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Oathbreaker",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oathbreaker"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Heroes' Feast": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 11
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 11
+    }
+  ],
+  "Heroism": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    }
+  ],
+  "Hex": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Hold Monster": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 9
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Hold Person": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Oath of Vengeance",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of Vengeance"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Hunger of Hadar": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Hunter's Mark": [
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    },
+    {
+      "class": "Oath of Vengeance",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of Vengeance"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Hypnotic Pattern": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Ice Knife": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Ice Storm": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Inflict Wounds": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Oathbreaker",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oathbreaker",
+      "via": "Oath Spell"
+    }
+  ],
+  "Insect Plague": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Invisibility": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Knock": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Lesser Restoration": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 5
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    },
+    {
+      "class": "Oath of Devotion",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of Devotion",
+      "via": "Oath Spell"
+    }
+  ],
+  "Light": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Archer",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Arcane Archer"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Lightning Arrow": [
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 9
+    }
+  ],
+  "Lightning Bolt": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Longstrider": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Mage Armour": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Mage Hand": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Swarmkeeper",
+      "core_class": "Ranger",
+      "level": 3,
+      "subclass": "Swarmkeeper"
+    }
+  ],
+  "Magic Missile": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Magic Weapon": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 5
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Mass Cure Wounds": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 9
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Mass Healing Word": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Melf's Acid Arrow": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 7,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Minor Illusion": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Way of Shadow",
+      "core_class": "Monk",
+      "level": 3,
+      "subclass": "Way of Shadow"
+    }
+  ],
+  "Mirror Image": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Misty Step": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Oath of the Ancients",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of the Ancients",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Oath of Vengeance",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of Vengeance",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Gloom Stalker",
+      "core_class": "Ranger",
+      "level": 5,
+      "subclass": "Gloom Stalker"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Moonbeam": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Oath of the Ancients",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of the Ancients",
+      "via": "Oath Spell"
+    }
+  ],
+  "Otiluke's Freezing Sphere": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Otiluke's Resilient Sphere": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Knowledge Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Otto's Irresistible Dance": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Pass Without Trace": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Phantasmal Force": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Phantasmal Killer": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Hexblade"
+    }
+  ],
+  "Planar Ally": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 11
+    }
+  ],
+  "Planar Binding": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 9
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 9
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    }
+  ],
+  "Plant Growth": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 9
+    },
+    {
+      "class": "Oath of the Ancients",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of the Ancients",
+      "via": "Oath Spell"
+    }
+  ],
+  "Poison Spray": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 2,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Polymorph": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 7
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Prayer of Healing": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    }
+  ],
+  "Produce Flame": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    }
+  ],
+  "Protection from Energy": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 9
+    },
+    {
+      "class": "Oath of the Ancients",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of the Ancients"
+    },
+    {
+      "class": "Oath of Vengeance",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of Vengeance"
+    }
+  ],
+  "Protection from Evil and Good": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    },
+    {
+      "class": "Oath of Devotion",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of Devotion",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Protection from Poison": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 5
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    }
+  ],
+  "Ray of Enfeeblement": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Ray of Frost": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Ray of Sickness": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Remove Curse": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    },
+    {
+      "class": "Oath of Devotion",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of Devotion",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Resistance": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 2,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Revivify": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "Life Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Life Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Sacred Flame": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 1
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Sanctuary": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Oath of Devotion",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of Devotion",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Scorching Ray": [
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 3,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 7,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Searing Smite": [
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    }
+  ],
+  "See Invisibility": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Seeming": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 9
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "Trickery Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Trickery Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Shadow Blade": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 7,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Shatter": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 7,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Shield": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Shield of Faith": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    }
+  ],
+  "Shillelagh": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    }
+  ],
+  "Shocking Grasp": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "Silence": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 3
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    },
+    {
+      "class": "Oath of Devotion",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of Devotion",
+      "via": "Oath Spell"
+    }
+  ],
+  "Sleep": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Knowledge Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "The Archfey",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Archfey"
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Sleet Storm": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 5
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Storm Sorcery",
+      "core_class": "Sorcerer",
+      "level": 6,
+      "subclass": "Storm Sorcery"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Slow": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Knowledge Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Speak with Animals": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 2
+    },
+    {
+      "class": "Oath of the Ancients",
+      "core_class": "Paladin",
+      "level": 3,
+      "subclass": "Oath of the Ancients",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Wildheart",
+      "core_class": "Barbarian",
+      "level": 3,
+      "subclass": "Wildheart"
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 6,
+      "subclass": "Knowledge Domain"
+    }
+  ],
+  "Speak with Dead": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    }
+  ],
+  "Spike Growth": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 3
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Ranger",
+      "core_class": "Ranger",
+      "level": 5
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Spirit Guardians": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 5
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Oath of the Crown",
+      "core_class": "Paladin",
+      "level": 9,
+      "subclass": "Oath of the Crown",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Spiritual Weapon": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 3,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Oath of the Crown",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of the Crown",
+      "via": "Oath Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Staggering Smite": [
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Hexblade"
+    }
+  ],
+  "Stinking Cloud": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 5
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 5,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Stoneskin": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "War Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "War Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    }
+  ],
+  "Sunbeam": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 11
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 11
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Tasha's Hideous Laughter": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Great Old One"
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Telekinesis": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "Knowledge Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Knowledge Domain"
+    },
+    {
+      "class": "The Great Old One",
+      "core_class": "Warlock",
+      "level": 9,
+      "subclass": "The Great Old One"
+    }
+  ],
+  "Thaumaturgy": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Giant",
+      "core_class": "Barbarian",
+      "level": 3,
+      "subclass": "Giant"
+    }
+  ],
+  "Thorn Whip": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3,
+      "via": "Pact of the Tome"
+    }
+  ],
+  "Thunderous Smite": [
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Thunderwave": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Tempest Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Tempest Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Storm Sorcery",
+      "core_class": "Sorcerer",
+      "level": 6,
+      "subclass": "Storm Sorcery"
+    }
+  ],
+  "Toll the Dead": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 1,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    }
+  ],
+  "True Strike": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Arcane Archer",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Arcane Archer"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Vampiric Touch": [
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 5
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 5
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 5,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Death Domain",
+      "core_class": "Cleric",
+      "level": 5,
+      "subclass": "Death Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Vicious Mockery": [
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 3,
+      "via": "Pact of the Tome"
+    }
+  ],
+  "Wall of Fire": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 7
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 7
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 7
+    },
+    {
+      "class": "Light Domain",
+      "core_class": "Cleric",
+      "level": 7,
+      "subclass": "Light Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "The Fiend",
+      "core_class": "Warlock",
+      "level": 7,
+      "subclass": "The Fiend"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 7,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Wall of Ice": [
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 11
+    }
+  ],
+  "Wall of Stone": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 9
+    },
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 9
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 9
+    },
+    {
+      "class": "Nature Domain",
+      "core_class": "Cleric",
+      "level": 9,
+      "subclass": "Nature Domain",
+      "via": "Domain Spell"
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 9,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Wall of Thorns": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 11
+    }
+  ],
+  "Warden of Vitality": [
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 9
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Warding Bond": [
+    {
+      "class": "Cleric",
+      "core_class": "Cleric",
+      "level": 3
+    },
+    {
+      "class": "Oath of the Crown",
+      "core_class": "Paladin",
+      "level": 5,
+      "subclass": "Oath of the Crown",
+      "via": "Oath Spell"
+    }
+  ],
+  "Web": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 3
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 3
+    },
+    {
+      "class": "Circle of the Land",
+      "core_class": "Druid",
+      "level": 3,
+      "subclass": "Circle of the Land"
+    },
+    {
+      "class": "Swarmkeeper",
+      "core_class": "Ranger",
+      "level": 5,
+      "subclass": "Swarmkeeper"
+    },
+    {
+      "class": "College of Lore",
+      "core_class": "Bard",
+      "level": 6,
+      "subclass": "College of Lore",
+      "via": "Magical Secrets"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 8,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 8,
+      "subclass": "Eldritch Knight"
+    },
+    {
+      "class": "Bard",
+      "core_class": "Bard",
+      "level": 10,
+      "via": "Magical Secrets"
+    }
+  ],
+  "Wind Walk": [
+    {
+      "class": "Druid",
+      "core_class": "Druid",
+      "level": 11
+    }
+  ],
+  "Witch Bolt": [
+    {
+      "class": "Sorcerer",
+      "core_class": "Sorcerer",
+      "level": 1
+    },
+    {
+      "class": "Warlock",
+      "core_class": "Warlock",
+      "level": 1
+    },
+    {
+      "class": "Wizard",
+      "core_class": "Wizard",
+      "level": 1
+    },
+    {
+      "class": "Draconic Bloodline",
+      "core_class": "Sorcerer",
+      "level": 1,
+      "subclass": "Draconic Bloodline"
+    },
+    {
+      "class": "Arcane Trickster",
+      "core_class": "Rogue",
+      "level": 3,
+      "subclass": "Arcane Trickster"
+    },
+    {
+      "class": "Eldritch Knight",
+      "core_class": "Fighter",
+      "level": 3,
+      "subclass": "Eldritch Knight"
+    }
+  ],
+  "Wrathful Smite": [
+    {
+      "class": "The Hexblade",
+      "core_class": "Warlock",
+      "level": 1,
+      "subclass": "The Hexblade"
+    },
+    {
+      "class": "Paladin",
+      "core_class": "Paladin",
+      "level": 2
+    }
+  ]
+}

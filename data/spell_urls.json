@@ -1,0 +1,1304 @@
+[
+ {
+  "name": "Acid Splash",
+  "url": "https://bg3.wiki/wiki/Acid_Splash",
+  "page": "Acid_Splash",
+  "level": 0
+ },
+ {
+  "name": "Blade Ward",
+  "url": "https://bg3.wiki/wiki/Blade_Ward",
+  "page": "Blade_Ward",
+  "level": 0
+ },
+ {
+  "name": "Bone Chill",
+  "url": "https://bg3.wiki/wiki/Bone_Chill",
+  "page": "Bone_Chill",
+  "level": 0
+ },
+ {
+  "name": "Booming Blade",
+  "url": "https://bg3.wiki/wiki/Booming_Blade",
+  "page": "Booming_Blade",
+  "level": 0
+ },
+ {
+  "name": "Bursting Sinew",
+  "url": "https://bg3.wiki/wiki/Bursting_Sinew",
+  "page": "Bursting_Sinew",
+  "level": 0
+ },
+ {
+  "name": "Dancing Lights",
+  "url": "https://bg3.wiki/wiki/Dancing_Lights",
+  "page": "Dancing_Lights",
+  "level": 0
+ },
+ {
+  "name": "Eldritch Blast",
+  "url": "https://bg3.wiki/wiki/Eldritch_Blast",
+  "page": "Eldritch_Blast",
+  "level": 0
+ },
+ {
+  "name": "Fire Bolt",
+  "url": "https://bg3.wiki/wiki/Fire_Bolt",
+  "page": "Fire_Bolt",
+  "level": 0
+ },
+ {
+  "name": "Friends",
+  "url": "https://bg3.wiki/wiki/Friends",
+  "page": "Friends",
+  "level": 0
+ },
+ {
+  "name": "Guidance",
+  "url": "https://bg3.wiki/wiki/Guidance",
+  "page": "Guidance",
+  "level": 0
+ },
+ {
+  "name": "Light",
+  "url": "https://bg3.wiki/wiki/Light",
+  "page": "Light",
+  "level": 0
+ },
+ {
+  "name": "Mage Hand",
+  "url": "https://bg3.wiki/wiki/Mage_Hand",
+  "page": "Mage_Hand",
+  "level": 0
+ },
+ {
+  "name": "Minor Illusion",
+  "url": "https://bg3.wiki/wiki/Minor_Illusion",
+  "page": "Minor_Illusion",
+  "level": 0
+ },
+ {
+  "name": "Poison Spray",
+  "url": "https://bg3.wiki/wiki/Poison_Spray",
+  "page": "Poison_Spray",
+  "level": 0
+ },
+ {
+  "name": "Produce Flame",
+  "url": "https://bg3.wiki/wiki/Produce_Flame",
+  "page": "Produce_Flame",
+  "level": 0
+ },
+ {
+  "name": "Ray of Frost",
+  "url": "https://bg3.wiki/wiki/Ray_of_Frost",
+  "page": "Ray_of_Frost",
+  "level": 0
+ },
+ {
+  "name": "Resistance (Cantrip)",
+  "url": "https://bg3.wiki/wiki/Resistance_(Cantrip)",
+  "page": "Resistance_(Cantrip)",
+  "level": 0
+ },
+ {
+  "name": "Sacred Flame",
+  "url": "https://bg3.wiki/wiki/Sacred_Flame",
+  "page": "Sacred_Flame",
+  "level": 0
+ },
+ {
+  "name": "Shillelagh",
+  "url": "https://bg3.wiki/wiki/Shillelagh",
+  "page": "Shillelagh",
+  "level": 0
+ },
+ {
+  "name": "Shocking Grasp",
+  "url": "https://bg3.wiki/wiki/Shocking_Grasp",
+  "page": "Shocking_Grasp",
+  "level": 0
+ },
+ {
+  "name": "Thaumaturgy",
+  "url": "https://bg3.wiki/wiki/Thaumaturgy",
+  "page": "Thaumaturgy",
+  "level": 0
+ },
+ {
+  "name": "Thorn Whip",
+  "url": "https://bg3.wiki/wiki/Thorn_Whip",
+  "page": "Thorn_Whip",
+  "level": 0
+ },
+ {
+  "name": "Toll the Dead",
+  "url": "https://bg3.wiki/wiki/Toll_the_Dead",
+  "page": "Toll_the_Dead",
+  "level": 0
+ },
+ {
+  "name": "True Strike",
+  "url": "https://bg3.wiki/wiki/True_Strike",
+  "page": "True_Strike",
+  "level": 0
+ },
+ {
+  "name": "Vicious Mockery",
+  "url": "https://bg3.wiki/wiki/Vicious_Mockery",
+  "page": "Vicious_Mockery",
+  "level": 0
+ },
+ {
+  "name": "Animal Friendship",
+  "url": "https://bg3.wiki/wiki/Animal_Friendship",
+  "page": "Animal_Friendship",
+  "level": 1
+ },
+ {
+  "name": "Armour of Agathys",
+  "url": "https://bg3.wiki/wiki/Armour_of_Agathys",
+  "page": "Armour_of_Agathys",
+  "level": 1
+ },
+ {
+  "name": "Arms of Hadar",
+  "url": "https://bg3.wiki/wiki/Arms_of_Hadar",
+  "page": "Arms_of_Hadar",
+  "level": 1
+ },
+ {
+  "name": "Bane (spell)",
+  "url": "https://bg3.wiki/wiki/Bane_(spell)",
+  "page": "Bane_(spell)",
+  "level": 1
+ },
+ {
+  "name": "Bless",
+  "url": "https://bg3.wiki/wiki/Bless",
+  "page": "Bless",
+  "level": 1
+ },
+ {
+  "name": "Burning Hands",
+  "url": "https://bg3.wiki/wiki/Burning_Hands",
+  "page": "Burning_Hands",
+  "level": 1
+ },
+ {
+  "name": "Charm Person",
+  "url": "https://bg3.wiki/wiki/Charm_Person",
+  "page": "Charm_Person",
+  "level": 1
+ },
+ {
+  "name": "Chromatic Orb",
+  "url": "https://bg3.wiki/wiki/Chromatic_Orb",
+  "page": "Chromatic_Orb",
+  "level": 1
+ },
+ {
+  "name": "Colour Spray",
+  "url": "https://bg3.wiki/wiki/Colour_Spray",
+  "page": "Colour_Spray",
+  "level": 1
+ },
+ {
+  "name": "Command",
+  "url": "https://bg3.wiki/wiki/Command",
+  "page": "Command",
+  "level": 1
+ },
+ {
+  "name": "Compelled Duel",
+  "url": "https://bg3.wiki/wiki/Compelled_Duel",
+  "page": "Compelled_Duel",
+  "level": 1
+ },
+ {
+  "name": "Create or Destroy Water",
+  "url": "https://bg3.wiki/wiki/Create_or_Destroy_Water",
+  "page": "Create_or_Destroy_Water",
+  "level": 1
+ },
+ {
+  "name": "Cure Wounds",
+  "url": "https://bg3.wiki/wiki/Cure_Wounds",
+  "page": "Cure_Wounds",
+  "level": 1
+ },
+ {
+  "name": "Disguise Self",
+  "url": "https://bg3.wiki/wiki/Disguise_Self",
+  "page": "Disguise_Self",
+  "level": 1
+ },
+ {
+  "name": "Dissonant Whispers",
+  "url": "https://bg3.wiki/wiki/Dissonant_Whispers",
+  "page": "Dissonant_Whispers",
+  "level": 1
+ },
+ {
+  "name": "Divine Favour",
+  "url": "https://bg3.wiki/wiki/Divine_Favour",
+  "page": "Divine_Favour",
+  "level": 1
+ },
+ {
+  "name": "Enhance Leap",
+  "url": "https://bg3.wiki/wiki/Enhance_Leap",
+  "page": "Enhance_Leap",
+  "level": 1
+ },
+ {
+  "name": "Ensnaring Strike",
+  "url": "https://bg3.wiki/wiki/Ensnaring_Strike",
+  "page": "Ensnaring_Strike",
+  "level": 1
+ },
+ {
+  "name": "Entangle",
+  "url": "https://bg3.wiki/wiki/Entangle",
+  "page": "Entangle",
+  "level": 1
+ },
+ {
+  "name": "Expeditious Retreat",
+  "url": "https://bg3.wiki/wiki/Expeditious_Retreat",
+  "page": "Expeditious_Retreat",
+  "level": 1
+ },
+ {
+  "name": "Faerie Fire",
+  "url": "https://bg3.wiki/wiki/Faerie_Fire",
+  "page": "Faerie_Fire",
+  "level": 1
+ },
+ {
+  "name": "False Life",
+  "url": "https://bg3.wiki/wiki/False_Life",
+  "page": "False_Life",
+  "level": 1
+ },
+ {
+  "name": "Feather Fall",
+  "url": "https://bg3.wiki/wiki/Feather_Fall",
+  "page": "Feather_Fall",
+  "level": 1
+ },
+ {
+  "name": "Find Familiar",
+  "url": "https://bg3.wiki/wiki/Find_Familiar",
+  "page": "Find_Familiar",
+  "level": 1
+ },
+ {
+  "name": "Fog Cloud",
+  "url": "https://bg3.wiki/wiki/Fog_Cloud",
+  "page": "Fog_Cloud",
+  "level": 1
+ },
+ {
+  "name": "Goodberry",
+  "url": "https://bg3.wiki/wiki/Goodberry",
+  "page": "Goodberry",
+  "level": 1
+ },
+ {
+  "name": "Grease",
+  "url": "https://bg3.wiki/wiki/Grease",
+  "page": "Grease",
+  "level": 1
+ },
+ {
+  "name": "Guiding Bolt",
+  "url": "https://bg3.wiki/wiki/Guiding_Bolt",
+  "page": "Guiding_Bolt",
+  "level": 1
+ },
+ {
+  "name": "Hail of Thorns",
+  "url": "https://bg3.wiki/wiki/Hail_of_Thorns",
+  "page": "Hail_of_Thorns",
+  "level": 1
+ },
+ {
+  "name": "Healing Word",
+  "url": "https://bg3.wiki/wiki/Healing_Word",
+  "page": "Healing_Word",
+  "level": 1
+ },
+ {
+  "name": "Hellish Rebuke",
+  "url": "https://bg3.wiki/wiki/Hellish_Rebuke",
+  "page": "Hellish_Rebuke",
+  "level": 1
+ },
+ {
+  "name": "Heroism",
+  "url": "https://bg3.wiki/wiki/Heroism",
+  "page": "Heroism",
+  "level": 1
+ },
+ {
+  "name": "Hex",
+  "url": "https://bg3.wiki/wiki/Hex",
+  "page": "Hex",
+  "level": 1
+ },
+ {
+  "name": "Hunter's Mark",
+  "url": "https://bg3.wiki/wiki/Hunter%27s_Mark",
+  "page": "Hunter%27s_Mark",
+  "level": 1
+ },
+ {
+  "name": "Ice Knife",
+  "url": "https://bg3.wiki/wiki/Ice_Knife",
+  "page": "Ice_Knife",
+  "level": 1
+ },
+ {
+  "name": "Inflict Wounds",
+  "url": "https://bg3.wiki/wiki/Inflict_Wounds",
+  "page": "Inflict_Wounds",
+  "level": 1
+ },
+ {
+  "name": "Longstrider",
+  "url": "https://bg3.wiki/wiki/Longstrider",
+  "page": "Longstrider",
+  "level": 1
+ },
+ {
+  "name": "Mage Armour",
+  "url": "https://bg3.wiki/wiki/Mage_Armour",
+  "page": "Mage_Armour",
+  "level": 1
+ },
+ {
+  "name": "Magic Missile",
+  "url": "https://bg3.wiki/wiki/Magic_Missile",
+  "page": "Magic_Missile",
+  "level": 1
+ },
+ {
+  "name": "Protection from Evil and Good",
+  "url": "https://bg3.wiki/wiki/Protection_from_Evil_and_Good",
+  "page": "Protection_from_Evil_and_Good",
+  "level": 1
+ },
+ {
+  "name": "Ray of Sickness",
+  "url": "https://bg3.wiki/wiki/Ray_of_Sickness",
+  "page": "Ray_of_Sickness",
+  "level": 1
+ },
+ {
+  "name": "Ritual spell",
+  "url": "https://bg3.wiki/wiki/Ritual_spell",
+  "page": "Ritual_spell",
+  "level": 1
+ },
+ {
+  "name": "Sanctuary",
+  "url": "https://bg3.wiki/wiki/Sanctuary",
+  "page": "Sanctuary",
+  "level": 1
+ },
+ {
+  "name": "Searing Smite",
+  "url": "https://bg3.wiki/wiki/Searing_Smite",
+  "page": "Searing_Smite",
+  "level": 1
+ },
+ {
+  "name": "Shield (spell)",
+  "url": "https://bg3.wiki/wiki/Shield_(spell)",
+  "page": "Shield_(spell)",
+  "level": 1
+ },
+ {
+  "name": "Shield of Faith",
+  "url": "https://bg3.wiki/wiki/Shield_of_Faith",
+  "page": "Shield_of_Faith",
+  "level": 1
+ },
+ {
+  "name": "Sleep",
+  "url": "https://bg3.wiki/wiki/Sleep",
+  "page": "Sleep",
+  "level": 1
+ },
+ {
+  "name": "Speak with Animals",
+  "url": "https://bg3.wiki/wiki/Speak_with_Animals",
+  "page": "Speak_with_Animals",
+  "level": 1
+ },
+ {
+  "name": "Tasha's Hideous Laughter",
+  "url": "https://bg3.wiki/wiki/Tasha%27s_Hideous_Laughter",
+  "page": "Tasha%27s_Hideous_Laughter",
+  "level": 1
+ },
+ {
+  "name": "Thunderous Smite",
+  "url": "https://bg3.wiki/wiki/Thunderous_Smite",
+  "page": "Thunderous_Smite",
+  "level": 1
+ },
+ {
+  "name": "Thunderwave",
+  "url": "https://bg3.wiki/wiki/Thunderwave",
+  "page": "Thunderwave",
+  "level": 1
+ },
+ {
+  "name": "Witch Bolt",
+  "url": "https://bg3.wiki/wiki/Witch_Bolt",
+  "page": "Witch_Bolt",
+  "level": 1
+ },
+ {
+  "name": "Wrathful Smite",
+  "url": "https://bg3.wiki/wiki/Wrathful_Smite",
+  "page": "Wrathful_Smite",
+  "level": 1
+ },
+ {
+  "name": "Aid",
+  "url": "https://bg3.wiki/wiki/Aid",
+  "page": "Aid",
+  "level": 2
+ },
+ {
+  "name": "Arcane Lock",
+  "url": "https://bg3.wiki/wiki/Arcane_Lock",
+  "page": "Arcane_Lock",
+  "level": 2
+ },
+ {
+  "name": "Barkskin",
+  "url": "https://bg3.wiki/wiki/Barkskin",
+  "page": "Barkskin",
+  "level": 2
+ },
+ {
+  "name": "Blindness",
+  "url": "https://bg3.wiki/wiki/Blindness",
+  "page": "Blindness",
+  "level": 2
+ },
+ {
+  "name": "Blur",
+  "url": "https://bg3.wiki/wiki/Blur",
+  "page": "Blur",
+  "level": 2
+ },
+ {
+  "name": "Branding Smite",
+  "url": "https://bg3.wiki/wiki/Branding_Smite",
+  "page": "Branding_Smite",
+  "level": 2
+ },
+ {
+  "name": "Calm Emotions",
+  "url": "https://bg3.wiki/wiki/Calm_Emotions",
+  "page": "Calm_Emotions",
+  "level": 2
+ },
+ {
+  "name": "Cloud of Daggers",
+  "url": "https://bg3.wiki/wiki/Cloud_of_Daggers",
+  "page": "Cloud_of_Daggers",
+  "level": 2
+ },
+ {
+  "name": "Crown of Madness",
+  "url": "https://bg3.wiki/wiki/Crown_of_Madness",
+  "page": "Crown_of_Madness",
+  "level": 2
+ },
+ {
+  "name": "Darkness",
+  "url": "https://bg3.wiki/wiki/Darkness",
+  "page": "Darkness",
+  "level": 2
+ },
+ {
+  "name": "Darkvision (spell)",
+  "url": "https://bg3.wiki/wiki/Darkvision_(spell)",
+  "page": "Darkvision_(spell)",
+  "level": 2
+ },
+ {
+  "name": "Detect Thoughts",
+  "url": "https://bg3.wiki/wiki/Detect_Thoughts",
+  "page": "Detect_Thoughts",
+  "level": 2
+ },
+ {
+  "name": "Enhance Ability",
+  "url": "https://bg3.wiki/wiki/Enhance_Ability",
+  "page": "Enhance_Ability",
+  "level": 2
+ },
+ {
+  "name": "Enlarge/Reduce",
+  "url": "https://bg3.wiki/wiki/Enlarge/Reduce",
+  "page": "Enlarge/Reduce",
+  "level": 2
+ },
+ {
+  "name": "Enthrall",
+  "url": "https://bg3.wiki/wiki/Enthrall",
+  "page": "Enthrall",
+  "level": 2
+ },
+ {
+  "name": "Flame Blade",
+  "url": "https://bg3.wiki/wiki/Flame_Blade",
+  "page": "Flame_Blade",
+  "level": 2
+ },
+ {
+  "name": "Flaming Sphere",
+  "url": "https://bg3.wiki/wiki/Flaming_Sphere",
+  "page": "Flaming_Sphere",
+  "level": 2
+ },
+ {
+  "name": "Gust of Wind",
+  "url": "https://bg3.wiki/wiki/Gust_of_Wind",
+  "page": "Gust_of_Wind",
+  "level": 2
+ },
+ {
+  "name": "Heat Metal",
+  "url": "https://bg3.wiki/wiki/Heat_Metal",
+  "page": "Heat_Metal",
+  "level": 2
+ },
+ {
+  "name": "Hold Person",
+  "url": "https://bg3.wiki/wiki/Hold_Person",
+  "page": "Hold_Person",
+  "level": 2
+ },
+ {
+  "name": "Invisibility (spell)",
+  "url": "https://bg3.wiki/wiki/Invisibility_(spell)",
+  "page": "Invisibility_(spell)",
+  "level": 2
+ },
+ {
+  "name": "Knock",
+  "url": "https://bg3.wiki/wiki/Knock",
+  "page": "Knock",
+  "level": 2
+ },
+ {
+  "name": "Lesser Restoration",
+  "url": "https://bg3.wiki/wiki/Lesser_Restoration",
+  "page": "Lesser_Restoration",
+  "level": 2
+ },
+ {
+  "name": "Magic Weapon",
+  "url": "https://bg3.wiki/wiki/Magic_Weapon",
+  "page": "Magic_Weapon",
+  "level": 2
+ },
+ {
+  "name": "Melf's Acid Arrow",
+  "url": "https://bg3.wiki/wiki/Melf%27s_Acid_Arrow",
+  "page": "Melf%27s_Acid_Arrow",
+  "level": 2
+ },
+ {
+  "name": "Mirror Image",
+  "url": "https://bg3.wiki/wiki/Mirror_Image",
+  "page": "Mirror_Image",
+  "level": 2
+ },
+ {
+  "name": "Misty Step",
+  "url": "https://bg3.wiki/wiki/Misty_Step",
+  "page": "Misty_Step",
+  "level": 2
+ },
+ {
+  "name": "Moonbeam",
+  "url": "https://bg3.wiki/wiki/Moonbeam",
+  "page": "Moonbeam",
+  "level": 2
+ },
+ {
+  "name": "Pass Without Trace",
+  "url": "https://bg3.wiki/wiki/Pass_Without_Trace",
+  "page": "Pass_Without_Trace",
+  "level": 2
+ },
+ {
+  "name": "Phantasmal Force",
+  "url": "https://bg3.wiki/wiki/Phantasmal_Force",
+  "page": "Phantasmal_Force",
+  "level": 2
+ },
+ {
+  "name": "Prayer of Healing",
+  "url": "https://bg3.wiki/wiki/Prayer_of_Healing",
+  "page": "Prayer_of_Healing",
+  "level": 2
+ },
+ {
+  "name": "Protection from Poison",
+  "url": "https://bg3.wiki/wiki/Protection_from_Poison",
+  "page": "Protection_from_Poison",
+  "level": 2
+ },
+ {
+  "name": "Ray of Enfeeblement",
+  "url": "https://bg3.wiki/wiki/Ray_of_Enfeeblement",
+  "page": "Ray_of_Enfeeblement",
+  "level": 2
+ },
+ {
+  "name": "Scorching Ray",
+  "url": "https://bg3.wiki/wiki/Scorching_Ray",
+  "page": "Scorching_Ray",
+  "level": 2
+ },
+ {
+  "name": "See Invisibility (spell)",
+  "url": "https://bg3.wiki/wiki/See_Invisibility_(spell)",
+  "page": "See_Invisibility_(spell)",
+  "level": 2
+ },
+ {
+  "name": "Shadow Blade",
+  "url": "https://bg3.wiki/wiki/Shadow_Blade",
+  "page": "Shadow_Blade",
+  "level": 2
+ },
+ {
+  "name": "Shatter",
+  "url": "https://bg3.wiki/wiki/Shatter",
+  "page": "Shatter",
+  "level": 2
+ },
+ {
+  "name": "Silence",
+  "url": "https://bg3.wiki/wiki/Silence",
+  "page": "Silence",
+  "level": 2
+ },
+ {
+  "name": "Spike Growth",
+  "url": "https://bg3.wiki/wiki/Spike_Growth",
+  "page": "Spike_Growth",
+  "level": 2
+ },
+ {
+  "name": "Spiritual Weapon",
+  "url": "https://bg3.wiki/wiki/Spiritual_Weapon",
+  "page": "Spiritual_Weapon",
+  "level": 2
+ },
+ {
+  "name": "Warding Bond",
+  "url": "https://bg3.wiki/wiki/Warding_Bond",
+  "page": "Warding_Bond",
+  "level": 2
+ },
+ {
+  "name": "Web",
+  "url": "https://bg3.wiki/wiki/Web",
+  "page": "Web",
+  "level": 2
+ },
+ {
+  "name": "Animate Dead",
+  "url": "https://bg3.wiki/wiki/Animate_Dead",
+  "page": "Animate_Dead",
+  "level": 3
+ },
+ {
+  "name": "Beacon of Hope",
+  "url": "https://bg3.wiki/wiki/Beacon_of_Hope",
+  "page": "Beacon_of_Hope",
+  "level": 3
+ },
+ {
+  "name": "Bestow Curse",
+  "url": "https://bg3.wiki/wiki/Bestow_Curse",
+  "page": "Bestow_Curse",
+  "level": 3
+ },
+ {
+  "name": "Blinding Smite",
+  "url": "https://bg3.wiki/wiki/Blinding_Smite",
+  "page": "Blinding_Smite",
+  "level": 3
+ },
+ {
+  "name": "Blink",
+  "url": "https://bg3.wiki/wiki/Blink",
+  "page": "Blink",
+  "level": 3
+ },
+ {
+  "name": "Call Lightning",
+  "url": "https://bg3.wiki/wiki/Call_Lightning",
+  "page": "Call_Lightning",
+  "level": 3
+ },
+ {
+  "name": "Conjure Barrage",
+  "url": "https://bg3.wiki/wiki/Conjure_Barrage",
+  "page": "Conjure_Barrage",
+  "level": 3
+ },
+ {
+  "name": "Counterspell",
+  "url": "https://bg3.wiki/wiki/Counterspell",
+  "page": "Counterspell",
+  "level": 3
+ },
+ {
+  "name": "Crusader's Mantle",
+  "url": "https://bg3.wiki/wiki/Crusader%27s_Mantle",
+  "page": "Crusader%27s_Mantle",
+  "level": 3
+ },
+ {
+  "name": "Daylight",
+  "url": "https://bg3.wiki/wiki/Daylight",
+  "page": "Daylight",
+  "level": 3
+ },
+ {
+  "name": "Elemental Weapon",
+  "url": "https://bg3.wiki/wiki/Elemental_Weapon",
+  "page": "Elemental_Weapon",
+  "level": 3
+ },
+ {
+  "name": "Fear",
+  "url": "https://bg3.wiki/wiki/Fear",
+  "page": "Fear",
+  "level": 3
+ },
+ {
+  "name": "Feign Death",
+  "url": "https://bg3.wiki/wiki/Feign_Death",
+  "page": "Feign_Death",
+  "level": 3
+ },
+ {
+  "name": "Fireball",
+  "url": "https://bg3.wiki/wiki/Fireball",
+  "page": "Fireball",
+  "level": 3
+ },
+ {
+  "name": "Gaseous Form",
+  "url": "https://bg3.wiki/wiki/Gaseous_Form",
+  "page": "Gaseous_Form",
+  "level": 3
+ },
+ {
+  "name": "Glyph of Warding",
+  "url": "https://bg3.wiki/wiki/Glyph_of_Warding",
+  "page": "Glyph_of_Warding",
+  "level": 3
+ },
+ {
+  "name": "Grant Flight",
+  "url": "https://bg3.wiki/wiki/Grant_Flight",
+  "page": "Grant_Flight",
+  "level": 3
+ },
+ {
+  "name": "Haste",
+  "url": "https://bg3.wiki/wiki/Haste",
+  "page": "Haste",
+  "level": 3
+ },
+ {
+  "name": "Hunger of Hadar",
+  "url": "https://bg3.wiki/wiki/Hunger_of_Hadar",
+  "page": "Hunger_of_Hadar",
+  "level": 3
+ },
+ {
+  "name": "Hypnotic Pattern",
+  "url": "https://bg3.wiki/wiki/Hypnotic_Pattern",
+  "page": "Hypnotic_Pattern",
+  "level": 3
+ },
+ {
+  "name": "Lightning Arrow",
+  "url": "https://bg3.wiki/wiki/Lightning_Arrow",
+  "page": "Lightning_Arrow",
+  "level": 3
+ },
+ {
+  "name": "Lightning Bolt",
+  "url": "https://bg3.wiki/wiki/Lightning_Bolt",
+  "page": "Lightning_Bolt",
+  "level": 3
+ },
+ {
+  "name": "Mass Healing Word",
+  "url": "https://bg3.wiki/wiki/Mass_Healing_Word",
+  "page": "Mass_Healing_Word",
+  "level": 3
+ },
+ {
+  "name": "Plant Growth",
+  "url": "https://bg3.wiki/wiki/Plant_Growth",
+  "page": "Plant_Growth",
+  "level": 3
+ },
+ {
+  "name": "Protection from Energy",
+  "url": "https://bg3.wiki/wiki/Protection_from_Energy",
+  "page": "Protection_from_Energy",
+  "level": 3
+ },
+ {
+  "name": "Remove Curse",
+  "url": "https://bg3.wiki/wiki/Remove_Curse",
+  "page": "Remove_Curse",
+  "level": 3
+ },
+ {
+  "name": "Revivify",
+  "url": "https://bg3.wiki/wiki/Revivify",
+  "page": "Revivify",
+  "level": 3
+ },
+ {
+  "name": "Sleet Storm",
+  "url": "https://bg3.wiki/wiki/Sleet_Storm",
+  "page": "Sleet_Storm",
+  "level": 3
+ },
+ {
+  "name": "Slow",
+  "url": "https://bg3.wiki/wiki/Slow",
+  "page": "Slow",
+  "level": 3
+ },
+ {
+  "name": "Speak with Dead",
+  "url": "https://bg3.wiki/wiki/Speak_with_Dead",
+  "page": "Speak_with_Dead",
+  "level": 3
+ },
+ {
+  "name": "Spirit Guardians",
+  "url": "https://bg3.wiki/wiki/Spirit_Guardians",
+  "page": "Spirit_Guardians",
+  "level": 3
+ },
+ {
+  "name": "Stinking Cloud",
+  "url": "https://bg3.wiki/wiki/Stinking_Cloud",
+  "page": "Stinking_Cloud",
+  "level": 3
+ },
+ {
+  "name": "Vampiric Touch",
+  "url": "https://bg3.wiki/wiki/Vampiric_Touch",
+  "page": "Vampiric_Touch",
+  "level": 3
+ },
+ {
+  "name": "Warden of Vitality",
+  "url": "https://bg3.wiki/wiki/Warden_of_Vitality",
+  "page": "Warden_of_Vitality",
+  "level": 3
+ },
+ {
+  "name": "Banishment",
+  "url": "https://bg3.wiki/wiki/Banishment",
+  "page": "Banishment",
+  "level": 4
+ },
+ {
+  "name": "Blight",
+  "url": "https://bg3.wiki/wiki/Blight",
+  "page": "Blight",
+  "level": 4
+ },
+ {
+  "name": "Confusion",
+  "url": "https://bg3.wiki/wiki/Confusion",
+  "page": "Confusion",
+  "level": 4
+ },
+ {
+  "name": "Conjure Minor Elemental",
+  "url": "https://bg3.wiki/wiki/Conjure_Minor_Elemental",
+  "page": "Conjure_Minor_Elemental",
+  "level": 4
+ },
+ {
+  "name": "Conjure Woodland Being",
+  "url": "https://bg3.wiki/wiki/Conjure_Woodland_Being",
+  "page": "Conjure_Woodland_Being",
+  "level": 4
+ },
+ {
+  "name": "Death Ward",
+  "url": "https://bg3.wiki/wiki/Death_Ward",
+  "page": "Death_Ward",
+  "level": 4
+ },
+ {
+  "name": "Dimension Door",
+  "url": "https://bg3.wiki/wiki/Dimension_Door",
+  "page": "Dimension_Door",
+  "level": 4
+ },
+ {
+  "name": "Dominate Beast",
+  "url": "https://bg3.wiki/wiki/Dominate_Beast",
+  "page": "Dominate_Beast",
+  "level": 4
+ },
+ {
+  "name": "Evard's Black Tentacles",
+  "url": "https://bg3.wiki/wiki/Evard%27s_Black_Tentacles",
+  "page": "Evard%27s_Black_Tentacles",
+  "level": 4
+ },
+ {
+  "name": "Fire Shield",
+  "url": "https://bg3.wiki/wiki/Fire_Shield",
+  "page": "Fire_Shield",
+  "level": 4
+ },
+ {
+  "name": "Freedom of Movement",
+  "url": "https://bg3.wiki/wiki/Freedom_of_Movement",
+  "page": "Freedom_of_Movement",
+  "level": 4
+ },
+ {
+  "name": "Grasping Vine",
+  "url": "https://bg3.wiki/wiki/Grasping_Vine",
+  "page": "Grasping_Vine",
+  "level": 4
+ },
+ {
+  "name": "Greater Invisibility",
+  "url": "https://bg3.wiki/wiki/Greater_Invisibility",
+  "page": "Greater_Invisibility",
+  "level": 4
+ },
+ {
+  "name": "Guardian of Faith",
+  "url": "https://bg3.wiki/wiki/Guardian_of_Faith",
+  "page": "Guardian_of_Faith",
+  "level": 4
+ },
+ {
+  "name": "Ice Storm",
+  "url": "https://bg3.wiki/wiki/Ice_Storm",
+  "page": "Ice_Storm",
+  "level": 4
+ },
+ {
+  "name": "Otiluke's Resilient Sphere",
+  "url": "https://bg3.wiki/wiki/Otiluke%27s_Resilient_Sphere",
+  "page": "Otiluke%27s_Resilient_Sphere",
+  "level": 4
+ },
+ {
+  "name": "Phantasmal Killer",
+  "url": "https://bg3.wiki/wiki/Phantasmal_Killer",
+  "page": "Phantasmal_Killer",
+  "level": 4
+ },
+ {
+  "name": "Polymorph",
+  "url": "https://bg3.wiki/wiki/Polymorph",
+  "page": "Polymorph",
+  "level": 4
+ },
+ {
+  "name": "Staggering Smite",
+  "url": "https://bg3.wiki/wiki/Staggering_Smite",
+  "page": "Staggering_Smite",
+  "level": 4
+ },
+ {
+  "name": "Stoneskin",
+  "url": "https://bg3.wiki/wiki/Stoneskin",
+  "page": "Stoneskin",
+  "level": 4
+ },
+ {
+  "name": "Wall of Fire",
+  "url": "https://bg3.wiki/wiki/Wall_of_Fire",
+  "page": "Wall_of_Fire",
+  "level": 4
+ },
+ {
+  "name": "Banishing Smite",
+  "url": "https://bg3.wiki/wiki/Banishing_Smite",
+  "page": "Banishing_Smite",
+  "level": 5
+ },
+ {
+  "name": "Cloudkill",
+  "url": "https://bg3.wiki/wiki/Cloudkill",
+  "page": "Cloudkill",
+  "level": 5
+ },
+ {
+  "name": "Cone of Cold",
+  "url": "https://bg3.wiki/wiki/Cone_of_Cold",
+  "page": "Cone_of_Cold",
+  "level": 5
+ },
+ {
+  "name": "Conjure Elemental",
+  "url": "https://bg3.wiki/wiki/Conjure_Elemental",
+  "page": "Conjure_Elemental",
+  "level": 5
+ },
+ {
+  "name": "Contagion",
+  "url": "https://bg3.wiki/wiki/Contagion",
+  "page": "Contagion",
+  "level": 5
+ },
+ {
+  "name": "Destructive Wave",
+  "url": "https://bg3.wiki/wiki/Destructive_Wave",
+  "page": "Destructive_Wave",
+  "level": 5
+ },
+ {
+  "name": "Dethrone",
+  "url": "https://bg3.wiki/wiki/Dethrone",
+  "page": "Dethrone",
+  "level": 5
+ },
+ {
+  "name": "Dispel Evil And Good",
+  "url": "https://bg3.wiki/wiki/Dispel_Evil_And_Good",
+  "page": "Dispel_Evil_And_Good",
+  "level": 5
+ },
+ {
+  "name": "Dominate Person",
+  "url": "https://bg3.wiki/wiki/Dominate_Person",
+  "page": "Dominate_Person",
+  "level": 5
+ },
+ {
+  "name": "Flame Strike",
+  "url": "https://bg3.wiki/wiki/Flame_Strike",
+  "page": "Flame_Strike",
+  "level": 5
+ },
+ {
+  "name": "Greater Restoration",
+  "url": "https://bg3.wiki/wiki/Greater_Restoration",
+  "page": "Greater_Restoration",
+  "level": 5
+ },
+ {
+  "name": "Hold Monster",
+  "url": "https://bg3.wiki/wiki/Hold_Monster",
+  "page": "Hold_Monster",
+  "level": 5
+ },
+ {
+  "name": "Insect Plague",
+  "url": "https://bg3.wiki/wiki/Insect_Plague",
+  "page": "Insect_Plague",
+  "level": 5
+ },
+ {
+  "name": "Mass Cure Wounds",
+  "url": "https://bg3.wiki/wiki/Mass_Cure_Wounds",
+  "page": "Mass_Cure_Wounds",
+  "level": 5
+ },
+ {
+  "name": "Planar Binding",
+  "url": "https://bg3.wiki/wiki/Planar_Binding",
+  "page": "Planar_Binding",
+  "level": 5
+ },
+ {
+  "name": "Seeming",
+  "url": "https://bg3.wiki/wiki/Seeming",
+  "page": "Seeming",
+  "level": 5
+ },
+ {
+  "name": "Telekinesis",
+  "url": "https://bg3.wiki/wiki/Telekinesis",
+  "page": "Telekinesis",
+  "level": 5
+ },
+ {
+  "name": "Wall of Stone",
+  "url": "https://bg3.wiki/wiki/Wall_of_Stone",
+  "page": "Wall_of_Stone",
+  "level": 5
+ },
+ {
+  "name": "Arcane Gate",
+  "url": "https://bg3.wiki/wiki/Arcane_Gate",
+  "page": "Arcane_Gate",
+  "level": 6
+ },
+ {
+  "name": "Blade Barrier",
+  "url": "https://bg3.wiki/wiki/Blade_Barrier",
+  "page": "Blade_Barrier",
+  "level": 6
+ },
+ {
+  "name": "Chain Lightning",
+  "url": "https://bg3.wiki/wiki/Chain_Lightning",
+  "page": "Chain_Lightning",
+  "level": 6
+ },
+ {
+  "name": "Circle of Death",
+  "url": "https://bg3.wiki/wiki/Circle_of_Death",
+  "page": "Circle_of_Death",
+  "level": 6
+ },
+ {
+  "name": "Create Undead",
+  "url": "https://bg3.wiki/wiki/Create_Undead",
+  "page": "Create_Undead",
+  "level": 6
+ },
+ {
+  "name": "Disintegrate",
+  "url": "https://bg3.wiki/wiki/Disintegrate",
+  "page": "Disintegrate",
+  "level": 6
+ },
+ {
+  "name": "Eyebite",
+  "url": "https://bg3.wiki/wiki/Eyebite",
+  "page": "Eyebite",
+  "level": 6
+ },
+ {
+  "name": "Flesh to Stone",
+  "url": "https://bg3.wiki/wiki/Flesh_to_Stone",
+  "page": "Flesh_to_Stone",
+  "level": 6
+ },
+ {
+  "name": "Globe of Invulnerability",
+  "url": "https://bg3.wiki/wiki/Globe_of_Invulnerability",
+  "page": "Globe_of_Invulnerability",
+  "level": 6
+ },
+ {
+  "name": "Harm",
+  "url": "https://bg3.wiki/wiki/Harm",
+  "page": "Harm",
+  "level": 6
+ },
+ {
+  "name": "Heal",
+  "url": "https://bg3.wiki/wiki/Heal",
+  "page": "Heal",
+  "level": 6
+ },
+ {
+  "name": "Heroes' Feast",
+  "url": "https://bg3.wiki/wiki/Heroes%27_Feast",
+  "page": "Heroes%27_Feast",
+  "level": 6
+ },
+ {
+  "name": "Otiluke's Freezing Sphere",
+  "url": "https://bg3.wiki/wiki/Otiluke%27s_Freezing_Sphere",
+  "page": "Otiluke%27s_Freezing_Sphere",
+  "level": 6
+ },
+ {
+  "name": "Otto's Irresistible Dance",
+  "url": "https://bg3.wiki/wiki/Otto%27s_Irresistible_Dance",
+  "page": "Otto%27s_Irresistible_Dance",
+  "level": 6
+ },
+ {
+  "name": "Planar Ally",
+  "url": "https://bg3.wiki/wiki/Planar_Ally",
+  "page": "Planar_Ally",
+  "level": 6
+ },
+ {
+  "name": "Sunbeam",
+  "url": "https://bg3.wiki/wiki/Sunbeam",
+  "page": "Sunbeam",
+  "level": 6
+ },
+ {
+  "name": "Wall of Ice",
+  "url": "https://bg3.wiki/wiki/Wall_of_Ice",
+  "page": "Wall_of_Ice",
+  "level": 6
+ },
+ {
+  "name": "Wall of Thorns",
+  "url": "https://bg3.wiki/wiki/Wall_of_Thorns",
+  "page": "Wall_of_Thorns",
+  "level": 6
+ },
+ {
+  "name": "Wind Walk",
+  "url": "https://bg3.wiki/wiki/Wind_Walk",
+  "page": "Wind_Walk",
+  "level": 6
+ },
+ {
+  "name": "Bhaal's Power Word Kill Ritual",
+  "url": "https://bg3.wiki/wiki/Bhaal%27s_Power_Word_Kill_Ritual",
+  "page": "Bhaal%27s_Power_Word_Kill_Ritual",
+  "level": 9
+ },
+ {
+  "name": "Divine Revelry",
+  "url": "https://bg3.wiki/wiki/Divine_Revelry",
+  "page": "Divine_Revelry",
+  "level": 9
+ },
+ {
+  "name": "Karsus' Compulsion",
+  "url": "https://bg3.wiki/wiki/Karsus%27_Compulsion",
+  "page": "Karsus%27_Compulsion",
+  "level": 9
+ },
+ {
+  "name": "Non-Player Characters",
+  "url": "https://bg3.wiki/wiki/Non-Player_Characters",
+  "page": "Non-Player_Characters",
+  "level": 9
+ },
+ {
+  "name": "Power Word Kill",
+  "url": "https://bg3.wiki/wiki/Power_Word_Kill",
+  "page": "Power_Word_Kill",
+  "level": 9
+ }
+]

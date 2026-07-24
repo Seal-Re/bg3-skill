@@ -1,0 +1,210 @@
+===== Poison_Cloud.html =====
+
+
+Poison Cloud - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Poison Cloud
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+Poison Cloud is a cloud that debuffs those that travel through it. When inside the cloud, characters must made a  Constitution Saving Throw each turn or become  Poisoned. The cloud itself doesn't deal any damage.
+
+Description
+
+Chance to set Poisoned.
+
+Properties
+
+ Type: Cloud
+
+ Condition: Poisoned 
+
+ Poisoned
+ Duration: 1 turn
+
+ CON Save (DC 11)
+
+- Suffers  Disadvantage on  Attack Rolls and Ability Checks.
+
+ 
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Basic Poison
+
+- Poisonous Slime Bomb
+
+Spells and actions:
+
+- Poison Mist
+
+- Venomous Discharge (Addled Frog)
+
+Notes
+
+- Poisoned condition from this source loses duration at the beginning of the turn, which together with duration 1 means that poisoned enemies are longer poisoned during their turn.
+
+- The DC depends on the source:
+
+- For  Basic Poison it is 11.
+
+- For  Poisonous Slime Bomb it's the DC of the player character.
+
+- If the cloud was created by a character, the DC to save against  Poisoned becomes 8 + Proficiency Bonus + Spellcasting Modifier of the creator.[verify]
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Poison_Cloud&oldid=265734"
+
+ 
+
+Categories: 
+- Clouds
+- Areas
+
+Hidden category: 
+- Articles needing verification
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

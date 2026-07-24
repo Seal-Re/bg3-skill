@@ -1,0 +1,14 @@
+{
+  "name": "Magic Missile multi-source test (3 darts, +2 radiant per dart via Callous Glow)",
+  "_note": "Wiki: each dart is an independent damage source. Callous Glow Ring = DamageBonus type, applies to EVERY instance. 3 darts * (1d4+1=3.5 Force + 2 Radiant) = 3*5.5 = 16.5 pre-resist, auto-hit.",
+  "classes": [{"cls": "Wizard", "level": 4}],
+  "abilities": {"STR": 8, "DEX": 14, "CON": 14, "INT": 18, "WIS": 10, "CHA": 8},
+  "proficiency_bonus": 2,
+  "feats": [],
+  "equipped": {"ring1": "Callous Glow Ring"},
+  "active_buffs": [],
+  "target": {"ac": 15, "save_bonus": {}, "resistances": [], "immunities": [], "vulnerabilities": [], "conditions": [], "flags": ["target_illuminated"]},
+  "round_actions": [
+    {"type": "spell", "ref": "Magic Missile", "upcast_level": 1, "n_targets": 1}
+  ]
+}

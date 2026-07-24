@@ -1,0 +1,250 @@
+[
+ {
+  "category": "Weapons (base)",
+  "name": "Clubs",
+  "link": "https://bg3.wiki/wiki/Clubs",
+  "damage": "1d4 Bludgeoning",
+  "range": "1.5 m (5 ft)",
+  "properties": "Light"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Daggers",
+  "link": "https://bg3.wiki/wiki/Daggers",
+  "damage": "1d4 Piercing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Finesse, Light, Thrown"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Handaxes",
+  "link": "https://bg3.wiki/wiki/Handaxes",
+  "damage": "1d6 Slashing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Light, Thrown"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Javelins",
+  "link": "https://bg3.wiki/wiki/Javelins",
+  "damage": "1d6 Piercing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Thrown"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Light Hammers",
+  "link": "https://bg3.wiki/wiki/Light_Hammers",
+  "damage": "1d4 Bludgeoning",
+  "range": "1.5 m (5 ft)",
+  "properties": "Light, Thrown"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Maces",
+  "link": "https://bg3.wiki/wiki/Maces",
+  "damage": "1d6 Bludgeoning",
+  "range": "1.5 m (5 ft)",
+  "properties": ""
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Sickles",
+  "link": "https://bg3.wiki/wiki/Sickles",
+  "damage": "1d4 Slashing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Light"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Quarterstaves",
+  "link": "https://bg3.wiki/wiki/Quarterstaves",
+  "damage": "1d6 Bludgeoning",
+  "range": "1d8 Bludgeoning",
+  "properties": "1.5 m (5 ft)"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Spears",
+  "link": "https://bg3.wiki/wiki/Spears",
+  "damage": "1d6 Piercing",
+  "range": "1d8 Piercing",
+  "properties": "1.5 m (5 ft)"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Greatclubs",
+  "link": "https://bg3.wiki/wiki/Greatclubs",
+  "damage": "1d8 Bludgeoning",
+  "range": "1.5 m (5 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Flails",
+  "link": "https://bg3.wiki/wiki/Flails",
+  "damage": "1d8 Bludgeoning",
+  "range": "1.5 m (5 ft)",
+  "properties": ""
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Morningstars",
+  "link": "https://bg3.wiki/wiki/Morningstars",
+  "damage": "1d8 Piercing",
+  "range": "1.5 m (5 ft)",
+  "properties": ""
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Rapiers",
+  "link": "https://bg3.wiki/wiki/Rapiers",
+  "damage": "1d8 Piercing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Finesse"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Scimitars",
+  "link": "https://bg3.wiki/wiki/Scimitars",
+  "damage": "1d6 Slashing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Finesse, Light"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Shortswords",
+  "link": "https://bg3.wiki/wiki/Shortswords",
+  "damage": "1d6 Piercing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Finesse, Light"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "War Picks",
+  "link": "https://bg3.wiki/wiki/War_Picks",
+  "damage": "1d8 Piercing",
+  "range": "1.5 m (5 ft)",
+  "properties": ""
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Battleaxes",
+  "link": "https://bg3.wiki/wiki/Battleaxes",
+  "damage": "1d8 Slashing",
+  "range": "1d10 Slashing",
+  "properties": "1.5 m (5 ft)"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Longswords",
+  "link": "https://bg3.wiki/wiki/Longswords",
+  "damage": "1d8 Slashing",
+  "range": "1d10 Slashing",
+  "properties": "1.5 m (5 ft)"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Tridents",
+  "link": "https://bg3.wiki/wiki/Tridents",
+  "damage": "1d6 Piercing",
+  "range": "1d8 Piercing",
+  "properties": "1.5 m (5 ft)"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Warhammers",
+  "link": "https://bg3.wiki/wiki/Warhammers",
+  "damage": "1d8 Bludgeoning",
+  "range": "1d10 Bludgeoning",
+  "properties": "1.5 m (5 ft)"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Glaives",
+  "link": "https://bg3.wiki/wiki/Glaives",
+  "damage": "1d10 Slashing",
+  "range": "2.5 m (8 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Greataxes",
+  "link": "https://bg3.wiki/wiki/Greataxes",
+  "damage": "1d12 Slashing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Greatswords",
+  "link": "https://bg3.wiki/wiki/Greatswords",
+  "damage": "2d6 Slashing",
+  "range": "1.5 m (5 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Halberds",
+  "link": "https://bg3.wiki/wiki/Halberds",
+  "damage": "1d10 Slashing",
+  "range": "2.5 m (8 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Mauls",
+  "link": "https://bg3.wiki/wiki/Mauls",
+  "damage": "2d6 Bludgeoning",
+  "range": "1.5 m (5 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Pikes",
+  "link": "https://bg3.wiki/wiki/Pikes",
+  "damage": "1d10 Piercing",
+  "range": "2.5 m (8 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Light Crossbows",
+  "link": "https://bg3.wiki/wiki/Light_Crossbows",
+  "damage": "1d8 Piercing",
+  "range": "18 m (60 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Shortbows",
+  "link": "https://bg3.wiki/wiki/Shortbows",
+  "damage": "1d6 Piercing",
+  "range": "18 m (60 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Hand Crossbows",
+  "link": "https://bg3.wiki/wiki/Hand_Crossbows",
+  "damage": "1d6 Piercing",
+  "range": "15 m (50 ft)",
+  "properties": "Light"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Heavy Crossbows",
+  "link": "https://bg3.wiki/wiki/Heavy_Crossbows",
+  "damage": "1d10 Piercing",
+  "range": "18 m (60 ft)",
+  "properties": "Two-handed"
+ },
+ {
+  "category": "Weapons (base)",
+  "name": "Longbows",
+  "link": "https://bg3.wiki/wiki/Longbows",
+  "damage": "1d8 Piercing",
+  "range": "18 m (60 ft)",
+  "properties": "Two-handed"
+ }
+]

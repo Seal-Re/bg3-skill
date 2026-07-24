@@ -1,0 +1,21 @@
+{
+  "name": "Smite test (paladin longsword + 2nd-level smite, AC15)",
+  "_note": "Paladin-ish: 20 STR (+5), prof 3, longsword 1d8 slashing. Smite at slot 2 -> 3d8 radiant DRS on attack 1. AC15. atk+8. p_normal=0.65 p_crit=0.05. Attack1: DS 1d8+5 slashing + 3d8(13.5) radiant(DRS). EV1_slash=0.65*9.5+0.05*14=6.875. EV1_rad=0.65*13.5+0.05*27=8.775+1.35=10.125. Attack2: slash only = 6.875. Total=6.875+10.125+6.875=23.875",
+  "classes": [{"cls": "Paladin", "level": 5}],
+  "abilities": {"STR": 20, "DEX": 10, "CON": 14, "INT": 8, "WIS": 10, "CHA": 12},
+  "proficiency_bonus": 3,
+  "attack_ability": "STR",
+  "feats": [],
+  "equipped": {"main_hand": "Longsword"},
+  "active_buffs": [],
+  "target": {
+    "ac": 15, "save_bonus": {}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": [],
+    "creature_type": "humanoid"
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1,
+     "smite": {"slot_level": 2, "attack_index": 0}},
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "melee", "count": 1}
+  ]
+}

@@ -1,0 +1,170 @@
+[
+ {
+  "name": "Balduran's Giantslayer",
+  "link": "https://bg3.wiki/wiki/Balduran%27s_Giantslayer",
+  "special": "The holder of this item gains:\nGiant Form Giant Form ()\nGrow to a fearsome size. Your weapons deal an additional 1d6 damage and you gain 27 Temporary Hit Points and Advantage on Strength Ability Check and Saving throw. ( Recharge: Short rest.)\nGiantslayerOn a hit, double the damage from your Strength Ability scores. This weapon grants you Advantage Advantage on  Attack Roll against Large, Huge or Gargantuan creatures.",
+  "special_weapon_actions": "This weapon also grants the following:\nTopple the Big Folk Topple the Big Folk ()\nDeal additional damage equal to your Proficiency bonus. On a hit, Large, Huge, or Gargantuan creatures take an additional 2d6⁠Slashing⁠SlashingDamage rider as source damage and must succeed a  Strength Saving Throw or fall Prone (Condition) Prone (Condition). ( Recharge: Short rest.)"
+ },
+ {
+  "name": "Bloodthirst",
+  "link": "https://bg3.wiki/wiki/Bloodthirst",
+  "special": "The holder of this item gains:\nTrue Strike True Strike ()\nCast as a cantrip ( Recharge: Short rest.)\nBound Weapon (Condition) Bound Weapon (Condition)\nArmour Class Armour Class +1 (Off-Hand Only)\nImproved CriticalThe number you need to Attack Roll a Critical Hit while attacking is reduced by 1. This effect can stack.\nMain Hand Only\nExploit WeaknessCreatures hit with this weapon receive Vulnerability to Piercing⁠Piercing damage.\nOff-Hand Only\nTrue Strike RiposteWhen a creature misses you with a melee attack, you may retaliate and gain True Strike (Condition) True Strike (Condition).",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Caution Before the Seelie",
+  "link": "https://bg3.wiki/wiki/Caution_Before_the_Seelie",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Crimson Mischief",
+  "link": "https://bg3.wiki/wiki/Crimson_Mischief",
+  "special": "The holder of this item gains:\nPrey Upon the WeakThis weapon deals an additional 1d4⁠Piercing⁠Piercing damage against targets with 50% of their Hit Points or fewer.\nMain Hand Only\nRedvein SavageryWhen you make an attack with Advantage Advantage, the target takes an additional 7⁠Piercing⁠PiercingDamage rider as source damage.\nOff-Hand Only\nCrimson WeaponWhen you make an attack with your off-hand weapon, you can add your Ability Score Modifier to the damage of the attack.",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Devotee's Mace",
+  "link": "https://bg3.wiki/wiki/Devotee%27s_Mace",
+  "special": "The holder of this item gains:\nMain Hand Only\nHealing Incense Aura Healing Incense Aura ()\nEmanating a soothing aura, You and nearby allies regain 1d4⁠Healing⁠Healing at the start of your turn ( Recharge: Long rest.)",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Duellist's Prerogative",
+  "link": "https://bg3.wiki/wiki/Duellist%27s_Prerogative",
+  "special": "The holder of this item gains:\nChallenge to Duel Challenge to Duel ()\nChallenge an enemy to attack only you, inflicting Bleeding (Condition) Bleeding (Condition) on the target. \nElegant DuellistWhile your off-hand is empty, you score a Critical Hit when rolling a 19. Moreover, you gain an additional  Actions per turn.Withering CutOn a hit with a melee weapon, use a  Actions to deal additional Necrotic⁠Necrotic damage equal to your Proficiency Bonus.",
+  "special_weapon_actions": "This weapon also grants the following:\nDueller's Enthusiasm Dueller's Enthusiasm ()\nWhile you are not dual-wielding and your off hand is empty, you can make an additional melee attack with The Dueller. ( Recharge: Per turn.)"
+ },
+ {
+  "name": "Envoys at Table",
+  "link": "https://bg3.wiki/wiki/Envoys_at_Table",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Fake Portrait of a Noble Before His Death",
+  "link": "https://bg3.wiki/wiki/Fake_Portrait_of_a_Noble_Before_His_Death",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Gloves of Soul Catching",
+  "link": "https://bg3.wiki/wiki/Gloves_of_Soul_Catching",
+  "special": "The wearer of this item gains:\nConstitution Constitution +2, up to 20.\nSoul FistYour unarmed attacks deal an additional 1d10⁠Force⁠Force damage.Soul CatchingOnce per turn, on an unarmed hit, you regain 10⁠Healing⁠Hit points. Alternatively, you may forego healing to gain a +5 bonus on an  Attack Roll or  Saving Throw until the end of your next turn.[Soul Catching]",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Gontr Mael",
+  "link": "https://bg3.wiki/wiki/Gontr_Mael",
+  "special": "The holder of this item gains:\nCelestial Haste Celestial Haste ()\nGain Celestial Haste (Condition) Celestial Haste (Condition). ( Recharge: Long rest.)\nGontr Mael: GlowingGontr Mael: GlowingThis object shines with a glowing light in a radius of 6 m (20 ft). Toggle this to douse and rekindle the light.Promised VictoryOn a hit, possibly inflict Guiding Bolt (Condition) Guiding Bolt (Condition) upon the target.",
+  "special_weapon_actions": "This weapon also grants the following:\nBolt of Celestial Light Bolt of Celestial Light ()\nFrightened (Condition) Frightened (Condition) your target with intimidating arrows. After attacking, ranged weapon attacks made by Gontr Mael deal an additional 1d4⁠Radiant⁠Radiant damage. ( Recharge: Short rest.)"
+ },
+ {
+  "name": "Helldusk Armour",
+  "link": "https://bg3.wiki/wiki/Helldusk_Armour",
+  "special": "The wearer of this item gains:\nFly (bonus action) Fly (bonus action) ()\nBestow the ability to Fly (class action) Fly (class action) upon yourself. ( Recharge: Long rest.)\nHelldusk Armour (passive feature)You are considered Proficient with this armour while wearing it.Infernal RetributionWhen you succeed a  Saving Throw, the caster receives Burning (Orthonic) (Condition) Burning (Orthonic) (Condition) for 3 turns.Prime Aegis of FireYou have Resistance to Fire⁠Fire damage and cannot be Burning (Condition) Burning (Condition). You take 3 less damage from all sources.",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Helm of Balduran",
+  "link": "https://bg3.wiki/wiki/Helm_of_Balduran",
+  "special": "The wearer of this item gains:\nAttackers can't land Critical Hit on the wearer.\nBalduran's VitalityThe helmet heals you 2⁠Healing⁠Hit points at the beginning of every turn.Balduran's FavourYou have a +1 bonus to Armour Class Armour Class and  Saving Throw.Stun ImmunityYou can't be Stunned (Condition) Stunned (Condition).",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Markoheshkir",
+  "link": "https://bg3.wiki/wiki/Markoheshkir",
+  "special": "The holder of this item gains:\nKereska's Favour Kereska's Favour ()\nImbue yourself with elemental energy sourced from the draconic goddess, Kereska. ( Recharge: Short rest.)\nArcane Enchantment (+1)You gain a +1 bonus to Spell Save DC and Spell Attack rolls.Arcane BatteryArcane BatteryAlleviate the arcane burden of spellcasting with the power of this staff. The next spell you cast doesn't cost a Spell Slot.",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Mask of the Shapeshifter",
+  "link": "https://bg3.wiki/wiki/Mask_of_the_Shapeshifter",
+  "special": "The wearer of this item gains:\nDisguise Self Disguise Self ()\nMagically change all aspects of your appearance.",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Netherstone-Pommelled Bloodthirst",
+  "link": "https://bg3.wiki/wiki/Netherstone-Pommelled_Bloodthirst",
+  "special": "The holder of this item gains:\nTrue Strike True Strike ()\nCast as a cantrip ( Recharge: Short rest.)\nBound Weapon (Condition) Bound Weapon (Condition)\nArmour Class Armour Class +1 (Off-Hand Only)\nImproved CriticalThe number you need to Attack Roll a Critical Hit while attacking is reduced by 1. This effect can stack.\nMain Hand Only\nExploit WeaknessCreatures hit with this weapon receive Vulnerability to Piercing⁠Piercing damage.\nOff-Hand Only\nTrue Strike RiposteWhen a creature misses you with a melee attack, you may retaliate and gain True Strike (Condition) True Strike (Condition).",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Nyrulna",
+  "link": "https://bg3.wiki/wiki/Nyrulna",
+  "special": "The holder of this item gains:\nZephyr ConnectionThis weapon will return to your hand when thrown. You cannot be forced to drop the trident. When thrown, the weapon creates an explosion that deals 3d4⁠Thunder⁠ThunderDamage rider as source damage in a ⁠6 m (20 ft) blast centered on the target.Veil of the WindYou gain a +3 m (10 ft) bonus to Movement Speed and jump distance. Equipping this weapon gives you Damage Types to falling damage.Nyrulna: GlowingNyrulna: GlowingThis object shines with a glowing light in a radius of ⁠6 m (20 ft).",
+  "special_weapon_actions": "This weapon also grants the following:\nZephyr Flash Zephyr Flash ()\nRush forward, creating an air vortex that blasts foes and possibly inflicts Bleeding (Condition) Bleeding (Condition). ( Recharge: Short rest.)\nZephyr Break Zephyr Break ()\nZephyr Break imitates the effects of the spell Gust of Wind Gust of Wind while dealing thunder damage. ( Recharge: Short rest.)"
+ },
+ {
+  "name": "Orphic Hammer",
+  "link": "https://bg3.wiki/wiki/Orphic_Hammer",
+  "special": "The holder of this item gains:\nSpell ResistanceYou have Advantage Advantage on  Saving Throw against spells.",
+  "special_weapon_actions": "This weapon also grants the following:\nUnshackling Strike Unshackling Strike ()\nSmite the magical bonds keeping a creature  Restrained (status group),  Paralyzed (status group), and  Stunned (status group), freeing it."
+ },
+ {
+  "name": "Personal Portrait",
+  "link": "https://bg3.wiki/wiki/Personal_Portrait",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Scarab of Protection",
+  "link": "https://bg3.wiki/wiki/Scarab_of_Protection",
+  "special": "The wearer of this item gains:\nSpell ProtectionYou have Advantage Advantage on  Saving Throw against spells.Necromantic EvasionWhen you fail a  Saving Throw against necromancy spells or spells cast by undead foes, you can use your reaction to succeed instead.\nSpotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See Help:How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.\nRetrieved from \"https://bg3.wiki/w/index.php?title=Scarab_of_Protection&oldid=295768\"\n Special:Categories: Category:InaccessibleCategory:AmuletsCategory:Legendary items",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Selûne's Spear of Night",
+  "link": "https://bg3.wiki/wiki/Sel%C3%BBne%27s_Spear_of_Night",
+  "special": "The holder of this item gains:\nMoonbeam Moonbeam ()\nCast as a level 3 spell ( Recharge: Long rest.)\nMoonmote Moonmote ()\nIlluminate the area around you with wisps of moonish light that make movement difficult for enemies and bolster your allies' damage. ( Recharge: Long rest.)\nSelûne's Blessing (passive feature)You gain Advantage Advantage on Wisdom  Saving Throw and Perception Checks.DarkvisionDarkvisionCan see in the dark up to 12 m (40 ft).",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Shar's Spear of Evening",
+  "link": "https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening",
+  "special": "The holder of this item gains:\nShar's Darkness Shar's Darkness ()\nCast as a level 2 spell ( Recharge: Per turn.)\nShar's BlessingYou gain Advantage Advantage on  Saving Throw while Lightly or Heavily Obscured. This weapon deals an additional 1d6 damage to creatures that are Lightly or Heavily Obscured.Blind ImmunityThe wearer cannot be Blinded (Condition) Blinded (Condition).",
+  "special_weapon_actions": "This weapon also grants the following:\nEdge of Darkness Edge of Darkness ()\nCreate a cloud of Darkness while you attack. [Edge of Darkness] ( Recharge: Short rest.)"
+ },
+ {
+  "name": "Silver Sword of the Astral Plane",
+  "link": "https://bg3.wiki/wiki/Silver_Sword_of_the_Astral_Plane",
+  "special": "The holder of this item gains:\nGithborn Psionic ResistanceA githyanki holding this weapon has Advantage Advantage on Intelligence, Wisdom, and Charisma  Saving Throw, Resistance to Psychic damage, and cannot be Charmed (Condition) Charmed (Condition).Githborn Psionic Weapon (1d6)When wielded by a Githyanki this weapon deals an additional 1d6⁠Psychic⁠Psychic damage.",
+  "special_weapon_actions": "This weapon also grants the following:\nSoulbreaker Soulbreaker ()\nRend the enemy's body and soul, dealing additional Psychic⁠Psychic damage equal to your Proficiency bonus, and possibly Stunned (Condition) Stunned (Condition) them. ( Recharge: Short rest.)"
+ },
+ {
+  "name": "The Annals of Karsus",
+  "link": "https://bg3.wiki/wiki/The_Annals_of_Karsus",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "The Blood of Lathander",
+  "link": "https://bg3.wiki/wiki/The_Blood_of_Lathander",
+  "special": "The holder of this item gains:\nSunbeam Sunbeam ()\nCast as a level 6 spell ( Recharge: Long rest.)\nLathander's BlessingOnce per Long Rest, when your hit points are reduced to 0, you regain 2d6⁠Healing⁠Hit points. Allies within 9 m (30 ft) also regain 1d6⁠Healing⁠Hit points.Lathander's LightLathander's LightSheds holy light in a 6 m (20 ft) radius. In combat, Fiends and Undead standing in the light are Blinded (Condition) Blinded (Condition) if they fail a DC 14 Constitution throw.",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "The Clover",
+  "link": "https://bg3.wiki/wiki/The_Clover",
+  "special": "The holder of this item gains:\nArmour Class Armour Class +1 (Off-Hand Only)\nTrue Strike True Strike ()\nCast as a cantrip ( Recharge: Short rest.)\nOrgan RearrangerReduce the number you need to roll a Critical Hit while attacking by 1. This effect can stack. When you roll 2 damage or less, reroll the dice, taking the highest result.\nMain Hand Only\nExploit WeaknessCreatures hit with this weapon receive Vulnerability to Piercing⁠Piercing damage.\nOff-Hand Only\nTrue Strike RiposteWhen a creature misses you with a melee attack, you may retaliate and gain True Strike (Condition) True Strike (Condition).",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "The Red Knight's Final Strategem",
+  "link": "https://bg3.wiki/wiki/The_Red_Knight%27s_Final_Strategem",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "The Tharchiate Codex",
+  "link": "https://bg3.wiki/wiki/The_Tharchiate_Codex",
+  "special": "",
+  "special_weapon_actions": ""
+ },
+ {
+  "name": "Viconia's Walking Fortress",
+  "link": "https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress",
+  "special": "The wearer of this item gains:\nBulwark Rebuke Bulwark Rebuke ()\nWhen a foe hits you with a melee attack, deal it 2d4⁠Force⁠Force and possibly knock it Prone (Condition) Prone (Condition). \nReflective Shell Reflective Shell ()\nA protective shell envelops you. It reflects any projectiles targeted at you back to their point of origin. ( Recharge: Short rest.)\nWarding Bond Warding Bond ()\nWard an ally. They gain Resistances to all damage, and a +1 bonus to their Armour Class Armour Class and  Saving Throw. ( Recharge: Long rest.)\nSpellguardYou gain Advantage Advantage on  Saving Throw against spells. Spell Attack Roll against you have Disadvantage Disadvantage.",
+  "special_weapon_actions": ""
+ }
+]

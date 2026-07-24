@@ -1,0 +1,201 @@
+===== Caustic_Brine.html =====
+
+
+Caustic Brine - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Caustic Brine
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+Caustic Brine is a type of surface created by throwing or breaking a Caustic Bulb. It also appears after destroying some environmental clutter found on Nautiloid such as Brine Bulb and Brain Jar.
+
+Description
+
+A pungent odour and acidic heat rise from this peculiar liquid. Deals 1d4⁠⁠Acid damage per turn.
+
+Properties
+
+ Type: Surface
+
+ Condition: Caustic Brine 
+
+ Caustic Brine
+ Duration: Whilst on surface
+
+- Takes 1d4⁠⁠Acid damage per turn.
+
+ 
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Brine Barrel
+
+- Caustic Bulb
+
+Spells and actions:
+
+- Morphic Brine Explosion
+
+Interactions
+
+Creatures stepping on the surface suffer:
+
+- 1d4⁠⁠Acid damage (no  Saving Throw)
+
+Can be turned into a  Fire surface, which causes a harmless explosion if hit with Fire or exposed to a Burning object and / or character.
+
+Potions dropped (not thrown) on the caustic brine will shatter instantly but their effects will still remain on the ground.
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Caustic_Brine&oldid=379312"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

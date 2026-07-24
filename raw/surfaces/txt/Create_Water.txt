@@ -1,0 +1,236 @@
+===== Create_Water.html =====
+
+
+Create Water - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Create Water
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+Create Water is a level 1 transmutation spell. This spell is a variant of  Create or Destroy Water that allows spellcasters to conjure an area of water that rain from thin air and forms a water surface. Creatures standing in the area when the spell is cast will become  Wet.
+
+ Description 
+
+Call forth rain. It extinguishes exposed flames and forms a  Water surface.
+ Properties 
+
+Cost
+ Action +  Level 1 Spell Slot
+Details
+ Range: 9 m (30 ft)
+ AoE: 4 m (13 ft) Radius
+ Creates Area: Water
+
+ At higher levels 
+
+Upcasting: When the spell is cast a 2nd Level or higher, the area that you can create water increases by 2 m (7 ft) for each spell slot level above 1st.
+
+Technical details 
+
+ 
+ UID
+
+ 
+ 
+ Target_CreateWater
+
+ 
+
+ 
+ Spell flags
+
+ 
+HasSomaticComponent, HasVerbalComponent, IsSpell, RangeIgnoreVerticalThreshold
+
+ Condition: Wet 
+
+ Wet
+ Duration: 3 turns
+
+- Immune to  Burning and  Wild Magic: Burning.
+
+- Resistant to ⁠Fire damage.
+
+- Vulnerable to ⁠Lightning and ⁠Cold damage.
+
+ 
+
+ Area: Water 
+
+[[ Water
+| Water
+]]
+
+ How to learn 
+
+This spell is a variation of:
+
+Create or Destroy Water
+
+ Notes 
+
+- Any invisible characters caught in the area of effect will be revealed, with no saving throw.
+
+- The incantations for Create Water are Pluo ("Rain") and Aqua pura ("Pure water").
+
+- A hidden character that is out-of-combat can cast this spell on in-combat characters without using an action. While casting the spell will unhide you and likely force you into combat, the character who Created this water will still have an action to use in the first turn of combat, as though they hadn't cast a spell.
+
+ 
+
+External links[edit section | visual editor]
+
+-  Create water on the Forgotten Realms Wiki
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Create_Water&oldid=360058"
+
+ 
+
+Categories: 
+- Spells
+- Level 1 Spells
+- Transmutation spells
+- Spells that gain benefits at higher levels
+- Actions
+
+Hidden category: 
+- Pages with unknown areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

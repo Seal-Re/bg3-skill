@@ -1,0 +1,25 @@
+{
+  "name": "狂野术士 火法 (Markoheshkir火充能 双发火球 vs AC16/无抗)",
+  "_note": "Wild Magic Sorcerer 8. CHA 20 (+5), prof 3. Spell save DC = 8+3+5 = 16. Markoheshkir fire imbue +1 spell DC (not modeled in DC here, simplified). Fireball level 3 = 8d6 fire, DEX save half. Target DEX +2 -> p_fail=(16-2-1)/20=13/20=0.65. EV = 0.65*28 + 0.35*14 = 18.2+4.9 = 23.1. Round: 1 Fireball (action) + quickened? engine doesn't model quicken; use 1 spell.",
+  "classes": [{"cls": "Sorcerer", "level": 8}],
+  "abilities": {"STR": 8, "DEX": 14, "CON": 14, "INT": 8, "WIS": 10, "CHA": 20},
+  "proficiency_bonus": 3,
+  "attack_ability": "CHA",
+  "feats": [],
+  "equipped": {
+    "main_hand": "Markoheshkir",
+    "gloves": "Spellmight Gloves",
+    "headwear": "Birthright",
+    "ring1": "Psychic Spark",
+    "ring2": "Callous Glow Ring"
+  },
+  "active_buffs": [],
+  "target": {
+    "ac": 16, "save_bonus": {"DEX": 2}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": ["target_illuminated"],
+    "creature_type": "humanoid"
+  },
+  "round_actions": [
+    {"type": "spell", "ref": "Fireball", "upcast_level": 3, "n_targets": 1}
+  ]
+}

@@ -1,0 +1,222 @@
+===== Acid_Surface.html =====
+
+
+Acid - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Acid (surface)
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+(Redirected from Acid Surface)
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+Acid is a surface that decreases Armour Class by 2 when stepped on.
+
+Description
+
+Reduces  Armour Class by 2.
+
+Properties
+
+ Type: Surface
+
+ Condition: Acid 
+
+ Acid
+ Duration: Whilst on surface
+
+- Reduces  Armour Class by 2.
+
+ 
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Acid Barrel
+
+- Acid Vial
+
+- Arrow of Acid
+
+Spells and actions:
+
+- Acidic Regurgitation
+
+- Chromatic Orb: Acid
+
+- Corrosive Phlegm
+
+- Corrosive Strike
+
+- Melf's Acid Arrow
+
+- Ochre Sputum (acid)
+
+- Sphere of Elemental Balance: Acid
+
+Interactions
+
+- Acid surfaces created on top of  Blood surfaces will not apply the  Acid condition to creatures.
+
+Gallery[edit section | visual editor]
+
+ 
+- 
+ 
+
+ 
+An acid surface.
+
+ 
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Acid_(surface)&oldid=393042"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+

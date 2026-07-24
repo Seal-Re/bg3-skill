@@ -1,0 +1,415 @@
+
+
+Clouds - bg3.wiki
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+Ad placeholder
+
+## Clouds
+
+From bg3.wiki
+
+Jump to navigation
+Jump to search
+
+Clouds are a type of area. Clouds hang directly above the ground, as opposed to surfaces that coat the ground itself.
+
+## Properties[edit section | visual editor]
+
+Clouds generally apply their effects when a character enters their zone of influence. Beyond this, most clouds are more specific and individualized in their effects. Some clouds apply an additional effect when beginning or ending a turn within the cloud; some clouds' effects only persist while within the cloud, while others apply conditions that persist after leaving. 
+
+Clouds can be removed by 
+ Gust of Wind and 
+ Rush of the Gale Spirits.
+
+Unlike surfaces, clouds are not dippable.
+
+## Types of clouds[edit section | visual editor]
+
+Surface 
+Effects
+
+ Cloudkill 
+
+* Takes 5d8⁠
+⁠Poison damage every turn.
+
+ Crawler Mucus 
+
+* 
+ Poisons and 
+ Paralyses those within
+
+ Darkness 
+
+* 
+ Blinds those within and blocks ranged attacks in/out.
+
+ Drow Poison Cloud 
+
+* Those within may become 
+ Poisoned and fall 
+ Asleep
+
+ Electrified Steam 
+
+* Applies 
+ Wet to creatures within.
+
+* 
+ Electrocuted - Take 1d4⁠
+⁠Lightning damage per turn.
+
+ Fog 
+
+* 
+ Blinds those within and blocks ranged attacks in/out.
+
+ Haste Spores 
+
+* Grants +2 Armour Class, double movement speed and an extra Action to those within.
+
+ Ice Cloud 
+
+* Deals 10d6⁠
+⁠Cold damage to those within the cloud.
+
+ Malice 
+
+* Those within may become 
+ Poisoned and 
+ Blinded
+
+ Noxious Fumes 
+
+* Deals 1d4⁠
+⁠Poison + 2d4⁠
+⁠Poison (CON save for half) damage per turn.
+
+ Pacifying Spores 
+
+* Prevents actions, bonus actions, and reactions from those inside the cloud.
+
+ Poison Cloud 
+
+* Chance to 
+ Poisoned those within.
+
+ Potion of Greater Healing 
+
+* Recover 4d4+4⁠
+⁠Hit Points and stop 
+ Burning.
+
+ Potion of Healing 
+
+* Recover 2d4+2⁠
+⁠Hit Points and stop 
+ Burning.
+
+ Potion of Superior Healing 
+
+* Recover 8d4+8⁠
+⁠Hit Points and stop 
+ Burning.
+
+ Potion of Supreme Healing 
+
+* Recover 10d4+20⁠
+⁠Hit Points and stop 
+ Burning.
+
+ Steam Cloud 
+
+* Applies 
+ Wet to creatures within.
+
+ Stinking Cloud 
+
+* Prevents creatures within from taking Actions.
+
+ Strange Gas 
+
+* Weakens non-Gith creatures by granting them vulnerability to Bludgeoning, Piercing, and Slashing damage.
+
+* Strengthens Gith creatures by granting them resistance to Bludgeoning, Piercing, and Slashing damage.
+
+ Timmask Spores 
+
+* Chance to 
+ Befuddle creatures within.
+
+ Void 
+
+* Chance to 
+ Blind creatures within.
+
+* Characters will also take ⁠
+⁠Cold damage at the end of each turn.
+
+## See Also[edit section | visual editor]
+
+* Surfaces
+
+* 
+
+* v
+* t
+* e
+Gameplay mechanics 
+
+Turn-based 
+
+* 
+ Actions
+
+* 
+ Initiative
+
+* 
+ Movement speed
+
+* 
+ Resources
+
+Dice rolls 
+
+* 
+ Abilities
+
+* 
+ Advantage
+
+* 
+ Attacks
+
+* 
+ Concentration
+
+* 
+ Damage
+
+* Critical Hit
+
+* Mechanics
+
+* 
+ Healing
+
+* 
+ Inspiration
+
+* 
+ Saving throw
+
+Downtime 
+
+* 
+ Alchemy
+
+* 
+ Approval
+
+* 
+ Barter
+
+* 
+ Traders • Trading and item pricing
+
+* 
+ Attitude
+
+* 
+ Resting
+
+Environment 
+
+* 
+ Clouds
+
+* 
+ Difficult Terrain
+
+* 
+ Obscurity
+
+* 
+ Sight
+
+* 
+ Surfaces
+
+Items 
+
+Equipment 
+
+* 
+ Amulets
+
+* 
+ Armour
+
+* 
+ Cloaks
+
+* 
+ Clothing
+
+* 
+ Footwear
+
+* 
+ Handwear
+
+* 
+ Headwear
+
+* 
+ Light Sources
+
+* 
+ Musical Instruments
+
+* 
+ Rings
+
+* 
+ Shields
+
+* 
+ Weapons
+
+Other 
+
+* 
+ Consumables
+
+* Arrows
+
+* Coatings
+
+* Dyes
+
+* Elixirs
+
+* Grenades
+
+* Potions
+
+* Scrolls
+
+* 
+ Containers
+
+* 
+ Miscellaneous
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Clouds&oldid=248906"
+
+Category: 
+* Clouds
+
+## Navigation menu
+
+## 
+Personal tools
+
+* Not logged in
+* Talk
+* Contributions
+* Create account
+* Log in
+
+## 
+Namespaces
+
+* Page
+* Discussion
+
+English
+
+## 
+Views
+
+* Read
+* Edit page
+* Visual editor
+* View history
+
+More
+
+## Search
+
+## 
+Navigation
+
+* Main page
+* Help index
+* Learn to edit
+* Guides
+* Modding
+* Upload file
+* Discord
+* Backups
+* Payment
+
+## 
+Special
+
+* Recent changes
+* Newly added files
+* Special pages
+* Random page
+* Maintenance
+* Version
+
+## 
+Tools
+
+* What links here
+* Related changes
+* Special pages
+* Printable version
+* Permanent link
+* Page information
+* Cargo data
+
+## 
+Advertisement
+
+* About ads on bg3.wiki
+* Please report bad ads
+
+Ad placeholder
+
+* This page was last edited on 22 November 2024, at 13:00.
+
+* Content is available under CC BY-NC-SA 4.0 or CC BY-SA 4.0; please see the linked page for details.
+
+* Privacy policy
+
+* About bg3.wiki
+
+* Copyrights
+
+* Mobile view
+
+* 
+

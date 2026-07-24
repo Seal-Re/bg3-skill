@@ -1,0 +1,26 @@
+{
+  "name": "回血流坦克: 散打武僧6/战士4/蛮2 (徒手连击 vs AC15)",
+  "_note": "Tavern Brawler + Gloves of Soul Catching. 20 DEX (+5), 16 WIS (+3), prof 3. Unarmed die 1d6 (monk6). attack_ability DEX. vs AC15 atk+8 (prof3+dex5). p_normal=0.65 p_crit=0.05. Per-attack DS = 1d6(3.5)+5 dex bludgeoning. Riders: Tavern Brawler(+5 str... but DEX monk uses DEX; Tavern adds str_mod which for DEX monk is low) + Gloves of Soul Catching(+1d10 force DR). Round: 2 attacks (Extra Attack) + Flurry of Blows (2 bonus unarmed via ki). Count=4 unarmed attacks. Sneak: none.",
+  "classes": [{"cls": "Monk", "level": 6}, {"cls": "Fighter", "level": 4}, {"cls": "Barbarian", "level": 2}],
+  "abilities": {"STR": 10, "DEX": 20, "CON": 16, "INT": 8, "WIS": 16, "CHA": 8},
+  "proficiency_bonus": 3,
+  "attack_ability": "DEX",
+  "feats": ["Tavern Brawler"],
+  "equipped": {
+    "main_hand": null,
+    "gloves": "Gloves of Soul Catching",
+    "ring1": "Ring of Regeneration",
+    "ring2": "Ring of Protection",
+    "armor": "Armour of Persistence",
+    "cloak": "Cloak of Displacement"
+  },
+  "active_buffs": [],
+  "target": {
+    "ac": 15, "save_bonus": {}, "resistances": [], "immunities": [],
+    "vulnerabilities": [], "conditions": [], "flags": []
+  },
+  "round_actions": [
+    {"type": "attack", "weapon": "main_hand", "attack_kind": "unarmed", "count": 4,
+     "_note": "2 main attacks (Extra Attack) + 2 Flurry of Blows (ki), all unarmed"}
+  ]
+}

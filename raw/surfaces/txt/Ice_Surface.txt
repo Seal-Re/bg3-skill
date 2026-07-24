@@ -1,0 +1,283 @@
+===== Ice_Surface.html =====
+
+
+Ice - bg3.wiki
+
+	
+	
+ 
+
+ 
+Ad placeholder
+
+ 
+
+ 
+
+	
+
+	
+
+	
+Ice (surface)
+
+	
+
+ 
+From bg3.wiki
+
+ 
+
+(Redirected from Ice Surface)
+
+ 
+
+ 
+ 
+
+ Jump to navigation
+ Jump to search
+ 
+
+This article is about the slippery ice surface. For other uses, see Ice (disambiguation). 
+
+Ice is a type of area. Created in numerous ways, it can knock  Prone anyone who travels over it.
+
+Description
+
+Difficult terrain - movement speed is halved and creatures may fall Prone.
+
+Properties
+
+ Type: Surface
+
+ Condition: Prone 
+
+ Prone
+ Duration: 1 turn
+
+ DEX Save (Spell save DC)
+
+- Can't move or take  Actions,  Bonus Actions, or  Reactions, and has  Disadvantage on Strength and Dexterity  Saving Throws.
+
+- Attacks against a Prone creature have  Advantage if they're made within 3 m (10 ft) of the creature.
+
+- A Prone creature must spend half its  Movement Speed to stand up.
+
+- Falling Prone immediately ends Concentration.
+
+- If a creatures falls Prone on its turn, the turn immediately ends.
+
+ 
+
+ Condition: Difficult Terrain 
+
+ Difficult Terrain
+ Duration: Whilst on surface
+
+- Movement Speed halved
+
+ 
+
+Creation
+
+This area can be created by the following:
+
+Items:
+
+- Snowburst Ring
+
+- Arrow of Ice
+
+Spells and actions:
+
+- Blade of Rime
+
+- Chromatic Orb: Cold
+
+- Death Burst (Cold)
+
+- Explosive Icicle
+
+- Ice Knife
+
+- Ice Storm
+
+- Icy Regurgitation
+
+- Magic Allergy: Ice Bloom
+
+- Otiluke's Freezing Sphere (Launch)
+
+- Sleet Storm
+
+- Sphere of Elemental Balance: Cold
+
+Interactions
+
+- Ice can be formed when many "wet" surfaces are exposed to ⁠Cold damage. Ice formed this way lasts for 2 turns and melts into water afterwards. These surfaces include:
+
+-  Blood
+
+-  Water
+
+-  Alcohol
+
+-  Acid
+
+-  Simple Toxin and other coatings
+
+- Ice melts into  Water when exposed to ⁠Fire damage.
+
+- Ice surfaces created (by any method) on top of existing surfaces behave differently from those made on normal ground. Ice surfaces on normal ground instantly trigger a saving throw to fall Prone on creation, while those made on other surfaces do not.
+
+-  Blood surfaces are produced by most instances of physical damage, so to ensure that creatures make an initial save to fall Prone when creating an ice surface beneath them, avoid dealing physical damage.
+
+Notes
+
+- When an ice surface is made through converting another surface with ⁠Cold damage or by the  Snowburst Ring, it uses the attacker's spell save DC (i.e., the spell save DC of their newest class). When created by a spell, it uses the spell save DC of the class to which the spell belongs (i.e., Intelligence-based spells use Intelligence for the spell save DC). The exception is  Sleet Storm, which always uses the spell save DC of the caster's newest class.
+
+- A creature slipping on an ice surface attributes the source of the Prone condition to the character that formed the ice surface. This can trigger the  Boots of Stormy Clamour and similar effects.
+
+- The  Arrow of Ice uses a fixed DC 12 save to avoid becoming Prone for any creature in range of the initial hit. This is a different save from the Dexterity save of the ice surface left behind afterwards, which behaves as a non-spell-created ice surface and uses the spell save DC of the attacker's newest class.
+
+- If a creature succeeds on the saving throw to fall Prone, it can walk up to 4 m (13 ft) before triggering the next saving throw.
+
+- If an ice surface is created on top of another surface, the first saving throw is only triggered after more than 1 m (3 ft) of movement.
+
+Gallery[edit section | visual editor]
+
+ 
+- 
+ 
+
+ 
+An ice surface on a grassy, paved path at dusk.
+
+ 
+ 
+- 
+ 
+
+ 
+An ice surface as seen in the prologue.
+
+ 
+
+Spotted an issue with this page? Leave a comment! Note that your IP address will be publicly logged unless you create an account. You can also edit the page to fix the issue. See How to Contribute to get started, and maybe join our Discord so we can coordinate our efforts.
+
+Retrieved from "https://bg3.wiki/w/index.php?title=Ice_(surface)&oldid=371592"
+
+ 
+
+Categories: 
+- Surfaces
+- Areas
+
+	
+
+	
+Navigation menu
+
+	
+
+ 
+
+- 
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+- 
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+- 
+- 
+- 
+
+ 
+
+ 
+
+	
+Search
+
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+ 
+	
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
