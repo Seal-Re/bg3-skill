@@ -1,14 +1,11 @@
-# 博德之门3 调研成果索引
-
-> 本目录完成"轮次提示词.txt"中两项任务：(1) 收集 BG3 全部流派 BD（>30 种）；(2) 收集 BG3 装备及其效果，尽可能全面。
-> 调研先按"全面性与真实性方案"确定路径，再执行数据采集。
+# 博德之门3 索引
 
 > 本仓库已封装为 Claude Code **project skill**（`.claude/skills/bg3/`）。在本仓库目录下启动 Claude Code，问任何 BG3 机制/伤害问题时，agent 会自动加载该 skill：用本地 bg3.wiki 数据回答，并用 `engine/` 伤害期望值引擎算出可验证数值（而非凭记忆）。也可手动 `/bg3` 调用。skill 入口 `SKILL.md`（55 行常驻），详细资料在 `.claude/skills/bg3/reference/` 按需加载。
 
-## 一、调研方法（先搜索方案路径，再执行）
+## 一、调研方法
 
 ### 真实性方案
-- **黄金标准源**：[bg3.wiki](https://bg3.wiki)（社区维护、数值与游戏内一致、标注来源版本）。所有**机制数值**（职业特性、专长、装备伤害/附魔/效果）均取自该 Wiki 原始数据页，不做二次转述。
+- **标准源**：[bg3.wiki](https://bg3.wiki)（社区维护、数值与游戏内一致、标注来源版本）。所有**机制数值**（职业特性、专长、装备伤害/附魔/效果）均取自该 Wiki 原始数据页，不做二次转述。
 - **交叉核对**：传奇物品逐条抓取其独立页面"Special / Special weapon actions"段落，保留全文效果；常规装备逐条保留 bg3.wiki 表格中的"Special"列原文。
 - **社区源仅用于"流派命名与配点思路"**（Reddit r/BG3Builds、WolfheartFPS、Prestige Please），不作为数值依据，避免攻略过时/失真。
 
@@ -17,7 +14,7 @@
 - **装备**：按 9 大类目（武器/护甲/盾/项链/戒指/披风/头/手/脚）全量抓取 Wiki 类目页；武器额外抓取 14 个子类型页取具名武器；传奇物品抓取全部 28 件独立页面取全文效果。
 - **可追溯**：每个 Build 推荐的核心装备均可在装备数据集中按名检索，做到"流派—装备"闭环。
 
-### 执行路径（实际操作）
+### 执行路径
 1. `curl` 抓取 bg3.wiki 的 Equipment / Weapon / Armour / Shields / Amulets / Rings / Cloaks / Headwear / Handwear / Footwear 页 + Legendary 页 + 14 个武器子类型页 + 28 个传奇物品页 + Classes/Feats 页。
 2. Python 正则解析 HTML 表格 → 结构化 JSON。
 3. 人工撰写流派 BD（机制核对 Wiki，配点综合社区共识）。
